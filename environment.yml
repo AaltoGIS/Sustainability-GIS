@@ -1,0 +1,16 @@
+name: sds
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - sphinx
+  - IPython
+  - ipykernel
+  - jupyter-sphinx
+  - jupyter_client
+  - pip
+  - pip:
+      - sphinx-book-theme
+      - myst-nb
