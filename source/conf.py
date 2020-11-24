@@ -28,6 +28,12 @@ author = 'Henrikki Tenkanen'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.mathjax',
+    'sphinx.ext.todo',
+    'IPython.sphinxext.ipython_console_highlighting',
+    'IPython.sphinxext.ipython_directive',
+    'myst_nb',
+    'jupyter_sphinx',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -41,12 +47,34 @@ exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
 
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_book_theme'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+html_title = ""
+
+html_theme_options = {
+    #"external_links": [],
+    "repository_url": "https://github.com/AaltoGIS/SDS-Sustainability/",
+    "repository_branch": "master",
+    "path_to_docs": "source/",
+    #"twitter_url": "https://twitter.com/pythongis",
+    #"google_analytics_id": "UA-159257488-1",
+    "use_edit_page_button": True,
+    "use_repository_button": True,
+    "launch_buttons": {
+        "binderhub_url": "https://mybinder.org",
+        "thebe": False,
+        "notebook_interface": "jupyterlab",
+    "collapse_navigation" : False
+    },
+}
