@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SDS-Sustainability'
-copyright = '2020, Henrikki Tenkanen'
+copyright = '2020, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
 author = 'Henrikki Tenkanen'
 
 
