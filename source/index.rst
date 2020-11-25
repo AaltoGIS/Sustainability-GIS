@@ -1,21 +1,36 @@
 Spatial Data Science for Sustainable Development 2021
 =====================================================
 
-**Spatial data science for sustainable development** course introduces various spatial data science methods
-which are applied to different sustainability topics/questions.
-The course covers techniques and modeling approaches for vector and raster data formats as well as for data presented using networks.
+**Spatial data science for sustainable development** course introduces different spatial data science methods
+that are applied to different sustainability topics/questions.
 
 After completing this course, you should:
+
 - understand and deepen your knowledge of a range of modern spatial data science (SDS) techniques and methodologies
 - be able to apply SDS methodologies in practice to a range of sustainability/global change related topics with Python programming language
-- have skills and understanding how to retrieve, handle and analyze modern big geospatial data in different formats
+- have skills and understanding how to retrieve, handle and analyze modern big geospatial data in different formats.
 
-.. admonition:: Interactive contents
+**Prerequirements**:
 
-    Each lesson in this course can be turned into an interactive programming session in the browser!
-    You can find buttons for activating the python environment using `Thebe <https://thebe.readthedocs.io/en/latest/>`__
-    or `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson. Students at Finnish
-    higher education institutions are encourage to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
+This is an advanced course. You should have Python programming skills and know the basics of GIS before taking this course.
+
+.. admonition:: Help improving the materials
+
+    **This is version 1.**
+
+    The course is given for the very first time in 2021, meaning that the content of the course is likely to change and
+    improve after each time the course is given (all versions will be available). By being a fully open
+    educational resource, **you can also help making the course better**.
+    If you find any errors, typos, or other problems, please help, by suggesting an edit in GitHub. You can do this easily by clicking
+    ``suggest edit`` under the GitHub icon located at
+    the top-right on each page:
+
+    .. image:: img/suggest_edit.png
+       :width: 130px
+
+    If you have good ideas what should be taught, or what methods, interesting datasets or literature should be introduced
+    during the course, you can suggest and bring your ideas forward by `raising an issue in GitHub <https://github.com/AaltoGIS/Sustainability-GIS/issues/new>`__.
+
 
 Course format
 -------------
@@ -35,6 +50,13 @@ completed individually and must clearly reflect your own work (in short, don’t
     `Master's Programme in Geoinformatics at Aalto University <https://www.aalto.fi/en/study-options/masters-programme-in-geoinformatics>`__
     under the course code ``GIS-E4040``.
 
+.. admonition:: Interactive contents
+
+    Each lesson in this course can be turned into an interactive programming session in the browser!
+    You can find buttons for activating the python environment using `Thebe <https://thebe.readthedocs.io/en/latest/>`__
+    or `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson. Students at Finnish
+    higher education institutions are encourage to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
+
 .. admonition:: Online teaching
 
     Please note that the course is organized completely online during the 2021 Spring semester.
@@ -45,38 +67,55 @@ Program
 -------
 
 The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 11th of January 2021.
-Each week covers selected SDS methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
+Each week covers selected spatial data science (SDS) methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
 Topics per week are listed below. Please note that this web page is updated each week before the lesson:
 
-+----------------+---------------------------------+-----------------------------+
-| Week           | SDS themes                      | SDG themes                  |
-+================+=================================+=============================+
-| **1**          | - Introduction to spatial data  | - What is sustainability?   |
-|                | science                         | - What are Sustainable      |
-|                | - course practicalities         | Development Goals (SDGs)?   |
-|                |                                 | - How SDS relates to SDGs?  |
-+----------------+---------------------------------+-----------------------------+
-| **2**          |                                 |                             |
-|                |                                 |                             |
-|                |                                 |                             |
-|                |                                 |                             |
-+----------------+---------------------------------+-----------------------------+
-| **3**          |                                 |                             |
-|                |                                 |                             |
-|                |                                 |                             |
-+----------------+---------------------------------+-----------------------------+
-| **4**          |                                 |                             |
-|                |                                 |                             |
-|                |                                 |                             |
-+----------------+---------------------------------+-----------------------------+
-| **5**          |                                 |                             |
-|                |                                 |                             |
-|                |                                 |                             |
-+----------------+---------------------------------+-----------------------------+
-| **6**          |                                 |                             |
-|                |                                 |                             |
-|                |                                 |                             |
-+----------------+---------------------------------+-----------------------------+
+.. list-table::
+    :widths: 1 6 8
+    :header-rows: 1
+    :stub-columns: 1
+    :align: left
+
+    * - Week
+      - SDS themes
+      - SDG themes
+    * - 1
+      - - Introduction to spatial data science
+        - Course practicalities
+      - - Planetary boundaries, the great acceleration, anthropocene, planetary accounting etc.
+        - What are Sustainable Development Goals (SDGs) and how they are measured?
+        - The role of SDS in sustainability science?
+    * - 2
+      - - Spatial network analysis
+        - 2-step floating catchment assessment (2SFCA)
+      - - SDG 3, 10: Health and well being & Reduced inequalities
+        - Health accessibility
+        - Spatial inequality
+    * - 3
+      - - Mobility analytics
+        - Trajectory data mining
+        - Spatial-interaction models
+      - - SDG 11, 13: Sustainable cities and communities & Climate action
+        - Transport-related carbon emission quantification
+        - Commute vs long-distance travel
+    * - 4
+      - - Spatial optimization - Location allocation
+        - Spatial regression
+      - - SDG 7-8: Affordable and clean energy & Decent work and economic growth
+    * - 5
+      - - Agent based modelling
+        - Simulation
+        - Spatial risk management
+      - - SDG 3: Health and well being
+        - Covid-19
+    * - 6
+      - - Spatial conservation prioritization
+        - Zonation
+      - - SDG 14-15: Life on Land, Life below water
+        - Nature conservation
+        - Biodiversity crisis
+
+
 
 |
 
