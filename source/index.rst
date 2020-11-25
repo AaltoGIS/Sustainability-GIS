@@ -1,13 +1,13 @@
 .. figure:: img/sustainability-sds-banner.jpg
 
-**Spatial data science for sustainable development** course introduces various spatial data science methods
-that are applied to selected sustainability topics/questions. The course is inspired by the United Nation's
+**Spatial data science for sustainable development** course introduces spatial data science methods
+that can be applied to study and model sustainability related questions. The course is inspired by the United Nation's
 `2030 Agenda for Sustainable Development <https://sdgs.un.org/goals>`__
-as well as the `Global Sustainable Development Report <https://sustainabledevelopment.un.org/content/documents/24797GSDR_report_2019.pdf>`__,
-and numerous scientific articles that have investigated sustainability related problems through the lense of spatial analytics.
-The course aims to provide a bridge between ``sustainability`` and ``spatial data science``,
-that provides various useful methodological approaches to understand, model and quantify different sustainability
-related phenomena.
+and the `Global Sustainable Development Report <https://sustainabledevelopment.un.org/content/documents/24797GSDR_report_2019.pdf>`__,
+as well as numerous scientific articles that have investigated sustainability related problems through the lense of geospatial analytics.
+``Spatial data science`` provides various methodological approaches that are useful to understand, model and quantify different
+sustainability related phenomena. Both sustainability and spatial data science are enormously broad fields of research,
+thus it is possible to only scratch the surface from both of these worlds during this course.
 
 After completing this course, you should:
 
