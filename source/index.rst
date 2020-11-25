@@ -97,6 +97,7 @@ Topics per week are listed below. Please note that this web page is updated each
         - The role of SDS in sustainability science?
     * - 2
       - - Spatial network analysis
+        - Spatio-temporal accessibility modelling
         - 2-step floating catchment assessment (2SFCA)
       - - SDG 3 and 10
         - Human well being and capabilities
