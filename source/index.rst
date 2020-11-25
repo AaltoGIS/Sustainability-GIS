@@ -1,7 +1,13 @@
 .. figure:: img/sustainability-sds-banner.jpg
 
-**Spatial data science for sustainable development** course introduces different spatial data science methods
-that are applied to different sustainability topics/questions.
+**Spatial data science for sustainable development** course introduces various spatial data science methods
+that are applied to selected sustainability topics/questions. The course is inspired by the United Nation's
+`2030 Agenda for Sustainable Development <https://sdgs.un.org/goals>`__
+as well as the `Global Sustainable Development Report <https://sustainabledevelopment.un.org/content/documents/24797GSDR_report_2019.pdf>`__,
+and numerous scientific articles that have investigated sustainability related problems through the lense of spatial analytics.
+The course aims to provide a bridge between ``sustainability`` and ``spatial data science``,
+that provides various useful methodological approaches to understand, model and quantify different sustainability
+related phenomena.
 
 After completing this course, you should:
 
@@ -87,13 +93,13 @@ Topics per week are listed below. Please note that this web page is updated each
       - - Introduction to spatial data science
         - Course practicalities
       - - Planetary boundaries, the great acceleration, anthropocene, planetary accounting etc.
-        - What are Sustainable Development Goals (SDGs) and how they are measured?
+        - What are Sustainable Development Goals (SDGs)? Sustainability transformations?
         - The role of SDS in sustainability science?
-        - Humanitarian GIS
     * - 2
       - - Spatial network analysis
         - 2-step floating catchment assessment (2SFCA)
-      - - SDG 3, 10: Health and well being & Reduced inequalities
+      - - SDG 3 and 10
+        - Human well being and capabilities
         - Health accessibility
         - Spatial inequality
     * - 3
@@ -119,8 +125,6 @@ Topics per week are listed below. Please note that this web page is updated each
       - - SDG 14-15: Life on Land, Life below water
         - Nature conservation
         - Biodiversity crisis
-
-
 
 |
 
