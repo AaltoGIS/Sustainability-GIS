@@ -9,9 +9,14 @@ After completing this course, you should:
 - be able to apply SDS methodologies in practice to a range of sustainability/global change related topics with Python programming language
 - have skills and understanding how to retrieve, handle and analyze modern big geospatial data in different formats.
 
-**Prerequirements**:
+**Prerequirements**
 
-This is an advanced course. You should have Python programming skills and know the basics of GIS before taking this course.
+Before taking this course, it is required to know the basics of Python programming as well as GIS.
+If you are new to Python, or would like to refresh your Python skills, we recommend to start with an online
+and open access course called Geo-Python which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
+If you need to refresh your Python GIS skills, we recommend starting with a course Automating GIS-processes available
+at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses include tutorials, videos and exercises.
+
 
 .. admonition:: Help improving the materials
 
