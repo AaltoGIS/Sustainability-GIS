@@ -85,6 +85,7 @@ Topics per week are listed below. Please note that this web page is updated each
       - - Planetary boundaries, the great acceleration, anthropocene, planetary accounting etc.
         - What are Sustainable Development Goals (SDGs) and how they are measured?
         - The role of SDS in sustainability science?
+        - Humanitarian GIS
     * - 2
       - - Spatial network analysis
         - 2-step floating catchment assessment (2SFCA)
