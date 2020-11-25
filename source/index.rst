@@ -67,8 +67,8 @@ completed individually and must clearly reflect your own work (in short, don’t
     Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes.
 
 
-Program
--------
+Program (tentative)
+-------------------
 
 The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 11th of January 2021.
 Each week covers selected spatial data science (SDS) methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
