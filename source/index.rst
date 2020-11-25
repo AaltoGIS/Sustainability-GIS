@@ -45,8 +45,40 @@ Program
 -------
 
 The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 11th of January 2021.
+Each week covers selected SDS methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
 Topics per week are listed below. Please note that this web page is updated each week before the lesson:
 
++----------------+---------------------------------+-----------------------------+
+| Week           | SDS themes                      | SDG themes                  |
++================+=================================+=============================+
+| **1**          | - Introduction to spatial data  | - What is sustainability?   |
+|                | science                         | - What are Sustainable      |
+|                | - course practicalities         | Development Goals (SDGs)?   |
+|                |                                 | - How SDS relates to SDGs?  |
++----------------+---------------------------------+-----------------------------+
+| **2**          |                                 |                             |
+|                |                                 |                             |
+|                |                                 |                             |
+|                |                                 |                             |
++----------------+---------------------------------+-----------------------------+
+| **3**          |                                 |                             |
+|                |                                 |                             |
+|                |                                 |                             |
++----------------+---------------------------------+-----------------------------+
+| **4**          |                                 |                             |
+|                |                                 |                             |
+|                |                                 |                             |
++----------------+---------------------------------+-----------------------------+
+| **5**          |                                 |                             |
+|                |                                 |                             |
+|                |                                 |                             |
++----------------+---------------------------------+-----------------------------+
+| **6**          |                                 |                             |
+|                |                                 |                             |
+|                |                                 |                             |
++----------------+---------------------------------+-----------------------------+
+
+|
 
 
 .. toctree::
