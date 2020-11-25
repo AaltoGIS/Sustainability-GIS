@@ -1,5 +1,4 @@
-Spatial Data Science for Sustainable Development 2021
-=====================================================
+.. figure:: img/sustainability-sds-banner.jpg
 
 **Spatial data science for sustainable development** course introduces different spatial data science methods
 that are applied to different sustainability topics/questions.
