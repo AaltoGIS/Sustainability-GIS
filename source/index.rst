@@ -9,7 +9,7 @@ as well as numerous scientific articles that have investigated sustainability re
 ``sustainability`` related phenomena. Both sustainability and spatial data science are enormous fields on their own,
 hence it is only possible to scratch the surface of both of these worlds. The selected themes are also biased towards topics
 that the authors are familiar with. Thus, many important topics cannot be covered during the course. However, you can influence
-the future contents (!), see below.
+the future contents, see below.
 
 After completing this course, you should:
 
@@ -65,7 +65,7 @@ completed individually and must clearly reflect your own work (in short, don’t
 
 .. admonition:: Interactive contents
 
-    Each lesson in this course can be turned into an interactive programming session in the browser!
+    Each lesson in this course can be turned into an interactive programming session in the browser.
     You can find buttons for activating the python environment using `Thebe <https://thebe.readthedocs.io/en/latest/>`__
     or `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson. Students at Finnish
     higher education institutions are encourage to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
