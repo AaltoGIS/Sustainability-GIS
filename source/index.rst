@@ -40,6 +40,7 @@ at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses inc
     .. image:: img/suggest_edit.png
        :width: 130px
 
+    |
     If you have good ideas what should be taught, or what methods, interesting datasets or literature should be introduced
     during the course, you can suggest and bring your ideas forward by `raising an issue in GitHub <https://github.com/AaltoGIS/Sustainability-GIS/issues/new>`__.
 
@@ -132,7 +133,18 @@ Topics per week are listed below. Please note that this web page is updated each
 |
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Contents
+--------
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Course information
+
+   course-info/course-info
+   course-info/grading
+   course-info/learning-goals
+   course-info/course-environment-components
+   course-info/installing-miniconda
+   course-info/create-python-gis-env
+   course-info/resources
+   course-info/License-terms
