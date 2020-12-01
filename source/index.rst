@@ -1,3 +1,7 @@
+.. warning::
+
+    THIS PAGE IS STILL UNDER CONSTRUCTION! Anything and everything may still change.
+
 .. figure:: img/sustainability-sds-banner.jpg
 
 **Spatial data science for sustainable development** course introduces geographical and computational analysis approaches
