@@ -12,14 +12,19 @@ as well as numerous scientific articles that have investigated sustainability re
 **Spatial data science** provides various methodologies that are useful to understand, model and quantify different
 sustainability related phenomena. Both sustainability and spatial data science are enormous fields on their own,
 hence it is only possible to scratch the surface of both of these worlds. The selected themes are also biased towards topics
-that the authors are familiar with. Thus, many important topics cannot be covered during the course. However, you can influence
-the future contents, see below.
+that the authors are familiar with. Thus, many important topics cannot be covered during the course.
 
 After completing this course, you should:
 
 - understand and deepen your knowledge of a range of modern spatial data science (SDS) techniques and methodologies
 - be able to apply SDS methodologies in practice to a range of sustainability/global change related topics with Python programming language
 - have skills and understanding how to retrieve, handle and analyze modern big geospatial data in different formats.
+
+
+.. figure:: img/course-idea.png
+    :width: 80%
+
+    Two main components of the course: Spatial Data Science & Sustainable Development.
 
 **Prerequirements**
 
@@ -45,7 +50,7 @@ at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses inc
        :width: 130px
 
     |
-    If you have good ideas what should be taught, or what methods, interesting datasets or literature should be introduced
+    If you have good ideas about what should be taught, i.e. what methods, interesting datasets or literature should be introduced
     during the course, you can suggest and bring your ideas forward by `raising an issue in GitHub <https://github.com/AaltoGIS/Sustainability-GIS/issues/new>`__.
 
 
