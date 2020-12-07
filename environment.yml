@@ -1,16 +1,30 @@
-name: sds
+name: geo
 
 channels:
   - conda-forge
 
 dependencies:
   - python=3.8
-  - sphinx
-  - IPython
-  - ipykernel
-  - jupyter-sphinx
-  - jupyter_client
-  - pip
-  - pip:
-      - sphinx-book-theme
-      - myst-nb
+  - pandas
+  - geopandas
+  - matplotlib
+  - pysal
+  - mapclassify
+  - scipy
+  - scikit-learn
+  - geojson
+  - rasterio
+  - rasterstats
+  - contextily
+  - folium
+  - mplleaflet
+  - networkx
+  - osmnx
+  - pandana
+  - pyrosm
+  - python-igraph
+  - momepy
+  - movingpandas
+  - scikit-mobility
+  - jupyterlab
+  - jupyterlab-git
