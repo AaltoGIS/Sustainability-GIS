@@ -8,7 +8,7 @@ as well as numerous scientific articles that have investigated sustainability re
 **Spatial data science** provides various methodologies that are useful to understand, model and quantify different
 sustainability related phenomena. Both sustainability and spatial data science are enormous fields on their own,
 hence it is only possible to scratch the surface of both of these worlds. The selected themes are also biased towards topics
-that the authors are familiar with. Thus, many important topics cannot be covered during the course.
+that the authors are familiar with. Due to these reasons, unfortunately, many important topics cannot be covered during the course.
 
 After completing this course, you should:
 
