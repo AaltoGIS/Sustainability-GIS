@@ -99,7 +99,7 @@ Main steps for creating and using a conda environment:
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
-We have prepared a ready-made environment file for this course (called ``environment.yml``). You can download it from ``here`` (ADD LINK).
+We have prepared a ready-made environment file for this course (called ``environment.yml``). You can  `DOWNLOAD IT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 The commands work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
