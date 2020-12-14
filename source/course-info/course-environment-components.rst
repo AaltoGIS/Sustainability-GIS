@@ -13,7 +13,7 @@ During this course, we will use different tools and applications for programming
 
 JupyterLab
 ------------
-`JupyerLab <https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>`__ is an open-source web-based user interface for doing data science.
+`JupyterLab <https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>`__ is an open-source web-based user interface for doing data science.
 The JupyterLab interface consists of different components such as a file browser, terminal, image viewer, console, text editor, etc.
 
 **Jupyter Notebooks** (filename extension ``.ipynb``) are documents inside the JupyterLab environment which contain computer code, and rich text elements (figures, links, etc.).
@@ -141,7 +141,7 @@ Voting and polling
 ------------------
 
 During the lectures we will ask you questions by using an easy-to-use polling-system and show you the results in real-time.
-You can access the polling system of our course from ``TODO``
+You can access the polling system of our course from `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
 
 .. note::
 
@@ -153,7 +153,7 @@ Slack
 
 During the course we will use actively an application called `Slack <http://slack.com>`__ for discussion and
 questions about the lessons and exercises. All enrolled students have received an invite link to the `AaltoSDS2021` workspace at the start of the course.
-:doc:`Read more about Slack  <slack-usage>`.
+:doc:`If Slack is new to you, check Slack basic usage instructions <slack-usage>`.
 
 Zoom
 ------

@@ -1,7 +1,3 @@
-.. warning::
-
-    THIS PAGE IS STILL UNDER CONSTRUCTION! Anything and everything may still change.
-
 .. figure:: img/sustainability-sds-banner.jpg
 
 **Spatial data science for sustainable development** course introduces geographical and computational analysis approaches
@@ -85,8 +81,8 @@ completed individually and must clearly reflect your own work (in short, don’t
     Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes.
 
 
-Program (tentative)
--------------------
+Program
+-------
 
 The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 11th of January 2021.
 Each week covers selected spatial data science (SDS) methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
@@ -123,8 +119,8 @@ Topics per week are listed below. Please note that this web page is updated each
         - Transport-related carbon emission quantification
         - Commute vs long-distance travel
     * - 4
-      - - Spatial optimization - Location allocation
-        - Spatial regression
+      - - Spatial regression
+        - Spatial optimization - Location allocation
       - - SDG 7-8: Affordable and clean energy & Decent work and economic growth
     * - 5
       - - Agent based modelling
@@ -133,7 +129,8 @@ Topics per week are listed below. Please note that this web page is updated each
       - - SDG 3: Health and well being
         - Covid-19
     * - 6
-      - - Spatial conservation prioritization
+      - - Spatial prioritization
+        - Raster analysis
         - Zonation
       - - SDG 14-15: Life on Land, Life below water
         - Nature conservation
