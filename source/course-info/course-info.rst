@@ -3,7 +3,7 @@ General info
 
 .. admonition:: Contact teaching for Aalto University students
 
-    Please note that access to zoom, slack and CSC notebooks is only available for students in Finnish higher education institutes.
+    Please note that access to zoom, Slack and CSC notebooks is only available for students in Finnish higher education institutes.
 
 
 Course meetings in teaching period III
@@ -11,6 +11,8 @@ Course meetings in teaching period III
 
 - Lessons on Mondays 12:15-16:00
 - Work sessions on Thursdays 12:15-16:00 (UTC+2)
+
+You can find the `Zoom link from MyCourses <https://mycourses.aalto.fi/course/view.php?id=30510>`__ (requires login, only accessible to course students).
 
 Instructors
 -----------
