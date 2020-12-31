@@ -154,3 +154,13 @@ Contents
    course-info/create-python-gis-env
    course-info/resources
    course-info/License-terms
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 1
+
+   lessons/L1/introduction
+   lessons/L1/intro-to-python-geostack.ipynb
+   lessons/L1/literature
+
