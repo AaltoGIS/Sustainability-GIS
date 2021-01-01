@@ -70,7 +70,7 @@ html_theme_options = {
     "repository_branch": "master",
     "path_to_docs": "source/",
     #"twitter_url": "https://twitter.com/pythongis",
-    #"google_analytics_id": "UA-159257488-1",
+    "google_analytics_id": "G-H16NST64YZ",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
