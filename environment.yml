@@ -28,3 +28,4 @@ dependencies:
   - scikit-mobility
   - jupyterlab
   - jupyterlab-git
+  - earthpy
