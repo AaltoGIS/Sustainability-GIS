@@ -15,6 +15,7 @@ dependencies:
   - geojson
   - rasterio
   - rasterstats
+  - xarray
   - contextily
   - folium
   - mplleaflet
@@ -28,3 +29,17 @@ dependencies:
   - scikit-mobility
   - jupyterlab
   - jupyterlab-git
+  - earthpy
+  - simpy
+  - tqdm
+  - pyarrow
+  - vaex
+  - vaex-arrow
+  - mesa
+  - dash
+  - plotly_express
+  - datashader
+  - bokeh
+  - hvplot
+  - geoplot
+  - geopy
