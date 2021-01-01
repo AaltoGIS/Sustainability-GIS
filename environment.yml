@@ -42,3 +42,4 @@ dependencies:
   - bokeh
   - hvplot
   - geoplot
+  - geopy
