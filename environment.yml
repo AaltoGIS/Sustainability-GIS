@@ -30,7 +30,6 @@ dependencies:
   - jupyterlab
   - jupyterlab-git
   - earthpy
-  - simpy
   - tqdm
   - pyarrow
   - vaex
@@ -43,3 +42,6 @@ dependencies:
   - hvplot
   - geoplot
   - geopy
+  - pip
+  - pip:
+      - simpy
