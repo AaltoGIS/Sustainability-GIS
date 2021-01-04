@@ -13,7 +13,7 @@ These steps can be completed either using the `JupyterLab git plugin`_ (we recom
 
 .. admonition:: Attribution
 
-    These materials have been adapted for the course from `Geo-Python course <https://geo-python-site.readthedocs.io/en/latest>`__,  `GitHub Education Campus Advisors -resources <https://github.com/Campus-Advisors>`_, and `Git documentation <https://git-scm.com/about/>`__.
+    These materials have been adapted from `Geo-Python course <https://geo-python-site.readthedocs.io/en/latest>`__,  `GitHub Education Campus Advisors -resources <https://github.com/Campus-Advisors>`_, and `Git documentation <https://git-scm.com/about/>`__.
 
 Key concepts
 -------------
