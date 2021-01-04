@@ -146,21 +146,27 @@ Contents
    :maxdepth: 1
    :caption: Course information
 
+   course-info/introduction
    course-info/course-info
    course-info/grading
    course-info/learning-goals
    course-info/course-environment-components
    course-info/installing-miniconda
    course-info/create-python-gis-env
-   course-info/resources
+   course-info/pair-programming
    course-info/License-terms
+   course-info/attribution
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Lesson 1
 
-   lessons/L1/introduction
+   lessons/L1/lesson-overview
+   lessons/L1/sustainability-intro
+   lessons/L1/spatial-data-science-intro
+   lessons/L1/git-basics
    lessons/L1/intro-to-python-geostack.ipynb
    lessons/L1/literature
+   lessons/L1/exercise-1
 
