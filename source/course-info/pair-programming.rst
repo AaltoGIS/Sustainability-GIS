@@ -1,7 +1,7 @@
 Pair programming
 ================
 
-For Exercises 2 and beyond in this course, you will have the possibility to work with a partner as a pair.
+From Exercise 2 onwards, you will have the possibility to work with a partner as a pair.
 Here, we briefly explain why we're doing this, and how we feel this group work should go. This is an optional
 approach that aims to enhance social interaction (remote) during the course that is organized remotely due to Covid-19
 situation.
