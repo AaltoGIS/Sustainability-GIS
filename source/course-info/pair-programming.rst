@@ -61,7 +61,7 @@ We would like to remind you that:
 
 - Only the ``ninja's`` GitHub repository will be graded
 
-  - The ``philosopher`` is welcome to make their own copy of the exercise if they would like to complete the exercise themselves for practice, however we will not grade the `philosopher's` exercise
+  - The ``philosopher`` is welcome to make their own copy of the exercise if they would like to complete the exercise themselves for practice, however we will not grade the `philosopher's` repository (if it was created)
 
 - The ``ninja`` adds the ``philosopher`` as a private collaborator in GitHub, but we would prefer that only the ``ninja`` make changes to the exercise codes and ``philosopher`` would make changes to the written assignment Markdown file
 - This is an experiment for 2021 and we would appreciate your feedback on how things go
