@@ -5,7 +5,7 @@ Exercise 1
 
 .. admonition:: Pre-assignment - Create a GitHub account
 
-    Before starting the assignment below, you need to have a GitHub account. If you don't have one yet,
+    Before starting the actual Exercise 1 assignment below, you need to have a GitHub account. If you don't have one yet,
     please signup for GitHub from here (it's free to use).
 
     **Steps:**
@@ -18,7 +18,7 @@ Exercise 1
 
     After these steps you are ready to start the Exercise 1 Assignment below.
 
-.. admonition:: Start your assignment
+.. admonition:: Exercise 1 - Start your assignment
 
     You can start working on your personal (private) copy of Exercise 1 by `accepting the GitHub Classroom assignment <>`__ and
     doing your programming using CSC Notebooks:
