@@ -71,9 +71,8 @@ completed individually and must clearly reflect your own work (in short, don’t
 .. admonition:: Interactive contents
 
     Each lesson in this course can be turned into an interactive programming session in the browser.
-    You can find buttons for activating the python environment using `Thebe <https://thebe.readthedocs.io/en/latest/>`__
-    or `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson. Students at Finnish
-    higher education institutions are encourage to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
+    You can find buttons for activating the python environment using `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson.
+    Students at Finnish higher education institutions are encouraged to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
 
 .. admonition:: Online teaching
 
