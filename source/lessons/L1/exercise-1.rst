@@ -20,7 +20,7 @@ Exercise 1
 
 .. admonition:: Start your assignment
 
-    You can start working on your copy of Exercise 1 by `accepting the GitHub Classroom assignment <>`__ and
+    You can start working on your personal (private) copy of Exercise 1 by `accepting the GitHub Classroom assignment <>`__ and
     doing your programming using CSC Notebooks:
 
     .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
