@@ -77,9 +77,9 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
 
     1. Log in at https://notebooks.csc.fi/
     2. Go to Account-tab
-    3. Join Group **Spatial-Sustainability** using the joining code: ``TODO``
+    3. Join Group **Sustainability-GIS** using the joining code: ``sustainability-gis-tfhk0``
 
-    After joining the group, you should be able to view an environment called `Spatial-Sustainability` on the Dashboard.
+    After joining the group, you should be able to view an environment called `Sustainability-GIS` on the Dashboard.
 
 .. figure:: img/CSC_join_group.png
    :alt: Join Group in CSC Notebooks
