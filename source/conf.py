@@ -80,3 +80,9 @@ html_theme_options = {
     "collapse_navigation" : False
     },
 }
+
+# Allow errors
+execution_allow_errors = True
+
+# Do not execute cells
+jupyter_execute_notebooks = "off"
