@@ -19,6 +19,10 @@ Instructors
 
 * Henrikki Tenkanen
 
+**Course assistants**:
+
+* Jan Pisl
+
 Email: *firstname.lastname@aalto.fi*
 
 Course websites
