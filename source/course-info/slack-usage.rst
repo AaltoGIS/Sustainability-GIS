@@ -34,7 +34,7 @@ Here we have few general guidelines for using Slack to keep things well organize
 
 5. **HOWEVER: DON'T PROVIDE READY ANSWERS** in the discussion (such as all necessary codes for given problem), it does not help your friend to learn.
 
-6. **If you need one-on-one assistance via Zoom** e.g. related to an exercise, add a message to the channel (e.g. ``week-1``) with a short description of your problem **and add a link to your zoom meeting** which we can easily join. If you haven't started a Zoom meeting before, see this `help <https://support.zoom.us/hc/en-us/articles/201362183-Inviting-others-to-join-a-meeting>`__). For instance, ``"I need help with spatial join on Exercise 1. Zoom link: https://us04web.zoom.us/j/123456789 "``.
+6. **If you need one-on-one assistance via Zoom** e.g. related to an exercise, add a message to the channel (e.g. ``week-1``) with a short description of your problem **and add a link to your zoom meeting** which we can easily join. If you haven't started a Zoom meeting before, see this `help <https://support.zoom.us/hc/en-us/articles/201362183-Inviting-others-to-join-a-meeting>`__. For instance, ``"I need help with spatial join on Exercise 1. Zoom link: https://us04web.zoom.us/j/123456789 "``.
 
 With these guidelines we keep our discussion well organized and it is easy for everybody to find help and relevant discussion about specific lessons / exercises.
 
