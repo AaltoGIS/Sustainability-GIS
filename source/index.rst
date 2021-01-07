@@ -148,12 +148,13 @@ Contents
    course-info/introduction
    course-info/course-info
    course-info/grading
-   course-info/learning-goals
    course-info/course-environment-components
    course-info/slack-usage
    course-info/pair-programming
    course-info/License-terms
    course-info/attribution
+
+           course-info/learning-goals
 
 
 .. toctree::
