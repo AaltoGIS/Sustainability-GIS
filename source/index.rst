@@ -150,8 +150,7 @@ Contents
    course-info/grading
    course-info/learning-goals
    course-info/course-environment-components
-   course-info/installing-miniconda
-   course-info/create-python-gis-env
+   course-info/slack-usage
    course-info/pair-programming
    course-info/License-terms
    course-info/attribution
