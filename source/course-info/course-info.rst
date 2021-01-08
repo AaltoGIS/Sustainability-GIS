@@ -10,7 +10,7 @@ Course meetings in teaching period III
 --------------------------------------
 
 - Lessons on Mondays 12:15-16:00
-- Work sessions on Thursdays 12:15-16:00 (UTC+2)
+- Work sessions on Thursdays 13:15-16:00 (UTC+2)
 
 Instructors
 -----------
