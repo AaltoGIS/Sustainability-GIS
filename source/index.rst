@@ -55,7 +55,8 @@ Course format
 
 The majority of this course will be spent in front of a computer writing code with the Python language.
 The course consists of lectures, tutorials and weekly exercises. The exercises will focus on
-applying the introduced SDS methods to given sustainability related problem.
+applying the introduced SDS methods to given sustainability related problem, and writing short essays about
+the given sustainability topic introduced during each week.
 
 Most exercises in this course involve real world examples and data. For each exercise, you may be asked to
 submit the Python codes you have written, output figures and answers to related questions. You are encouraged to
