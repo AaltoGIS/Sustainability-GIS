@@ -14,6 +14,32 @@ Before you can start using Slack, you should create a new account for Slack (if 
 
 **After accepting the invitation, you can access the course Slack team via this link:** `<http://AaltoSDS2021.slack.com>`__
 
+General guidelines for communication
+------------------------------------
+
+Here we have few general guidelines for using Slack to keep things well organized (see sections below for further instructions, if Slack is new to you).
+
+.. important::
+
+1. **You should always select the right channel for your question!**
+
+ - If you have question e.g. related to week 1 lesson or exercise, you make your question in channel ``week-1``.
+ - If you want to share a funny GIF you found online, you can post it into channel ``random``.
+
+2. Use threads to maintain the discussion of specific topic under the same question / comment.
+
+3. **Ask!** If something seems to be tricky and difficult, don't hesitate to ask a question. Your fellow students or we instructors can help you out.
+
+4. **Discuss and comment!** If you see a question and you know how to help, we encourage you to comment and help your friend.
+
+5. **HOWEVER: DON'T PROVIDE READY ANSWERS** in the discussion (such as all necessary codes for given problem), it does not help your friend to learn.
+
+6. **If you need one-on-one assistance via Zoom** e.g. related to an exercise, add a message to the channel (e.g. ``week-1``) with a short description of your problem **and add a link to your zoom meeting** which we can easily join. If you haven't started a Zoom meeting before, see this `help <https://support.zoom.us/hc/en-us/articles/201362183-Inviting-others-to-join-a-meeting>`__. For instance, ``"I need help with spatial join on Exercise 1. Zoom link: https://us04web.zoom.us/j/123456789 "``.
+
+With these guidelines we keep our discussion well organized and it is easy for everybody to find help and relevant discussion about specific lessons / exercises.
+
+That's it! Easy, now you know how to communicate during the course. If you need further info about using Slack, continue reading.
+
 Overview of Slack
 -----------------
 
@@ -74,26 +100,3 @@ is relevant for the question at hand. You can send your comments into that threa
 
    Viewing and answering to a specific thread can be done with dedicated panel on the right.
 
-General guidelines for communication
-------------------------------------
-
-Here we have few general guidelines for using Slack to keep things well organized.
-
-.. important::
-
-  1. **You should always select the right channel for your question!**
-
-    - If you have question related to week 2 lesson or exercise, you make your question in channel ``week-2``.
-    - If you want to share a funny GIF you found online, you can post it into channel ``random``.
-
-  2. Use threads to maintain the discussion of specific topic under the same question / comment.
-
-  3. **Ask!** If something seems to be tricky and difficult, don't hesitate to ask a question. Your fellow students or we instructors can help you out.
-
-  4. **Discuss and comment!** If you see a question and you know how to help, we encourage you to comment and help your friend.
-
-  5. **HOWEVER: DON'T PROVIDE READY ANSWERS** in the discussion (such as all necessary codes for given problem), it does not help your friend to learn.
-
-With these guidelines we keep our discussion well organized and it is easy for everybody to find help and relevant discussion about specific lessons / exercises.
-
-That's it! Easy, now you know how to communicate during the course.

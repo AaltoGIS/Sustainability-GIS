@@ -54,8 +54,9 @@ Course format
 -------------
 
 The majority of this course will be spent in front of a computer writing code with the Python language.
-The course consists of interactive lectures, readings and weekly exercises. The exercises will focus on
-applying the introduced SDS methods to given sustainability related problem.
+The course consists of lectures, tutorials and weekly exercises. The exercises will focus on
+applying the introduced SDS methods to given sustainability related problem, and writing short essays about
+the given sustainability topic introduced during each week.
 
 Most exercises in this course involve real world examples and data. For each exercise, you may be asked to
 submit the Python codes you have written, output figures and answers to related questions. You are encouraged to
@@ -71,9 +72,8 @@ completed individually and must clearly reflect your own work (in short, don’t
 .. admonition:: Interactive contents
 
     Each lesson in this course can be turned into an interactive programming session in the browser.
-    You can find buttons for activating the python environment using `Thebe <https://thebe.readthedocs.io/en/latest/>`__
-    or `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson. Students at Finnish
-    higher education institutions are encourage to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
+    You can find buttons for activating the python environment using `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson.
+    Students at Finnish higher education institutions are encouraged to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
 
 .. admonition:: Online teaching
 
@@ -146,11 +146,27 @@ Contents
    :maxdepth: 1
    :caption: Course information
 
+   course-info/introduction
    course-info/course-info
    course-info/grading
-   course-info/learning-goals
    course-info/course-environment-components
-   course-info/installing-miniconda
-   course-info/create-python-gis-env
-   course-info/resources
+   course-info/slack-usage
+   course-info/pair-programming
    course-info/License-terms
+   course-info/attribution
+
+           course-info/learning-goals
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 1
+
+   lessons/L1/lesson-overview
+   lessons/L1/sustainability-intro
+   lessons/L1/spatial-data-science-intro
+   lessons/L1/git-basics
+   lessons/L1/intro-to-python-geostack.ipynb
+   lessons/L1/literature
+   lessons/L1/exercise-1
+
