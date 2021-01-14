@@ -40,4 +40,20 @@ To ensure the privacy of participating students of online sessions, the videos w
         :width: 500px
         :align: left
 
+.. admonition:: Lesson 1.4 - Introduction to Git/GitHub, CSC Notebooks and Exercise workflow
 
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-Lesson-1.4.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=788a2253-bf0d-4c5d-9737-acb00109170a
+        :width: 500px
+        :align: left
+
+.. admonition:: Lesson 1.5 - Introduction to geopandas
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-Lesson-1.5.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64d02f29-46a7-4114-aae6-acb001295b8e
+        :width: 500px
+        :align: left
