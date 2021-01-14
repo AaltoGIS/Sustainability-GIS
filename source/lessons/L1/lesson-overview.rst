@@ -11,7 +11,7 @@ The first week of this course will be dedicated to various introductions. We wil
 Lesson videos
 -------------
 
-To ensure the privacy of participating students of online sessions, the videos will not be made publicly available in 2021.
+To ensure the privacy of participating students at online sessions, the videos will not be made publicly available in 2021.
 
 .. admonition:: Lesson 1.1 - Course overview
 
