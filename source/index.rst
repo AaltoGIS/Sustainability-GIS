@@ -170,3 +170,13 @@ Contents
    lessons/L1/literature
    lessons/L1/exercise-1
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 2
+
+   lessons/L2/lesson-overview
+   lessons/L2/wellbeing-capabilities
+   lessons/L2/network-analytics-accessibility
+   lessons/L2/spatial_network_analysis.ipynb
+   lessons/L1/exercise-2
