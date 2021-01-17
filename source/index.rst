@@ -179,4 +179,5 @@ Contents
    lessons/L2/wellbeing-capabilities
    lessons/L2/network-analytics-accessibility
    lessons/L2/spatial_network_analysis.ipynb
-   lessons/L1/exercise-2
+   lessons/L2/literature
+   lessons/L2/exercise-2
