@@ -21,7 +21,6 @@ project = 'SDS-Sustainability'
 copyright = '2020, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
 author = 'Henrikki Tenkanen'
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -44,7 +43,6 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -65,11 +63,11 @@ html_logo = 'img/Aalto-logo.png'
 html_title = ""
 
 html_theme_options = {
-    #"external_links": [],
+    # "external_links": [],
     "repository_url": "https://github.com/AaltoGIS/SDS-Sustainability/",
     "repository_branch": "master",
     "path_to_docs": "source/",
-    #"twitter_url": "https://twitter.com/pythongis",
+    # "twitter_url": "https://twitter.com/pythongis",
     "google_analytics_id": "G-H16NST64YZ",
     "use_edit_page_button": True,
     "use_repository_button": True,
@@ -77,7 +75,7 @@ html_theme_options = {
         "binderhub_url": "https://mybinder.org",
         "thebe": False,
         "notebook_interface": "jupyterlab",
-    "collapse_navigation" : False
+        "collapse_navigation": False
     },
 }
 
