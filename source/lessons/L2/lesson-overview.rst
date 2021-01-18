@@ -5,7 +5,7 @@ The second week of this course will be dedicated to various introductions. We wi
 
 - :doc:`Human wellbeing and capabilities. <wellbeing-capabilities>`
 - :doc:`Network analytics and spatial accessibility modelling. <network-analytics-accessibility>`
-- :doc:`Tutorial: Spatial accessibility modelling <git-basics>`
+- :doc:`Tutorial: Spatial accessibility modelling <spatial_network_analysis>`
 
 Lesson videos
 -------------
