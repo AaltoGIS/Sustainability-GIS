@@ -1,7 +1,7 @@
 Lesson overview
 ===============
 
-The second week of this course will be dedicated to various introductions. We will learn about:
+In the second week, we will learn about:
 
 - :doc:`Human wellbeing and capabilities. <wellbeing-capabilities>`
 - :doc:`Network analytics and spatial accessibility modelling. <network-analytics-accessibility>`
