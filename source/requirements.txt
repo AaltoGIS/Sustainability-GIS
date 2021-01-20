@@ -17,8 +17,6 @@ nbformat==5.0.8
 nbmerge==0.0.4
 nbsphinx==0.7.1
 notebook==6.1.4
-pandoc==2.11.0.2
-pandocfilters==1.4.2
 sphinx==3.2.1
 sphinx-book-theme==0.0.38
 sphinx-comments==0.0.3
