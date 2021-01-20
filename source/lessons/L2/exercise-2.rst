@@ -5,10 +5,10 @@ Exercise 2
 
 .. admonition:: Exercise 2 - Start your assignment
 
-    You can start working on your personal (private) copy of Exercise 1 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/kIBYhgbe>`__. Notice that if you are using
+    You can start working on your personal (private) copy of Exercise by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/kIBYhgbe>`__. Notice that if you are using
     GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
-    After you have your personal Exercise-1 exercise in GitHub, start doing the programming using CSC Notebooks:
+    After you have your personal exercise in GitHub, start doing the programming using CSC Notebooks:
 
     .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
         :target: https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
