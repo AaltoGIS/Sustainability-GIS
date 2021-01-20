@@ -13,7 +13,7 @@ The final grade is based 50 % on the final assignment and 50 % on weekly exercis
 
 
 Preliminary grading thresholds:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - 5 --> 90 % or more of the points received
 
