@@ -52,6 +52,6 @@ Hint 3: How to convert a NetworkX graph to GeoDataFrame?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Once you have created a routable Networkx graph from nodes and edges, it is naturally also possible to convert
-the graph back to GeoDataFrames. [OSMnx](https://github.com/gboeing/osmnx) package provides a handy function
-to do this called `ox.graph_to_gdfs()` which takes the NetworkX graph as an input and returns the nodes and edges
+the graph back to GeoDataFrames. `OSMnx <https://github.com/gboeing/osmnx>`__ package provides a handy function
+to do this called ``ox.graph_to_gdfs()`` which takes the NetworkX graph as an input and returns the nodes and edges
 associated with the graph (including the edge attributes).
