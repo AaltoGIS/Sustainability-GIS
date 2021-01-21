@@ -20,3 +20,30 @@ Note that you should not try to make changes to this copy of the exercise, but r
 
     We will use git and GitHub when working with the exercises.
     You can find instructions for using git and the Jupyter Lab git plugin :doc:`in here <git-basics>`.
+
+Hints
+-----
+
+Hint 1: Running out of memory at CSC Notebooks?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In tutorial 2 and exercise 2, we create fairly large networks (covering whole Helsinki metropolitan area) which consumes
+quite a bit of memory. Unfortunately, the CSC Notebook instances have only 8 GB of memory which might cause a situation
+in which your instance runs out of memory Jupyter Lab Python kernel just stops (without producing any clear error message).
+If that situation happens, then it is recommended to try to reduce the memory footprint in your data. This can be done
+easily by dropping all unnecessary columns from your data.
+
+**Detected problem:** You might end up running out of memory when trying to create a NetworkX graph from your edges.
+**Solution:** After you have modified the edges of your road network, select only following columns from your edges that
+are required for creating the routable graph: ``"oneway", "travel_time_seconds", "length", "u", "v", "geometry"``.
+
+After the above trick, you should be able to create a graph and finish all problems in Exercise 2.
+
+Hint 2: Do your programming in small steps and only for one object at a time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In the Exercise 2, you should calculate catchment areas for many hospitals and calculate different things based
+on the data. Whenever repeating the same analytical steps for many objects (here hospitals and postal code area),
+it is highly recommended that before starting to loop over your data, you try to first finish all the required steps for
+one hospital or postal code area. Repeat the analytical processes for all hospitals/postal code areas only after
+you are certain that the code does what you think it should do.
