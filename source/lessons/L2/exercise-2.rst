@@ -47,3 +47,11 @@ on the data. Whenever repeating the same analytical steps for many objects (here
 it is highly recommended that before starting to loop over your data, you try to first finish all the required steps for
 one hospital or postal code area. Repeat the analytical processes for all hospitals/postal code areas only after
 you are certain that the code does what you think it should do.
+
+Hint 3: How to convert a NetworkX graph to GeoDataFrame?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Once you have created a routable Networkx graph from nodes and edges, it is naturally also possible to convert
+the graph back to GeoDataFrames. `OSMnx <https://github.com/gboeing/osmnx>`__ package provides a handy function
+to do this called ``ox.graph_to_gdfs()`` which takes the NetworkX graph as an input and returns the nodes and edges
+associated with the graph (including the edge attributes).
