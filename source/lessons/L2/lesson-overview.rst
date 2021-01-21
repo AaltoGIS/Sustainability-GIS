@@ -41,3 +41,21 @@ To ensure the privacy of participating students at online sessions, the videos w
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ed835a77-1645-41a6-a9ec-acb5008cfa30
         :width: 500px
         :align: left
+
+.. admonition:: Lesson 2.4 - Spatial network analysis in Python: Shortest path analysis
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD_Lesson_2.4.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=29b913a1-1468-4356-a1ea-acb700fee6e1
+        :width: 500px
+        :align: left
+
+.. admonition:: Lesson 2.5 - Exercise 2 Overview
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD_Lesson_2.5.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=97d8c487-b288-46d1-b836-acb700fb3d38
+        :width: 500px
+        :align: left
