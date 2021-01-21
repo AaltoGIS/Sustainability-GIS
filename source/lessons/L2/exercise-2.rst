@@ -19,7 +19,7 @@ Note that you should not try to make changes to this copy of the exercise, but r
 .. note::
 
     We will use git and GitHub when working with the exercises.
-    You can find instructions for using git and the Jupyter Lab git plugin :doc:`in here <git-basics>`.
+    You can find instructions for using git and the Jupyter Lab git plugin :doc:`in here <../L1/git-basics>`.
 
 Hints
 -----
