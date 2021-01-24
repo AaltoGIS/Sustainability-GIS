@@ -5,7 +5,7 @@ In the third week, we will learn about:
 
 - :doc:`Movement. <>`
 - :doc:`Mobility analytics. <>`
-- :doc:`Tutorial: Mobility analysis in Python <>`
+- :doc:`Tutorial: Trajectory data mining in Python <mobility-analytics>`
 
 Lesson videos
 -------------
