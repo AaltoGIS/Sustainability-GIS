@@ -5,11 +5,18 @@ channels:
 
 dependencies:
   - python=3.8
+  - mamba
   - pandas
   - geopandas
   - matplotlib
   - pysal
   - mapclassify
+  - spaghetti
+  - spint
+  - spreg
+  - segregation
+  - access
+  - mgwr
   - scipy
   - scikit-learn
   - geojson
@@ -24,6 +31,7 @@ dependencies:
   - pandana
   - pyrosm
   - python-igraph
+  - urbanaccess
   - momepy
   - movingpandas
   - scikit-mobility
@@ -45,3 +53,4 @@ dependencies:
   - pip
   - pip:
       - simpy
+      - keplergl
