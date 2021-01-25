@@ -3,8 +3,8 @@ Lesson overview
 
 In the third week, we will learn about:
 
-- :doc:`Movement. <>`
-- :doc:`Mobility analytics. <>`
+- :doc:`Sustainable cities and mobilities <mobilities>`
+- :doc:`Mobility analytics <trajectory-data-mining>`
 - :doc:`Tutorial: Trajectory data mining in Python <mobility-analytics>`
 
 Lesson videos
