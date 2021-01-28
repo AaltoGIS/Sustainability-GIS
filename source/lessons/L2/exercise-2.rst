@@ -1,7 +1,7 @@
 Exercise 2
 ==========
 
-**Due date:** Please complete this exercise by **the end of day on Wednesday the 27th of January 2021** (day before the next practical session).
+**Due date:** Please complete this exercise by **the end of day on Friday the 29th of January 2021** (day after the next practical session).
 
 .. admonition:: Exercise 2 - Start your assignment
 
