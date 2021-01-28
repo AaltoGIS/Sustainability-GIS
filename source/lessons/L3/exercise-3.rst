@@ -33,7 +33,7 @@ More detailed instructions for parsing trajectory statistics
 - Create a TrajectoryCollection from the group using `vehicle_id` as the identifier.
 - Add speed to the TrajectoryCollection (overwrite existing one).
 - If there are any trajectories in our TrajectoryCollection, select the first trajectory from the TrajectoryCollection (*each collection should only have a single Trajectory because we have grouped the data ourselves based on "vehicle_id"*)
-- Split the trajectory based on criteria that if there is a 5-minute time gap between observations, the trajectory should be splitted into multiple ones. This step is used to detect if there were multiple trips between same route and direction (which is likely because the same vehicle travels the same route many times during the day). You can use the [mpd.ObservationGapSplitter()](https://movingpandas.readthedocs.io/en/latest/trajectorysplitter.html#movingpandas.ObservationGapSplitter) to split the observations.
+- Split the trajectory based on criteria that if there is a 5-minute time gap between observations, the trajectory should be splitted into multiple ones. This step is used to detect if there were multiple trips between same route and direction (which is likely because the same vehicle travels the same route many times during the day). You can use the `mpd.ObservationGapSplitter() <https://movingpandas.readthedocs.io/en/latest/trajectorysplitter.html#movingpandas.ObservationGapSplitter>`__ to split the observations.
 - Iterate over the splitted trajectories and:
 - Calculate the speed in kilometers per hour (into column `speed_kmph`) based on the `speed` information which is reported as `meters per second`.
 - Based on the `speed_kmph` select only rows that have speed over 1 kilomters per hour.
