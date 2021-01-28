@@ -191,4 +191,4 @@ Contents
    lessons/L3/trajectory-data-mining
    lessons/L3/mobility-analytics.ipynb
    lessons/L3/literature
-   lessons/L3/exercise-3
+   lessons/L3/exercise-3.ipynb
