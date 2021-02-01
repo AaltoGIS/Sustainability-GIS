@@ -155,9 +155,6 @@ Contents
    course-info/License-terms
    course-info/attribution
 
-           course-info/learning-goals
-
-
 .. toctree::
    :maxdepth: 1
    :caption: Lesson 1
@@ -192,3 +189,14 @@ Contents
    lessons/L3/mobility-analytics.ipynb
    lessons/L3/literature
    lessons/L3/exercise-3.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 4
+
+   lessons/L4/lesson-overview
+   lessons/L4/economy
+   lessons/L4/spatial_econometrics
+   lessons/L4/spatial_regression.ipynb
+   lessons/L4/literature
+   lessons/L4/exercise-4
