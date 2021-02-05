@@ -32,3 +32,11 @@ To ensure the privacy of participating students at online sessions, the videos w
         :width: 500px
         :align: left
 
+.. admonition:: Lesson 4.3 - Spatial regression with Python (intro)
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD_Lesson_4.3.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1780fe4a-eeed-47b7-a149-acc500fda18d
+        :width: 500px
+        :align: left
