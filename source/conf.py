@@ -75,7 +75,8 @@ html_theme_options = {
         "binderhub_url": "https://mybinder.org",
         "thebe": False,
         "notebook_interface": "jupyterlab",
-        "collapse_navigation": False
+        "collapse_navigation": False,
+        "colab_url": "https://colab.research.google.com"
     },
 }
 
