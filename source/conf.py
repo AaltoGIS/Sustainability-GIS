@@ -75,7 +75,12 @@ html_theme_options = {
         "binderhub_url": "https://mybinder.org",
         "thebe": False,
         "notebook_interface": "jupyterlab",
-        "collapse_navigation": False
+        "collapse_navigation": False,
+        # Google Colab does not provide an easy way for specifying/building/activating the conda environment
+        # in a similar manner as Binder. Hence, let's not keep it. The easiest way seems to be:
+        # https://github.com/jaimergp/condacolab
+        # But it requires actions from the user nontheless, so atm it's a no-go.
+        #"colab_url": "https://colab.research.google.com"
     },
 }
 
