@@ -200,3 +200,12 @@ Contents
    lessons/L4/spatial_regression.ipynb
    lessons/L4/literature
    lessons/L4/exercise-4
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 5
+
+   lessons/L/lesson-overview
+   lessons/L5/agent-based-modelling
+   lessons/L5/literature
+   lessons/L5/exercise-5
