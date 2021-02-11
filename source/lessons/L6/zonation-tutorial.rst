@@ -10,6 +10,14 @@ Install Zonation
 
 Zonation 5 is available for Windows and Linux. Please follow the installation instructions
 
+.. admonition:: Install Zonation on Windows
+    :class: dropdown, note
+
+    To be able to install Zonation, you need to have admin rights to your computer. Contact us via Slack,
+    if you do not have access to a computer with rights to do installations.
+
+    `Download Zonation <>`__ which is an executable file from
+
 Install Zonation on Linux
 -------------------------
 
