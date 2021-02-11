@@ -209,3 +209,11 @@ Contents
    lessons/L5/agent-based-modelling
    lessons/L5/literature
    lessons/L5/exercise-5
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 6
+
+   lessons/L6/lesson-overview
+   lessons/L6/agent-based-modelling
+   lessons/L6/literature
