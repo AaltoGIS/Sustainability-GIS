@@ -3,7 +3,7 @@ Lesson overview
 
 In the sixth week, we will learn about:
 
-- :doc:`Conservation planning and spatial prioritization <agent-based-modelling>`
+- :doc:`Conservation planning and spatial prioritization <conservation-planning-spatial-prioritization>`
 
 Lesson videos
 -------------

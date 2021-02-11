@@ -215,5 +215,6 @@ Contents
    :caption: Lesson 6
 
    lessons/L6/lesson-overview
-   lessons/L6/agent-based-modelling
+   lessons/L6/conservation-planning-spatial-prioritization
+   lessons/L6/zonation-tutorial
    lessons/L6/literature

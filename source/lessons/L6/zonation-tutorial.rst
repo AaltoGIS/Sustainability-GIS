@@ -1,7 +1,17 @@
 Tutorial/Exercise 6 - Spatial prioritization with Zonation
 ==========================================================
 
-For this week, the Exercise will be combined with the tutorial.
+For this week, the Exercise will be combined with the tutorial. This week, we will use the Zonation software to do the exercises.
+Hence, **you need to install the software** to your local computer before starting the tutorial/exercise. We recommend, that you
+do the installations already before the lecture on Monday.
+
+Install Zonation
+----------------
+
+Zonation 5 is available for Windows and Linux. Please follow the installation instructions
+
+Install Zonation on Linux
+-------------------------
 
 .. raw:: html
 
