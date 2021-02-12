@@ -35,19 +35,19 @@ Zonation 5 is available for Windows and Linux. Please follow the installation in
     1. `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5.AppImage>`__ which is a single executable file including the software:
 
     .. figure:: img/z5_Appimage_downloaded.png
-        :width: 300px
+        :width: 450px
 
     2. Move the software (Z5.AppImage) somewhere where you have the course Exercises, so it's easy to find later on.
     3. Right click the software icon and choose ``Properties``.
     4. Under the ``Permissions`` tab, put a tick into the box that says ``Allow executing file as program``:
 
     .. figure:: img/give_execution_permissions.png
-        :width: 300px
+        :width: 450px
 
     5. Exit the properties and double-click the Z5.AppImage. If everything works correctly, you should have Zonation running:
 
     .. figure:: img/running_zonation_on_Linux.png
-        :width: 300px
+        :width: 450px
 
 
 Get your copy of the Tutorial/Exercise materials
