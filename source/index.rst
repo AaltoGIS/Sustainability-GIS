@@ -9,13 +9,13 @@ as well as numerous scientific articles that have investigated sustainability re
 sustainability related phenomena. Both sustainability and spatial data science are enormous fields on their own,
 hence it is only possible to scratch the surface of both of these worlds. The selected themes are also biased towards topics
 that the authors are familiar with. Due to these reasons, unfortunately, many important topics cannot be covered during the course.
+The course has been developed at the Department of Built Environment, Aalto University, Finland, and the materials are openly available for anyone interested.
 
 After completing this course, you should:
 
 - understand and deepen your knowledge of a range of modern spatial data science (SDS) techniques and methodologies
 - be able to apply SDS methodologies in practice to a range of sustainability/global change related topics with Python programming language
 - have skills and understanding how to retrieve, handle and analyze modern big geospatial data in different formats.
-
 
 .. figure:: img/course-idea.png
     :width: 80%
