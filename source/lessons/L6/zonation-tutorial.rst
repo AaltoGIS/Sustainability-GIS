@@ -22,7 +22,7 @@ Zonation 5 is available for Windows and Linux. Please follow the installation in
 
     .. raw:: html
 
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnjmReLXe-YZhUslf3XVyYqc85-3Ypq9ceQV74BXWwSEy57VKVVgs4NvqdA_lacaJmCoUfRWAOSmn1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnjmReLXe-YZhUslf3XVyYqc85-3Ypq9ceQV74BXWwSEy57VKVVgs4NvqdA_lacaJmCoUfRWAOSmn1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
@@ -35,19 +35,19 @@ Zonation 5 is available for Windows and Linux. Please follow the installation in
     1. `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5.AppImage>`__ which is a single executable file including the software:
 
     .. figure:: img/z5_Appimage_downloaded.png
-        :widht: 300px
+        :width: 300px
 
     2. Move the software (Z5.AppImage) somewhere where you have the course Exercises, so it's easy to find later on.
     3. Right click the software icon and choose ``Properties``.
     4. Under the ``Permissions`` tab, put a tick into the box that says ``Allow executing file as program``:
 
     .. figure:: img/give_execution_permissions.png
-        :widht: 300px
+        :width: 300px
 
     5. Exit the properties and double-click the Z5.AppImage. If everything works correctly, you should have Zonation running:
 
     .. figure:: img/running_zonation_on_Linux.png
-        :widht: 300px
+        :width: 300px
 
 
 Get your copy of the Tutorial/Exercise materials
