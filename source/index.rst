@@ -17,7 +17,6 @@ After completing this course, you should:
 - be able to apply SDS methodologies in practice to a range of sustainability/global change related topics with Python programming language
 - have skills and understanding how to retrieve, handle and analyze modern big geospatial data in different formats.
 
-
 .. figure:: img/course-idea.png
     :width: 80%
 
