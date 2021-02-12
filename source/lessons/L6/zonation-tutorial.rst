@@ -33,7 +33,7 @@ In a similar manner as in the previous weeks, you will have your copy of the tut
 **Start the tutorial by accepting this GitHub Classroom**: `Tutorial 6 <>`__. After you have created your own copy of the
 exercise materials **download / clone them** to your own computer:
 
-- In case you have Git installed locally, you can clone the repository from terminal/command prompt using Git (`git clone <URL-address>`)
+- In case you have Git installed locally, you can clone the repository from terminal/command prompt using Git (``git clone <URL-address>``)
 - If you don't have Git, you can download the materials directly from GitHub as a Zip file by pressing the **Code** button on the GitHub repository and choosing Download Zip:
 
 .. figure:: img/GitHub_download.PNG

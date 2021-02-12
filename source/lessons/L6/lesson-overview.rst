@@ -4,6 +4,7 @@ Lesson overview
 In the sixth week, we will learn about:
 
 - :doc:`Conservation planning and spatial prioritization <conservation-planning-spatial-prioritization>`
+- :doc:`Tutorial: Spatial prioritization with Zonation <zonation-tutorial>`
 
 Lesson videos
 -------------
