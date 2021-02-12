@@ -14,17 +14,28 @@ Zonation 5 is available for Windows and Linux. Please follow the installation in
     :class: dropdown, note
 
     To be able to install Zonation, you need to have admin rights to your computer. Contact us via Slack,
-    if you do not have access to a computer with rights to do installations.
+    if you do not have access to a computer with rights to do installations. To install the software, do following steps:
 
-    `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5setup.exe>`__ which is an executable file from
+    1. `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5setup.exe>`__ which is a single executable file including the software.
+    2. Move the software (Z5setup.exe) somewhere where you have the course Exercises, so it's easy to find later on.
+    3. Double-click the software and follow the installation steps.
+    4. Under the ``Permissions`` tab, put a tick into the box that says ``Allow executing file as program``:
+    5. Exit the properties and double-click the Z5.AppImage. If everything works correctly, you should have Zonation running:
+
+
 
 .. admonition:: Install Zonation for Linux
     :class: dropdown, note
 
     To be able to install Zonation, you need to have admin rights to your computer. Contact us via Slack,
-    if you do not have access to a computer with rights to do installations.
+    if you do not have access to a computer with rights to do installations. To install the software, do following steps:
 
-    `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5.AppImage>`__ which is an executable file from
+    1. `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5.AppImage>`__ which is a single executable file including the software.
+    2. Move the software (Z5.AppImage) somewhere where you have the course Exercises, so it's easy to find later on.
+    3. Right click the software icon and choose ``Propreties``:
+    4. Under the ``Permissions`` tab, put a tick into the box that says ``Allow executing file as program``:
+    5. Exit the properties and double-click the Z5.AppImage. If everything works correctly, you should have Zonation running:
+
 
 Get your copy of the Tutorial/Exercise materials
 ------------------------------------------------
