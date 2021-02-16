@@ -218,3 +218,10 @@ Contents
    lessons/L6/conservation-planning-spatial-prioritization
    lessons/L6/zonation-tutorial
    lessons/L6/literature
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Final Assignment
+
+   ---lessons/final-assignment/final-assignment
+   ---lessons/final-assignment/final-assignment-grading
