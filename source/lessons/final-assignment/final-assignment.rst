@@ -3,7 +3,7 @@ Instructions
 
 .. admonition:: Start your assignment
 
-    Start your final assignment by accepting the `GitHub Classroom <>`_ for the final work.
+    **Start your final assignment** by accepting the `GitHub Classroom <https://classroom.github.com/a/2DXFYkhx>`_ for the final work.
 
     After you have your personal exercise in GitHub, start doing the programming using CSC Notebooks:
 
