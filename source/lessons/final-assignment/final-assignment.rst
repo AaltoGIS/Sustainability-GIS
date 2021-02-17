@@ -164,8 +164,7 @@ Check these resources that are most likely very useful when doing the final assi
 Data sources
 ------------
 
-You can use any (spatial) data that you can find, and generate your own report describing how the cities differ from each other based on different perspectives (see below hints about possible analyses).
-You can use any data that is available, for example, from the following sources:
+You can use any (spatial) data that you can find, for example from the following sources:
 
 - `OpenSreetMap <www.openstreetmap.org>`__ (streets, buildings, points of interest, public transport stops, etc.) following the approaches learned during this course.
 - `PaiTuli <https://paituli.csc.fi/download.html>`__
