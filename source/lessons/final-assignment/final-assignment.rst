@@ -166,7 +166,7 @@ Data sources
 
 You can use any (spatial) data that you can find, for example from the following sources:
 
-- `OpenSreetMap <www.openstreetmap.org>`__ (streets, buildings, points of interest, public transport stops, etc.) following the approaches learned during this course.
+- `OpenSreetMap <https://www.openstreetmap.org>`__ (streets, buildings, points of interest, public transport stops, etc.) following the approaches learned during this course.
 - `PaiTuli <https://paituli.csc.fi/download.html>`__
 - `Avoindata.fi service <https://www.avoindata.fi/en>`__
 - `Helsinki Region Infoshare <https://hri.fi/en_gb/>`__
