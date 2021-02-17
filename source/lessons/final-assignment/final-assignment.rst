@@ -1,5 +1,5 @@
-Final assignment
-================
+Instructions
+============
 
 .. admonition:: Start your assignment
 
@@ -10,8 +10,8 @@ Final assignment
     .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
         :target: https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
 
-Aim of the work
----------------
+Aim of the final assignment
+---------------------------
 
 The final project is an individual task where the aim is to apply spatial data science methods to study a selected
 sustainability challenge and write a short report documenting your work.
