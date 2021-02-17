@@ -132,10 +132,14 @@ Notes
 
 Notice that there are no specific criteria how you should conduct and do the analyses, as they are up to you to decide and figure out.
 As said earlier, the main purpose of the final assignment is to demonstrate your analysis skills (as well as writing skills),
-so aim to do the work in a way that you feel comfortable with. Remember that getting things done is better than perfect!
-Also remember that half of the points come from the report and documentation, hence, we advice you to get the written
-parts done as early as possible (at the same time as you proceed). As you might have experienced during this course, the programming parts can take a lot of time,
-so putting all your effort and strength to solving the programming parts is not a good strategy.
+so aim to do the work in a way that you feel comfortable with.
+
+- Remember that getting things done is better than perfect!
+- Remember that half of the points come from the report and documentation, hence, we advice you to get the written parts done as early as possible (simultaneously as you proceed).
+
+As you might have experienced during this course, the programming parts can take time,
+hence, prioritize the writing, as putting most of your effort in solving the programming parts might not be
+a good strategy for maximizing the points.
 
 Option 2: Your own project work
 -------------------------------
