@@ -161,7 +161,6 @@ Check these resources that are most likely very useful when doing the final assi
 - `Indicators and Monitoring Framework <https://indicators.report/>`__ website provides more detailed explanation about the methodology, such as providing details how specific indicator should be calculated.
 - `Metadata / methods description for all SDG indicators <https://unstats.un.org/sdgs/metadata/files/SDG-indicator-metadata.zip>`__ (downloads a Zip package with the descriptions ~154MB)
 
-
 Data sources
 ------------
 
