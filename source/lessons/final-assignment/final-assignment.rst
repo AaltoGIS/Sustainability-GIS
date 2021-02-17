@@ -87,7 +87,7 @@ The final assignment is graded based on:
 
 Take a look of these hints for using markdown:
 
-- `using markdown in Jupyter Notebooks  <http://www.firstpythonnotebook.org/markdown/>`_
+- `using markdown in Jupyter Notebooks  <https://www.datacamp.com/community/tutorials/markdown-in-jupyter-notebook>`_
 - `General Markdown syntax guide <https://guides.github.com/features/mastering-markdown/>`__.
 
 Option 1: Sustainable cities and communities
