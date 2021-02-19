@@ -10,7 +10,7 @@ Instructions
     .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
         :target: https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
 
-.. admonition:: Instructions for the Final assignment
+.. admonition:: Instructions for the Final assignment (video)
 
     Aalto University students can access the video by clicking the image below (requires login):
 
