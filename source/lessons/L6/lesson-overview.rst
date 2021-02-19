@@ -57,3 +57,12 @@ To ensure the privacy of participating students at online sessions, the videos w
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ee5ac5a-fada-40eb-852d-acd0013cf991
         :width: 500px
         :align: left
+
+.. admonition:: Lesson 6.6 - Using Zonation software (demo session + intro to exercises)
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD_Lesson_6.6.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ea6866cc-77ee-4915-8f3a-acd4007e7b85
+        :width: 500px
+        :align: left
