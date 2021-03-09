@@ -16,7 +16,7 @@ Zonation 5 is available for Windows and Linux. Please follow the installation in
     To be able to install Zonation, you need to have admin rights to your computer. Contact us via Slack,
     if you do not have access to a computer with rights to do installations. To install the software, do following steps:
 
-    1. `Download Zonation <https://github.com/AaltoGIS/GIS-docker-environment/raw/master/sds-sustainability/zonation/z5setup.exe>`__ which is a single executable file including the software.
+    1. Download Zonation (*software will be available for wider audience once it is published by the developers*) which is a single executable file including the software.
     2. Move the software (Z5setup.exe) somewhere where you have the course Exercises, so it's easy to find later on.
     3. Follow the steps in this presentation:
 
