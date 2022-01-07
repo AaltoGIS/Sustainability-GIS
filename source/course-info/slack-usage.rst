@@ -9,10 +9,10 @@ During this course we will use `Slack <http://slack.com>`__ for discussion and q
 Accessing the workspace in Slack
 --------------------------------
 
-We will send an invitation link for all enrolled students to the Slack Team called ``AaltoSDS2021``.
+We will send an invitation link for all enrolled students to the Slack Team called ``AaltoSDS2022``.
 Before you can start using Slack, you should create a new account for Slack (if you don't have one already) and accept the invitation you have received.
 
-**After accepting the invitation, you can access the course Slack team via this link:** `<http://AaltoSDS2021.slack.com>`__
+**After accepting the invitation, you can access the course Slack team via this link:** `<http://AaltoSDS2022.slack.com>`__
 
 General guidelines for communication
 ------------------------------------
