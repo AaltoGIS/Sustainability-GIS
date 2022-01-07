@@ -172,56 +172,56 @@ Contents
    :maxdepth: 1
    :caption: Lesson 2
 
-   lessons/L2/lesson-overview
-   lessons/L2/wellbeing-capabilities
-   lessons/L2/network-analytics-accessibility
-   lessons/L2/spatial_network_analysis.ipynb
-   lessons/L2/literature
-   lessons/L2/exercise-2
+   ..  lessons/L2/lesson-overview
+       lessons/L2/wellbeing-capabilities
+       lessons/L2/network-analytics-accessibility
+       lessons/L2/spatial_network_analysis.ipynb
+       lessons/L2/literature
+       lessons/L2/exercise-2
 
 .. toctree::
    :maxdepth: 1
    :caption: Lesson 3
 
-   lessons/L3/lesson-overview
-   lessons/L3/mobilities
-   lessons/L3/trajectory-data-mining
-   lessons/L3/mobility-analytics.ipynb
-   lessons/L3/literature
-   lessons/L3/exercise-3.ipynb
+   ..  lessons/L3/lesson-overview
+       lessons/L3/mobilities
+       lessons/L3/trajectory-data-mining
+       lessons/L3/mobility-analytics.ipynb
+       lessons/L3/literature
+       lessons/L3/exercise-3.ipynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Lesson 4
 
-   lessons/L4/lesson-overview
-   lessons/L4/economy
-   lessons/L4/spatial_econometrics
-   lessons/L4/spatial_regression.ipynb
-   lessons/L4/literature
-   lessons/L4/exercise-4
+   ..  lessons/L4/lesson-overview
+       lessons/L4/economy
+       lessons/L4/spatial_econometrics
+       lessons/L4/spatial_regression.ipynb
+       lessons/L4/literature
+       lessons/L4/exercise-4
 
 .. toctree::
    :maxdepth: 1
    :caption: Lesson 5
 
-   lessons/L5/lesson-overview
-   lessons/L5/agent-based-modelling
-   lessons/L5/literature
-   lessons/L5/exercise-5
+   ..  lessons/L5/lesson-overview
+       lessons/L5/agent-based-modelling
+       lessons/L5/literature
+       lessons/L5/exercise-5
 
 .. toctree::
    :maxdepth: 1
    :caption: Lesson 6
 
-   lessons/L6/lesson-overview
-   lessons/L6/conservation-planning-spatial-prioritization
-   lessons/L6/zonation-tutorial
-   lessons/L6/literature
+   ..  lessons/L6/lesson-overview
+       lessons/L6/conservation-planning-spatial-prioritization
+       lessons/L6/zonation-tutorial
+       lessons/L6/literature
 
 .. toctree::
    :maxdepth: 1
    :caption: Final Assignment
 
-   lessons/final-assignment/final-assignment
+   .. lessons/final-assignment/final-assignment
    lessons/final-assignment/final-assignment-grading
