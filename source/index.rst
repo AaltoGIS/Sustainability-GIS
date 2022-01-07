@@ -27,16 +27,16 @@ After completing this course, you should:
 Before taking this course, it is required to know the basics of Python programming as well as GIS.
 If you are new to Python, or would like to refresh your Python skills, we recommend to start with an online
 and open access course called Geo-Python which is available at `geo-python.github.io <http://geo-python.github.io/>`__.
-If you need to refresh your Python GIS skills, we recommend starting with a course Automating GIS-processes available
-at `autogis.github.io <https://autogis.github.io/>`__. Both of these courses include tutorials, videos and exercises.
+If you need to refresh your Python GIS skills, we recommend starting with a course `Automating GIS-processes <https://autogis.github.io/>`__
+and `Spatial analytics <https://spatial-analytics.readthedocs.io/en/latest/>`__. All of these courses include tutorials, videos and exercises.
 
 
 .. admonition:: Help improving the materials
 
-    **This is version 1.**
+    **This is version #2.**
 
-    The course is given for the very first time in 2021, meaning that the content of the course is likely to change and
-    improve after each time the course is given (all versions will be available). By being a fully open
+    The course was given for the very first time in 2021. Due to the early stages of the course, it is likely that the contents will
+    change and improve after each iteration (all versions will be available). By being a fully open
     educational resource, **you can also help making the course better**.
     If you find any errors, typos, or other problems, please help, by suggesting an edit in GitHub. You can do this easily by clicking
     ``suggest edit`` under the GitHub icon located at
@@ -84,7 +84,7 @@ completed individually and must clearly reflect your own work (in short, don’t
 Program
 -------
 
-The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 11th of January 2021.
+The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 10th of January 2022.
 Each week covers selected spatial data science (SDS) methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
 Topics per week are listed below. Please note that this web page is updated each week before the lesson:
 
