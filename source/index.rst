@@ -151,9 +151,9 @@ Contents
    course-info/grading
    course-info/course-environment-components
    course-info/slack-usage
-   course-info/pair-programming
    course-info/License-terms
    course-info/attribution
+   .. course-info/pair-programming
 
 .. toctree::
    :maxdepth: 1
