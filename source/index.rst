@@ -224,4 +224,4 @@ Contents
    :caption: Final Assignment
 
    .. lessons/final-assignment/final-assignment
-   lessons/final-assignment/final-assignment-grading
+      lessons/final-assignment/final-assignment-grading
