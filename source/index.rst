@@ -77,7 +77,7 @@ completed individually and must clearly reflect your own work (in short, don’t
 
 .. admonition:: Online teaching
 
-    Please note that the course is organized completely online during the 2021 Spring semester.
+    Please note that the course is organized completely online during the 2022 Spring semester.
     Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes.
 
 
@@ -129,12 +129,8 @@ Topics per week are listed below. Please note that this web page is updated each
       - - SDG 3: Health and well being
         - Covid-19
     * - 6
-      - - Spatial prioritization
-        - Raster analysis
-        - Zonation
-      - - SDG 14-15: Life on Land, Life below water
-        - Nature conservation
-        - Biodiversity crisis
+      - - Group work on selected topic
+      - - Group work on selected topic
 
 |
 
