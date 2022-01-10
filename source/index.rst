@@ -129,12 +129,8 @@ Topics per week are listed below. Please note that this web page is updated each
       - - SDG 3: Health and well being
         - Covid-19
     * - 6
-      - - Spatial prioritization
-        - Raster analysis
-        - Zonation
-      - - SDG 14-15: Life on Land, Life below water
-        - Nature conservation
-        - Biodiversity crisis
+      - - Group work on selected topic
+      - - Group work on selected topic
 
 |
 
