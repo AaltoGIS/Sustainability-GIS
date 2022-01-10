@@ -16,13 +16,10 @@ Sustainability
 - Meyer, K. & Newman, P. (2018). `The Planetary Accounting Framework: a novel, quota-based approach to understanding the impacts of any scale of human activity in the context of the Planetary Boundaries. <https://sustainableearth.biomedcentral.com/articles/10.1186/s42055-018-0004-3>`__ Sustain. Earth 1, 4.
 - Sachs, J. et al. (2019). `Six Transformations to achieve the Sustainable Development Goals. <https://doi.org/10.1038/s41893-019-0352-9>`__ Nat. Sustain. 2, 805–814.
 
-TODO: Add more!
-
 Spatial Data Science
 --------------------
-
-TODO: Add more!
 
 - Singleton, A. & Arribas‐Bel, D. (2019). `Geographic Data Science. <https://doi.org/10.1111/gean.12194>`__ Geogr. Anal. 1–15.
 - Wolf, L. et al. (2020). `Quantitative geography III: Future challenges and challenging futures. <https://doi.org/10.1177/0309132520924722>`__ Prog. Hum. Geogr. 1–13.
 - Yuan, M. (2020). `Geographical information science for the United Nations’ 2030 agenda for sustainable development. <https://doi.org/10.1080/13658816.2020.1766244>`__ Int. J. Geogr. Inf. Sci. 1–8.
+- Dodge, S. (2021). `A Data Science Framework for Movement. <https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12212>`__Geogr. Anal. 53, 92-112.
