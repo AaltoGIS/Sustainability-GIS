@@ -77,7 +77,7 @@ completed individually and must clearly reflect your own work (in short, don’t
 
 .. admonition:: Online teaching
 
-    Please note that the course is organized completely online during the 2021 Spring semester.
+    Please note that the course is organized completely online during the 2022 Spring semester.
     Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes.
 
 
