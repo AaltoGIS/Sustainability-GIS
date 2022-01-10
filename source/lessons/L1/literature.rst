@@ -22,4 +22,4 @@ Spatial Data Science
 - Singleton, A. & Arribas‐Bel, D. (2019). `Geographic Data Science. <https://doi.org/10.1111/gean.12194>`__ Geogr. Anal. 1–15.
 - Wolf, L. et al. (2020). `Quantitative geography III: Future challenges and challenging futures. <https://doi.org/10.1177/0309132520924722>`__ Prog. Hum. Geogr. 1–13.
 - Yuan, M. (2020). `Geographical information science for the United Nations’ 2030 agenda for sustainable development. <https://doi.org/10.1080/13658816.2020.1766244>`__ Int. J. Geogr. Inf. Sci. 1–8.
-- Dodge, S. (2021). `A Data Science Framework for Movement. <https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12212>`__Geogr. Anal. 53, 92-112.
+- Dodge, S. (2021). `A Data Science Framework for Movement. <https://onlinelibrary.wiley.com/doi/epdf/10.1111/gean.12212>`__ Geogr. Anal. 53, 92-112.
