@@ -44,22 +44,64 @@ Git which files to include in the next committed snapshot. Finally, ``git commit
 Preparations
 ------------
 
-Let's go through the basics of using Git. We will use Exercise-1 repository for practicing.
-Let's take these two steps before continuing further:
+Create a Personal Access Token
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Make your own personal copy of the given Exercise by accepting a GitHub Classroom assignment (here :doc:`Exercise 1 <exercise-1>`
-2. Launch a `CSC Notebook programming environment <https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b>`__
+Before we start cloning our repository from GitHub, we need to create a Personal Access Token for us to be able to interact with GitHub. We will go through the basic setup here, you can also find more detailed instructions in the `GitHub documentation <https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token>`_.
 
-   - You can find instructions for using CSC Notebooks (+ Binder) in :doc:`here <../../course-info/course-environment-components>`.
+If you have not already verified your email address, make sure to do so in your GitHub-settings (`GitHub email verification <https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address>`_). On GitHub, go into your settings.
 
+.. image:: https://docs.github.com/assets/images/help/settings/userbar-account-settings.png
+    :width: 200
 
-After these steps, we need the URL of your exercise repository from GitHub (ensure you've done the step 1 above).
-**Go to** https://github.com/Sustainability-GIS-2021/ **and navigate to your personal Exercise-1 repository.**
+Go to the **developer settings** in the left sidebar.
 
-On GitHub, find the button **Clone** and copy the url under *Clone with HTTPS*.
+.. image:: https://docs.github.com/assets/images/help/settings/developer-settings.png
+    :width: 200
+
+Then click on **Personal access tokens**.
+
+.. image:: https://docs.github.com/assets/images/help/settings/personal_access_tokens_tab.png
+    :width: 200
+
+Then we will create the token by clicking on **Generate new token**.
+
+.. image:: https://docs.github.com/assets/images/help/settings/generate_new_token.png
+    :width: 500
+
+Start by giving your token a name.
+
+.. image:: img/token_name.png
+    :width: 500
+
+We will then give the token a expiration date. You can choose the duration you prefer, here we set it to 90 days which should be sufficient for this course.
+
+.. image:: img/token_expiration.png
+    :width: 300
+
+Next, we need to set the permissions, or scopes, that our token is granted. We are going to need it to be able to access and change our repositories. For that, we can select the check marks **repo**, **admin:repo_hook**, and **delete_repo**.
+
+.. image:: img/token_scopes.png
+    :width: 500
+
+Then we can click the **Generate token** button to create and see our token.
+
+.. image:: https://docs.github.com/assets/images/help/settings/generate_token.png
+    :width: 350
+
+We are then presented with our Personal access token, click the copy button to copy it to your clipboard and then paste it into your text file in the JupyterLab session.
+
+.. image:: https://docs.github.com/assets/images/help/settings/personal_access_tokens.png
+    :width: 500
+
+Open a text document and copy and paste your Personal access token in your text file, because for now we are going to use it like this, and we will later see how we can cache it so that we don't need to copy and paste it every time we need it. If your access token is lost, then you can just follow the steps above again to create a new one.
+
+Now the first thing we need is the URL of your exercise repository from GitHub. **Go to** https://github.com/Sustainability-GIS-2022/ **and navigate to your personal Exercise-1 repository.**
+
+On GitHub, find the button **Code** and copy the url under *Clone with HTTPS*.
 
 The URL looks something like this:
-https://github.com/Sustainability-GIS-2021/exercise-1-htenkanen.git but with your own username or team name.
+https://github.com/Sustainability-GIS-2022/exercise-1-HTenkanen.git but with your own username.
 
 .. figure:: img/git-copy-url.png
 
@@ -98,7 +140,7 @@ Credentials
 
 Git needs to know who you are in order to give you access to remote repositories.
 
-**Insert your GitHub username and password**:
+**Insert your GitHub username and personall access token**:
 
 .. figure:: img/git-plugin-credentials.png
 
@@ -169,12 +211,19 @@ On the command line the syntax for committing is ``git commit -m "commit message
 
 .. note::
 
-    We can **tell Git to remember our GitHub username and password** to avoid typing them in all the time. Open up a Terminal window and type in this command:
+    We can **tell Git to remember our GitHub username and access token** to avoid typing them in all the time. Open up a Terminal window and type in this command:
 
-    ``git config --global credential.helper 'cache --timeout=3600'``
+    ``git config --global credential.helper 'store --file /home/jovyan/work/.git-credentials'``
 
-    The ``--timeout`` parameter specifies the time Git remembers our credentials in seconds.  See instructions for other operating systems than linux `here <https://help.github.com/en/articles/caching-your-github-password-in-git>`__.
+    Then change the folder you are in by typing (with your username):
 
+    ``cd exercise/excercise-1-HTenkanen/``
+
+    We then pull from our GitHub repository:
+
+    ``git pull``
+
+    Type your username, press enter, and go to the text file with your access token, copy it, and paste into your terminal with **ctrl+v** and press enter. Then your username and access token should be stored and you can pull and push to and from GitHub without having to type your access token every time.
 
 Push changes to GitHub
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -195,7 +244,7 @@ Now we are ready to push the local changes to GitHub using :code:`git push` (but
 
 .. figure:: img/git-plugin-push-ok.png
 
-Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/Sustainability-GIS-2021/ .
+Now you should see the updates in GitHub! Go and have a look at your personal repository in https://github.com/Sustainability-GIS-2022/ .
 
 On the command line, ``git pull`` fetches and merges changes from the remote repository, and ``git pull`` publishes local changes.
 
