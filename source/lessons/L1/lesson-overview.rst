@@ -59,3 +59,14 @@ To ensure the privacy of participating students at online sessions, the videos w
         :width: 500px
         :align: left
 
+.. admonition:: Lesson 1.6 - Introduction to spatial analysis with Python using Geopandas (Tutorial 1.2)
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-Lesson-1.5.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3186ffb2-67b5-49c3-8666-ae1c00fa8497
+        :width: 500px
+        :align: left
+
+
+
