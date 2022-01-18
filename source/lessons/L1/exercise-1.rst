@@ -1,7 +1,7 @@
 Exercise 1
 ==========
 
-**Due date:** Please complete this exercise by **the end of day on Wednesday the 20th of January 2021** (day before the next practical session).
+**Due date:** Please complete this exercise by **the end of day on Thursday the 27th of January 2022**.
 
 .. admonition:: Pre-assignment - Create a GitHub account
 
