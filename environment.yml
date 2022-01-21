@@ -1,4 +1,4 @@
-name: gis
+name: geo
 
 channels:
   - conda-forge
