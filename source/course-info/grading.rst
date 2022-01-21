@@ -12,8 +12,33 @@ The final grade is based 40 % on the final poster assignment and 60 % on weekly 
           Please let the instructors know before the deadline if you anticipate you will not be able to submit on time.
 
 
+Grading criteria
+----------------
+
+**Criteria for the exercises:**
+
+- does the code work as instructed?
+- is the style of the code following good programming practices?
+- does the written assignment answer to the questions?
+- is there dialogue with relevant literature / course materials?
+- does the student use "own thinking" and reflect the learnings e.g. to own experiences or other ideas
+- fluency / clarity of the text
+- appropriate citation practices used
+
+
+**Criteria for the group work / poster:**
+̃
+- is there a general description about the research problem (research questions)?
+- are all results (maps, graphs etc.) presented/discussed clearly?
+- are the research findings interpreted appropriately, including limitations?
+- is there dialogue with relevant literature?
+- fluency / clarity of the text
+- appropriate citation practices used
+- is the analysis / programming done appropriately? (no bugs + follows good coding practices)
+- quality of the presentation (is the poster clearly presented, staying on time, etc.)
+
 Preliminary grading thresholds:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 - 5 --> 90 % or more of the points received
 
