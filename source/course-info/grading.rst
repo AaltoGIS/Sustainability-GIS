@@ -25,9 +25,8 @@ Grading criteria
 - fluency / clarity of the text
 - appropriate citation practices used
 
-
 **Criteria for the group work / poster:**
-̃
+
 - is there a general description about the research problem (research questions)?
 - are all results (maps, graphs etc.) presented/discussed clearly?
 - are the research findings interpreted appropriately, including limitations?
