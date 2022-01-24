@@ -11,7 +11,7 @@ Lesson videos
 
 Videos will be added here after the lesson.
 
-To ensure the privacy of participating students at online sessions, the videos will not be made publicly available in 2021.
+To ensure the privacy of participating students at online sessions, the videos will not be made publicly available this year.
 
 .. admonition:: Lesson 6.1 - Introduction to systematic conservation planning
 

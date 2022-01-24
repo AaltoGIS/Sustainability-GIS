@@ -11,7 +11,7 @@ In the second week, we will learn about:
 Lesson videos
 -------------
 
-To ensure the privacy of participating students at online sessions, the videos will not be made publicly available in 2021.
+To ensure the privacy of participating students at online sessions, the videos will not be made publicly available this year.
 
 
 .. admonition:: Lesson 2.1 - Human wellbeing and capabilities

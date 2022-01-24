@@ -8,7 +8,7 @@ In the fifth week, we will learn about:
 Lesson videos
 -------------
 
-To ensure the privacy of participating students at online sessions, the videos will not be made publicly available in 2021.
+To ensure the privacy of participating students at online sessions, the videos will not be made publicly available this year.
 
 .. admonition:: Lesson 5.1 - Basics of modeling and simulation
 
