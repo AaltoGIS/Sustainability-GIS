@@ -23,23 +23,22 @@ To ensure the privacy of participating students at online sessions, the videos w
         :align: left
 
 
-..   .. admonition:: Lesson 3.2 - Mobility analytics
+.. admonition:: Lesson 3.2 - Mobility analytics
 
-        Aalto University students can access the video by clicking the image below (requires login):
+    Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/SDS4SD_Lesson_3.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c820ad6-8bb4-40ba-a7a1-acbc00b44635
-            :width: 500px
-            :align: left
+    .. figure:: img/SDS4SD_Lesson_3.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f887be7-5d2f-426f-8954-ae280113c249
+        :width: 500px
+        :align: left
 
+.. admonition:: Lesson 3.3 - Trajectory data mining in Python
 
-    .. admonition:: Lesson 3.3 - Trajectory data mining in Python
+    Aalto University students can access the video by clicking the image below (requires login):
 
-        Aalto University students can access the video by clicking the image below (requires login):
-
-        .. figure:: img/SDS4SD_Lesson_3.3.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4b2fc153-071c-4557-8f62-acbc00b7a348
-            :width: 500px
-            :align: left
+    .. figure:: img/SDS4SD_Lesson_3.3.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6fd43a85-d319-4127-8302-ae280113cad0
+        :width: 500px
+        :align: left
 
 
