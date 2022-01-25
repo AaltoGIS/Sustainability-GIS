@@ -181,10 +181,10 @@ Contents
 
    lessons/L3/lesson-overview
    lessons/L3/mobilities
+   lessons/L3/trajectory-data-mining
+   lessons/L3/mobility-analytics.ipynb
    lessons/L3/literature
-   .. lessons/L3/trajectory-data-mining
-   .. lessons/L3/mobility-analytics.ipynb
-   .. lessons/L3/exercise-3.ipynb
+   lessons/L3/exercise-3.ipynb
 
 .. toctree::
    :maxdepth: 1
