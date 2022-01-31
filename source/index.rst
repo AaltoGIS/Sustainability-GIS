@@ -190,8 +190,8 @@ Contents
    :maxdepth: 1
    :caption: Lesson 4
 
-   ..  lessons/L4/lesson-overview
-       lessons/L4/economy
+   lessons/L4/lesson-overview
+   lessons/L4/economy
        lessons/L4/spatial_econometrics
        lessons/L4/spatial_regression.ipynb
        lessons/L4/literature
