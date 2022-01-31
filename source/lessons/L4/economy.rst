@@ -1,5 +1,5 @@
-Economic inequalities, growth and green economy
-===============================================
+Economic inequalities and growth
+================================
 
 .. raw:: html
 
