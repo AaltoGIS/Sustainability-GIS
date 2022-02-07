@@ -22,17 +22,14 @@ Instructions
 Aim of the final assignment
 ---------------------------
 
-The final project is an individual task where the aim is to apply spatial data science methods to study a selected
-sustainability challenge and write a short report documenting your work.
-
-You can select a pre-defined topic, or develop your own question. You should take advantage of your programming and spatial data science skills,
+The final project is **a group work** where the aim is to apply spatial data science methods to study a selected
+sustainability challenge. For the final project, you can select a pre-defined topic, or develop your own question. You should take advantage of your programming and spatial data science skills,
 version control skills (git + GitHub) and good coding practices (writing readable code) when doing the final assignment.
 
-Think about the final project as a challenge for yourself to show and implement the programming skills that you have learned this far.
-You have learned a lot already!
+How to make a poster?
+---------------------
 
-Final work structure
---------------------
+
 
 Here is the suggested structure of the work, that also serves as the basis for grading:
 
@@ -61,11 +58,17 @@ All in all, the work should include these components:
 What should be returned?
 ------------------------
 
-Organize all your material into your personal Final-Assignment repository and store your work into the ``final_assignment.ipynb`` file.
+**Overview:** As an output of this project, you should **i) create a poster** that documents your work and results (see separate instructions for the poster).
+In addition, your group should **ii) return the codes that were used to create the results** as a Jupyter Notebook (or alternatively as Python script files).
+
+**Poster:** Return your poster as a Powerpoint presentation with **a single slide** or as a PDF with single page. In the poster session, you will be presenting your poster
+to the students.
+
+**Codes:** Organize all your material into your groups Final-Assignment repository and store your work into the ``final_assignment.ipynb`` file.
 If you wish, you can write parts of your analysis workflow into separate Python script files (``.py``) and then apply them inside the Notebook.
 Anyone who downloads the repository should be able to **read your code** and documentation and understand what is going on, and **run your code** in order to reproduce the same results.
-Please return a clean and coherent notebook (think it as a report) that only contains necessary code cells to reproduce and report the findings of your analyses
-(i.e. remove all unnecessary code blocks for printing the first rows of the GeoDataFrame etc.).
+Please return a clean and coherent notebook (think it as a supportive report/story with code alongside the poster) that only contains necessary code cells to reproduce and report the main findings of your analyses
+Hence, you should remove all unnecessary code blocks for printing the first rows of the GeoDataFrame etc.
 **Please ensure that everything works before returning your work**: Run the whole notebook (`like this <https://stackoverflow.com/a/53214668>`__)
 and return the work once you do not have any surprising errors and your results look as they should (this is what reproducibility is all about!).
 
@@ -74,14 +77,9 @@ and return the work once you do not have any surprising errors and your results 
 When is the deadline?
 ---------------------
 
-The deadline for returning the final assignment is **March 14th, 2021**. Naturally, you can return the assignment earlier.
-We apologise that the course is slightly prolonged over a single study period this year. If you have tight schedule in the following weeks
-(e.g. many new courses starting in the following study period), please contact the teacher so we can agree on a schedule for your final assignment.
-
-Label your submissions as "submitted" in the exercise repository's `README.md` under "status" once you are finished with the Final assignment.
-
-Submissions are checked after the deadline and the final grade is given within 4 weeks after the deadline.
-If you need the course grade earlier, please contact the course instructor.
+1. **The deadline for a FINALIZED POSTER is Tuesday February 22nd, 2022** when you should return your poster presentation to the teacher, as well as have the project codes (Notebook) available on the Github repository.
+2. **The poster session is organized on Thursday 24th February at 09:15-12:00**, when the groups present their poster on a virtual environment called
+**Gather Town**.
 
 Grading
 -------

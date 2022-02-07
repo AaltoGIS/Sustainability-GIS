@@ -201,10 +201,10 @@ Contents
    :maxdepth: 1
    :caption: Lesson 5
 
-   ..  lessons/L5/lesson-overview
-       lessons/L5/agent-based-modelling
-       lessons/L5/literature
-       lessons/L5/exercise-5
+   lessons/L5/lesson-overview
+   lessons/L5/agent-based-modelling
+   ..    lessons/L5/literature
+   ..    lessons/L5/exercise-5
 
 .. toctree::
    :maxdepth: 1
