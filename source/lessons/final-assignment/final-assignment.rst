@@ -15,20 +15,24 @@ Start your assignment
 .. important::
 
     **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
-    below, it is possible for you to i) **create a team** OR ii) **join to an existing team**, like following:
+    below, it is possible for you to i) **create a team** OR ii) **join to an existing team**.
 
-    .. figure:: img/Joining-a-team.png
-       :width: 400px
+    .. admonition:: You should see something like this (click to open)
+        :class: dropdown
 
-    Hence, before starting the work **you need to communicate with your group members, who will create the team** and give it an appropriate name,
+        .. figure:: img/Joining-a-team.png
+           :width: 400px
+
+    Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name,
     so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
     with your Github accounts.
 
-.. admonition:: Start your assignment
+.. admonition:: Start your assignment (link will be added on Tuesday after instructions)
+    :class: dropdown
 
     **Start your final assignment by**:
 
-    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/o-Sg3tWr>`_ **for the final work.**
+    - accepting the GitHub Classroom for the final work (link will be added here).
 
     After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
 
