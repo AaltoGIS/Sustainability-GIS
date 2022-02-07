@@ -1,6 +1,29 @@
 Instructions
 ============
 
+Aim of the final assignment
+---------------------------
+
+The final project is **a group work** where the aim is to apply spatial data science methods to study a selected
+sustainability challenge, and **report your findings in a poster**. For the final project, you can select a pre-defined topic, or develop your own question.
+You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub)
+and good coding practices (writing readable code) when doing the final assignment.
+
+Start your assignment
+---------------------
+
+.. important::
+
+    **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
+    below, it is possible for you to i) **create a team** OR ii) **join to an existing team**, like following:
+
+    .. figure:: img/Joining-a-team.png
+       :width: 400px
+
+    Hence, before starting the work **you need to communicate with your group members, who will create the team** and give it an appropriate name,
+    so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
+    with your Github accounts.
+
 .. admonition:: Start your assignment
 
     **Start your final assignment by**:
@@ -18,13 +41,6 @@ Instructions
             :width: 500px
             :align: left
 
-Aim of the final assignment
----------------------------
-
-The final project is **a group work** where the aim is to apply spatial data science methods to study a selected
-sustainability challenge, and **report your findings in a poster**. For the final project, you can select a pre-defined topic, or develop your own question.
-You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub)
-and good coding practices (writing readable code) when doing the final assignment.
 
 How to make a poster?
 ---------------------
@@ -35,7 +51,6 @@ How to make a poster?
 
 Return your poster as a Powerpoint presentation with **a single slide** or as a PDF with single page. In the poster session, you will be presenting your poster
 to the students.
-
 
 How to work with the code?
 --------------------------
@@ -54,16 +69,17 @@ and return the work once you do not have any surprising errors and your results 
 
 *Note: If your code requires some python packages not found in the csc notebooks environment, please mention them also in the report and provide installation instrutions.*
 
-**Technical considerations**:
+.. admonition:: Technical considerations
+    :class: dropdown
 
-- Document your analyses well using the Markdown cells and describe 1) what you are doing and 2) what you can see from the data and your results.
-- Use informative visualizations:
+    - Document your analyses well using the Markdown cells and describe 1) what you are doing and 2) what you can see from the data and your results.
+    - Use informative visualizations:
 
-  - Create maps (static or interactive)
-  - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
-  - Use subplots that allows to easily compare results side-by-side
+      - Create maps (static or interactive)
+      - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
+      - Use subplots that allows to easily compare results side-by-side
 
-- When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
+    - When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
 
 What should be returned?
 ------------------------
@@ -93,13 +109,41 @@ When is the deadline?
 Grading
 -------
 
-The grading is based on a typical 0-5 scale. See detailed grading criteria :doc:`here <final-assignment-grading>`.
-The final assignment is graded based on:
+The grading is based on a typical 0-5 scale. The final assignment is graded based on:
 
 - Main analysis steps (data fetching, data analysis, visualization)
 - Repeatability (it should be possible to repeat the main analysis steps)
 - Quality of visualizations (maps and graphs)
 - Poster, presentation and overall documentation of the work
+
+.. admonition:: See more detailed grading criteria here
+   :class: dropdown
+
+   **The grading is based on a typical 0-5 scale. The grade is based on a total of 50 points:**
+
+   **25 points for the poster and presentation based on following criteria:**
+
+   - is there a general description in about the research problem / purpose of the work?
+   - is the usage of the methods described clearly?
+   - are the results (maps, graphs) presented and explained clearly?
+
+
+   **25 points for demonstrating major analysis steps/ functionality**:
+
+   - Finding relevant datasets
+   - Reading and manipulating data
+   - Analyzing data
+   - Visualizations (maps, graphs)
+   - Is the code written in a modular way (avoid repetition eg. using functions and for-loops)
+   - Does everything work as it should
+   - The "level of difficulty" in the analysis task is taken into account in the assessment (however, choose a challenge that you feel comfortable of doing)
+
+   **Extra points** available for other merits in the work:
+
+   - something in the work is exceptionally well done
+   - some problem in the code is solved in a "smart" way
+   - the visualizations are exceptionally good
+   - the written parts is thorough and relies on published research on the topic
 
 Suggested topics
 ----------------
@@ -135,28 +179,29 @@ still providing useful insights about the given indicator in the areas that you 
 we will plan/organize the work in such a way that every group will have a different set of cities that they are working on
 to avoid duplicate works.
 
-**Suggested indicators:**
+.. admonition:: Suggested indicators
+    :class: dropdown
 
-If you have hard time choosing a target/indicator, we suggest that you focus on target 11.2, which is:
+    If you have hard time choosing a target/indicator, we suggest that you focus on target 11.2, which is:
 
-  "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons."
+      "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons."
 
-As a starting point check the more detailed description for the indicator of this target `provided by SDSN <https://indicators.report/targets/11-2/>`__
-as well as the `indicator metadata <https://unstats.un.org/sdgs/metadata/files/Metadata-11-02-01.pdf>`__ provided by UN.
-From the descriptions you can see that there are three proposed sub-indicators that constitute the indicator 11.2:
+    As a starting point check the more detailed description for the indicator of this target `provided by SDSN <https://indicators.report/targets/11-2/>`__
+    as well as the `indicator metadata <https://unstats.un.org/sdgs/metadata/files/Metadata-11-02-01.pdf>`__ provided by UN.
+    From the descriptions you can see that there are three proposed sub-indicators that constitute the indicator 11.2:
 
-1. `Road traffic deaths per 100,000 population <https://indicators.report/indicators/i-25/>`__
-2. `Access to all-weather road (% access within [x] km distance to road) <https://indicators.report/indicators/i-58/>`__
-3. `Percentage of people within 0.5km of public transit running at least every 20 minutes. <https://indicators.report/indicators/i-67/>`__
+    1. `Road traffic deaths per 100,000 population <https://indicators.report/indicators/i-25/>`__
+    2. `Access to all-weather road (% access within [x] km distance to road) <https://indicators.report/indicators/i-58/>`__
+    3. `Percentage of people within 0.5km of public transit running at least every 20 minutes. <https://indicators.report/indicators/i-67/>`__
 
-Your task is to find relevant information from open data sources (see Data section below, OpenStreetMap is a good place to start!)
-and construct metrics for these three sub-indicators **for at least two different regions (cities)** as described in the indicator documentation (above).
-In your poster, also reflect your thoughts about the suitability of the indicator to understand and measure the progress toward the target
-(do you see any issues, or have other comments?). Also reflect how well you were able to construct the indicators based on openly available data
-(are there any issues e.g. in terms of data quality?).
+    Your task is to find relevant information from open data sources (see Data section below, OpenStreetMap is a good place to start!)
+    and construct metrics for these three sub-indicators **for at least two different regions (cities)** as described in the indicator documentation (above).
+    In your poster, also reflect your thoughts about the suitability of the indicator to understand and measure the progress toward the target
+    (do you see any issues, or have other comments?). Also reflect how well you were able to construct the indicators based on openly available data
+    (are there any issues e.g. in terms of data quality?).
 
 Notes
-~~~~~
+-----
 
 Notice that there are no specific criteria how you should conduct and do the analyses, as they are up to you to decide and figure out.
 As said earlier, the main purpose of the final assignment is to demonstrate your analysis and programming skills, so aim to do the work in a way that you feel comfortable with.
