@@ -2,7 +2,6 @@ ipython>=7.31.1
 ipython_genutils==0.2.0
 ipywidgets==7.6.5
 ipykernel==6.4.2
-jupyter-book==0.12.1
 jupyter-cache==0.4.3
 jupyter-sphinx==0.3.2
 jupyter_client==7.0.6
