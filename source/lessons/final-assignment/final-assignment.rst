@@ -3,12 +3,11 @@ Instructions
 
 .. admonition:: Start your assignment
 
-    **Start your final assignment** by accepting the `GitHub Classroom <https://classroom.github.com/a/2DXFYkhx>`_ for the final work.
+    **Start your final assignment by**:
 
-    After you have your personal exercise in GitHub, start doing the programming using CSC Notebooks:
+    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/o-Sg3tWr>`_ **for the final work.**
 
-    .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-        :target: https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
+    After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
 
 .. .. admonition:: Instructions for the Final assignment (video)
 
@@ -30,7 +29,7 @@ and good coding practices (writing readable code) when doing the final assignmen
 How to make a poster?
 ---------------------
 
-.. raw::html
+.. raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdNlJh0NHa5ny-5RFbBORzBEw6KxOlTqTSYwCgqxpUj0l8X4T1BA0ZisyA5ZqXyQc7z2UL7keirh_w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -55,6 +54,17 @@ and return the work once you do not have any surprising errors and your results 
 
 *Note: If your code requires some python packages not found in the csc notebooks environment, please mention them also in the report and provide installation instrutions.*
 
+**Technical considerations**:
+
+- Document your analyses well using the Markdown cells and describe 1) what you are doing and 2) what you can see from the data and your results.
+- Use informative visualizations:
+
+  - Create maps (static or interactive)
+  - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
+  - Use subplots that allows to easily compare results side-by-side
+
+- When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
+
 What should be returned?
 ------------------------
 
@@ -69,16 +79,16 @@ with the final work**.
 
 **Distribution of work**: Because this is a group work, I want you to document and explain how did you distribute the work:
 
-  - Who worked with the codes and analysis?
-  - Who went through the literature (for background / contextual information)?
-  - Who prepared the poster presentation?
+- Who worked with the codes and analysis?
+- Who went through the literature (for background / contextual information)?
+- Who prepared the poster presentation?
 
 When is the deadline?
 ---------------------
 
-1. **The deadline for a FINALIZED POSTER is Tuesday February 22nd, 2022** when you should return your poster presentation to the teacher, as well as have the project codes (Notebook) available on the Github repository.
-2. **The poster session is organized on Thursday 24th February at 09:15-12:00**, when the groups present their poster on a virtual environment called
-**Gather Town** (link will be shared via Slack later).
+1. The deadline for a FINALIZED POSTER is **Tuesday February 22nd, 2022** when you should return your poster presentation to the teacher, as well as have the project codes (Notebook) available on the Github repository (edits can still be done). This is a **hard deadline to get your poster**, so that we have enough time to set up your poster to our poster-session.
+2. The poster session is organized on **Thursday 24th February at 09:15-12:00**, when the groups present their poster on a virtual environment called **Gather Town** (link will be shared via Slack later).
+3. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Friday 25th February**.
 
 Grading
 -------
@@ -91,19 +101,23 @@ The final assignment is graded based on:
 - Quality of visualizations (maps and graphs)
 - Poster, presentation and overall documentation of the work
 
-Option 1: Your own project work
--------------------------------
+Suggested topics
+----------------
 
-For the final assignment, you can decide your own topic.
+Option 1: Your own project work
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For the final assignment, you can fully decide your own topic.
 Requirement for the work is that it needs to relate to sustainability and you need to apply spatial data science methods in your work.
-You can for example choose another SDG target that you analyze.
+**You can (for example) choose a specific SDG target and a subset of its indicators that you analyze and present in the poster.**
+However, the topic can be something different as well (not directly related to SDGs).
 
 **Present your idea to the course instructor (at latest) by Friday 11.2 before starting it**.
 
 Option 2: Sustainable cities and communities
---------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In this assignment, the aim is to focus on Sustainable Development Goal 11 (Sustainable cities and communities) and create
+In this topic, the aim is to focus on Sustainable Development Goal 11 (Sustainable cities and communities) and create
 an analysis workflow in which you:
 
 - fetch the data for given area of interest (choose two areas so that you can compare them),
@@ -117,7 +131,11 @@ The main idea of the assignment is to calculate a set of metrics / indicators ba
 This assignment is not accurately defined, as the idea is to allow you to use your own imagination and interest to explore different datasets and conduct analyses that interest to you,
 still providing useful insights about the given indicator in the areas that you picked.
 
-**Suggested topics:**
+**NOTE:** If many groups decide to work on SDG11 using the same set of indicators,
+we will plan/organize the work in such a way that every group will have a different set of cities that they are working on
+to avoid duplicate works.
+
+**Suggested indicators:**
 
 If you have hard time choosing a target/indicator, we suggest that you focus on target 11.2, which is:
 
@@ -133,7 +151,7 @@ From the descriptions you can see that there are three proposed sub-indicators t
 
 Your task is to find relevant information from open data sources (see Data section below, OpenStreetMap is a good place to start!)
 and construct metrics for these three sub-indicators **for at least two different regions (cities)** as described in the indicator documentation (above).
-In your report, also reflect your thoughts about the suitability of the indicator to understand and measure the progress toward the target
+In your poster, also reflect your thoughts about the suitability of the indicator to understand and measure the progress toward the target
 (do you see any issues, or have other comments?). Also reflect how well you were able to construct the indicators based on openly available data
 (are there any issues e.g. in terms of data quality?).
 
@@ -142,13 +160,12 @@ Notes
 
 Notice that there are no specific criteria how you should conduct and do the analyses, as they are up to you to decide and figure out.
 As said earlier, the main purpose of the final assignment is to demonstrate your analysis and programming skills, so aim to do the work in a way that you feel comfortable with.
+Remember that **getting things done is better than perfect!**
 
-- Remember that getting things done is better than perfect!
-- Remember that half of the points come from the report and documentation, hence, we advice you to get the written parts done as early as possible (simultaneously as you proceed).
-
-As you might have experienced during this course, the programming parts can take time,
-hence, prioritize the writing, as putting most of your effort in solving the programming parts might not be
-a good strategy for maximizing the points.
+As you might have experienced during this course, the programming parts can take time.
+Hence, it is recommended to distribute the workload in such a way that some member(s) of the group can start preparing
+the poster already early-on even before you have the results ready. It can take surprisingly long time to design a good poster with
+nice layout and visual appearance.
 
 Useful documentation
 --------------------
@@ -174,20 +191,6 @@ You can use any (spatial) data that you can find, for example from the following
 - `Eurostat <https://ec.europa.eu/eurostat/data/database>`__
 
 Data sources are not limited to these, hence you can also use other data from any source that you can find (remember to document where the data is coming from!).
-
-Technical considerations
-------------------------
-
-Take care that you:
-
-- Document your analyses well using the Markdown cells and describe 1) what you are doing and 2) what you can see from the data and your results.
-- Use informative visualizations:
-
-  - Create maps (static or interactive)
-  - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
-  - Use subplots that allows to easily compare results side-by-side
-
-- When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
 
 Literature + inspiration
 ------------------------
