@@ -18,4 +18,4 @@ sphinx-comments==0.0.3
 sphinx-copybutton==0.4.0
 sphinx-panels==0.6.0
 sphinx-thebe==0.0.10
-sphinx-togglebutton==0.3.0
+sphinx-togglebutton==0.2.3
