@@ -28,7 +28,6 @@ Start your assignment
     with your Github accounts.
 
 .. admonition:: Start your assignment (link will be added on Tuesday after instructions)
-    :class: dropdown
 
     **Start your final assignment by**:
 
