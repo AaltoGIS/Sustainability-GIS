@@ -9,6 +9,15 @@ sustainability challenge, and **report your findings in a poster**. For the fina
 You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub)
 and good coding practices (writing readable code) when doing the final assignment.
 
+.. admonition:: Instructions for the Final assignment (video)
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-final-assignment.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f455e46a-3d31-4b0e-9f0c-ae360121f0d0
+        :width: 500px
+        :align: left
+
 Start your assignment
 ---------------------
 
@@ -34,16 +43,6 @@ Start your assignment
     - **accepting the** `GitHub Classroom <https://classroom.github.com/a/o-Sg3tWr>`__ **for the final work**.
 
     After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
-
-.. .. admonition:: Instructions for the Final assignment (video)
-
-        Aalto University students can access the video by clicking the image below (requires login):
-
-        .. figure:: img/SDS4SD-final-assignment.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3cac1e78-ca06-4462-8356-acd4007c466a
-            :width: 500px
-            :align: left
-
 
 How to make a poster?
 ---------------------
