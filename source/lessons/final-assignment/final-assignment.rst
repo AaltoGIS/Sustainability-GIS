@@ -32,7 +32,7 @@ Start your assignment
 
     **Start your final assignment by**:
 
-    - accepting the GitHub Classroom for the final work (link will be added here).
+    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/o-Sg3tWr>`__ **for the final work**.
 
     After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
 
