@@ -27,7 +27,7 @@ Start your assignment
     so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
     with your Github accounts.
 
-.. admonition:: Start your assignment (link will be added on Tuesday after instructions)
+.. admonition:: Start your assignment
 
     **Start your final assignment by**:
 
