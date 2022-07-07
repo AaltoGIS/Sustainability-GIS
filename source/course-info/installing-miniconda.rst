@@ -96,7 +96,7 @@ Installing mamba
 ~~~~~~~~~~~~~~~~
 
 To get started we will install the mamba package manager in our new Miniconda environment (are you tired of all the snake references yet?).
-We can install mamba by opening a terminal window or command prompt in Windows (as an admin user) and running the following:
+We can install mamba by **opening a terminal window or command prompt** in Windows (as an admin user) and running the following:
 
 .. code-block:: bash
 
@@ -108,7 +108,7 @@ If you're curious, you can find more about mamba in the `online user guide <http
 Installing the packages
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Main steps for creating and using a conda environment:
+After installing `mamba`, the main steps for creating and using a conda environment:
 
 1. create the environment from environment.yml file using mamba,
 2. activate the environment
@@ -116,9 +116,11 @@ Main steps for creating and using a conda environment:
 
 We have prepared a ready-made environment file for this course (called ``environment.yml``). You can  `DOWNLOAD IT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
+If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
 The commands work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. Create the Python environment based on the file that you downloaded by executing the following command in the directory where you downloaded the `.yml` file:
+1. Create the Python environment based on the file that you downloaded by using a terminal (or command prompt)
+and executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
 
