@@ -96,7 +96,7 @@ Installing mamba
 ~~~~~~~~~~~~~~~~
 
 To get started we will install the mamba package manager in our new Miniconda environment (are you tired of all the snake references yet?).
-We can install mamba by opening a terminal window or command prompt in Windows (as an admin user) and running the following:
+We can install mamba by **opening a terminal window or command prompt** in Windows (as an admin user) and running the following:
 
 .. code-block:: bash
 
@@ -108,7 +108,7 @@ If you're curious, you can find more about mamba in the `online user guide <http
 Installing the packages
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Main steps for creating and using a conda environment:
+After installing `mamba`, the main steps for creating and using a conda environment:
 
 1. create the environment from environment.yml file using mamba,
 2. activate the environment
@@ -116,9 +116,11 @@ Main steps for creating and using a conda environment:
 
 We have prepared a ready-made environment file for this course (called ``environment.yml``). You can  `DOWNLOAD IT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
-The commands work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
+If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
+The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. Create the Python environment based on the file that you downloaded by executing the following command in the directory where you downloaded the `.yml` file:
+1. Create the Python environment based on the file that you downloaded by using a terminal (or command prompt)
+and executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
 
@@ -152,24 +154,24 @@ Note, Jupyter Lab will probably prompt you to "Build" the installation in order 
     install the package that you wish to install following the guidelines below.
 
 
-General guide for installing packages with Conda
-------------------------------------------------
+General guide for installing packages with Mamba/Conda
+------------------------------------------------------
 
 Conda has an excellent `online user guide <https://docs.conda.io/projects/conda/en/latest/index.html>`__ which covers most of the basic things,
-such as installing new packages.
+such as installing new packages. You can replace all `conda` commands listed in the user guide with `mamba` to be able to install the packages much faster.
 
-Conda install
-~~~~~~~~~~~~~~~
+Mamba install
+~~~~~~~~~~~~~
 
-You can install new packages using the `conda install <https://docs.conda.io/projects/conda/en/latest/commands/install.html>`__
-command. The basic syntax for installing packages is ``conda install package-name``.
+You can install new packages using the `mamba install <https://docs.conda.io/projects/conda/en/latest/commands/install.html>`__
+command. The basic syntax for installing packages is ``mamba install package-name``.
 In addition, we also want to specify the **conda channel** from where the package is downloaded using the parameter `-c`.
 
 **Installing Pandas package from the conda-forge channel:**
 
 .. code-block::
 
-    conda install -c conda-forge pandas
+    mamba install -c conda-forge pandas
 
 Once you run this command, you will see also other packages getting installed and/or updated as conda checks for dependencies of the installed package.
 Read more about package installations in the `conda documentation <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages>`__
@@ -179,9 +181,9 @@ You can **install other useful packages in a similar way:**
 
 .. code-block::
 
-    conda install -c conda-forge matplotlib
-    conda install -c conda-forge bokeh
-    conda install -c conda-forge geopandas
+    mamba install -c conda-forge matplotlib
+    mamba install -c conda-forge bokeh
+    mamba install -c conda-forge geopandas
 
 .. admonition:: Conda channels
 
@@ -207,7 +209,7 @@ For other options and more information, take a look at the `JupyterLab installat
 
 .. code-block::
 
-    conda install -c conda-forge jupyterlab
+    mamba install -c conda-forge jupyterlab
 
 After installation is completed, you can start a JupyterLab instance by running this command (notice the space between the words!):
 
