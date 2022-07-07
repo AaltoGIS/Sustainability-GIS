@@ -3,11 +3,12 @@ Install Python locally (optional)
 
 Although we will use the dedicated `course environment to do all the programming, <course-environment-components.html>`__
 **it is also possible to complete the tutorials and programming exercises on your own computer**.
-The purpose of this page is to help you to install Python and required Python packages locally.
-We recommend using `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ for installing Python
-(i.e. not the one available from the Python website).
-Miniconda comes with Python and a small number of useful packages. Additional packages can be installed using the
-package management system `conda <https://docs.conda.io/en/latest/>`__.
+
+The purpose of this page is to help you to install Python and different Python packages into your own computer.
+Even though it is possible to install Python from the `Python homepage <https://www.python.org/>`_, **we highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install Python.
+Miniconda comes with Python and a small number of essential packages.
+Additional packages can be installed using the package management systems `mamba <https://mamba.readthedocs.io/en/latest/index.html>`_ or `conda <https://docs.conda.io/en/latest/>`__.
+Both offer similar functionality, but we suggest using mamba because it is significantly faster for installing the libraries needed for using Python for GIS.
 
 Miniconda is a light-weight version of `Anaconda <https://www.anaconda.com/>`_ which is an open source distribution of the Python and R programming
 languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment. In short,
@@ -88,14 +89,28 @@ the Python interpreter. It is a good practice to install all packages (if possib
 conda channel (e.g. ``conda-forge`` which we recommend), and not to mix conda and pip for installations
 if not strictly necessary.
 
-**Installing the** ``geo`` **environment for the course**
-
 Conda has an excellent documentation about `creating and managing conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`__
 where you can check details of the used commands.
 
+Installing mamba
+~~~~~~~~~~~~~~~~
+
+To get started we will install the mamba package manager in our new Miniconda environment (are you tired of all the snake references yet?).
+We can install mamba by opening a terminal window or command prompt in Windows (as an admin user) and running the following:
+
+.. code-block:: bash
+
+    # Install mamba
+    conda install mamba -n base -c conda-forge
+
+If you're curious, you can find more about mamba in the `online user guide <https://mamba.readthedocs.io/en/latest/index.html>`__ which covers most of the basic things, such as installing new packages.
+
+Installing the packages
+~~~~~~~~~~~~~~~~~~~~~~~
+
 Main steps for creating and using a conda environment:
 
-1. create the environment from environment.yml file,
+1. create the environment from environment.yml file using mamba,
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
@@ -103,11 +118,11 @@ We have prepared a ready-made environment file for this course (called ``environ
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 The commands work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. Create the Python environment based on the file that you downloaded:
+1. Create the Python environment based on the file that you downloaded by executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
 
-    conda env create -f environment.yml
+    mamba env create -f environment.yml
 
 
 2. Activate the environment:
