@@ -64,7 +64,7 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
 
 .. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
 
-    1. Go to this link: https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
+    1. Go to this link: https://notebooks-old.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
     2. Join group **Sustainability-GIS** using the joining code: ``sustainability-gis-tfhk0``
 
     After joining the group, you should be able to view an environment called `Sustainability-GIS` on the Dashboard.
