@@ -9,11 +9,8 @@ General info
 Course meetings in teaching period III
 --------------------------------------
 
-- Lessons on Mondays 14:15-16:00
-- Tutorial sessions on Tuesdays 14:15-16:00
-- Practical work sessions on Thursdays 09:15-12:00
-
-You can find the `Zoom link from MyCourses <https://mycourses.aalto.fi/course/view.php?id=30510>`__ (requires login, only accessible to course students).
+- Lessons on **Mondays** and **Tuesdays** at **14:15-16:00** (**room 326** at Otakaari 4). Videos will be shared afterwards.
+- Exercise sessions on **Thursdays** at **13:15-16:00** (**room 148** at Otakaari 4). In-person only.
 
 Instructors
 -----------
