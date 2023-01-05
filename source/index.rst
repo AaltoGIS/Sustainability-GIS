@@ -33,7 +33,7 @@ and `Spatial analytics <https://spatial-analytics.readthedocs.io/en/latest/>`__.
 
 .. admonition:: Help improving the materials
 
-    **This is version #2.**
+    **This is version #3.**
 
     The course was given for the very first time in 2021. Due to the early stages of the course, it is likely that the contents will
     change and improve after each iteration (all versions will be available). By being a fully open
@@ -75,16 +75,11 @@ completed individually and must clearly reflect your own work (in short, don’t
     You can find buttons for activating the python environment using `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson.
     Students at Finnish higher education institutions are encouraged to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
 
-.. admonition:: Online teaching
-
-    Please note that the course is organized completely online during the 2022 Spring semester.
-    Access to zoom, slack and CSC notebooks is available to students at Finnish higher education institutes.
-
 
 Program
 -------
 
-The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 10th of January 2022.
+The course runs for six weeks at the Aalto University starting in the third teaching period.
 Each week covers selected spatial data science (SDS) methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
 Topics per week are listed below. Please note that this web page is updated each week before the lesson:
 
@@ -123,17 +118,16 @@ Topics per week are listed below. Please note that this web page is updated each
         - Spatial optimization - Location allocation
       - - SDG 7-8: Affordable and clean energy & Decent work and economic growth
     * - 5
-      - - Agent based modelling
+      - - Hydrological spatial models
         - Simulation
-        - Spatial risk management
-      - - SDG 3: Health and well being
-        - Covid-19
+        - Artificial intelligence
+      - - SDG 2, 6: Zero Hunger & Clean water
+        - Water diplomacy
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
 
 |
-
 
 Contents
 --------
@@ -149,7 +143,6 @@ Contents
    course-info/slack-usage
    course-info/License-terms
    course-info/attribution
-   .. course-info/pair-programming
 
 .. toctree::
    :maxdepth: 1
@@ -161,63 +154,63 @@ Contents
    lessons/L1/git-basics
    lessons/L1/intro-to-python-geostack.ipynb
    lessons/L1/literature
-   lessons/L1/exercise-1
+..   lessons/L1/exercise-1
 
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Lesson 2
+       .. toctree::
+          :maxdepth: 1
+          :caption: Lesson 2
 
-   lessons/L2/lesson-overview
-   lessons/L2/wellbeing-capabilities
-   lessons/L2/network-analytics-accessibility
-   lessons/L2/spatial_network_analysis.ipynb
-   lessons/L2/literature
-   lessons/L2/exercise-2
+          lessons/L2/lesson-overview
+          lessons/L2/wellbeing-capabilities
+          lessons/L2/network-analytics-accessibility
+          lessons/L2/spatial_network_analysis.ipynb
+          lessons/L2/literature
+          lessons/L2/exercise-2
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Lesson 3
+       .. toctree::
+          :maxdepth: 1
+          :caption: Lesson 3
 
-   lessons/L3/lesson-overview
-   lessons/L3/mobilities
-   lessons/L3/trajectory-data-mining
-   lessons/L3/mobility-analytics.ipynb
-   lessons/L3/literature
-   lessons/L3/exercise-3.ipynb
+          lessons/L3/lesson-overview
+          lessons/L3/mobilities
+          lessons/L3/trajectory-data-mining
+          lessons/L3/mobility-analytics.ipynb
+          lessons/L3/literature
+          lessons/L3/exercise-3.ipynb
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Lesson 4
+       .. toctree::
+          :maxdepth: 1
+          :caption: Lesson 4
 
-   lessons/L4/lesson-overview
-   lessons/L4/economy
-   lessons/L4/spatial_econometrics
-   lessons/L4/spatial_regression.ipynb
-   lessons/L4/literature
-   lessons/L4/exercise-4
+          lessons/L4/lesson-overview
+          lessons/L4/economy
+          lessons/L4/spatial_econometrics
+          lessons/L4/spatial_regression.ipynb
+          lessons/L4/literature
+          lessons/L4/exercise-4
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Lesson 5
+       .. toctree::
+          :maxdepth: 1
+          :caption: Lesson 5
 
-   lessons/L5/lesson-overview
-   lessons/L5/agent-based-modelling
-   lessons/L5/literature
-   ..    lessons/L5/exercise-5
+          lessons/L5/lesson-overview
+          lessons/L5/agent-based-modelling
+          lessons/L5/literature
+          ..    lessons/L5/exercise-5
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Lesson 6
+       .. toctree::
+          :maxdepth: 1
+          :caption: Lesson 6
 
-   ..  lessons/L6/lesson-overview
-       lessons/L6/conservation-planning-spatial-prioritization
-       lessons/L6/zonation-tutorial
-       lessons/L6/literature
+          ..  lessons/L6/lesson-overview
+              lessons/L6/conservation-planning-spatial-prioritization
+              lessons/L6/zonation-tutorial
+              lessons/L6/literature
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Final Assignment
+       .. toctree::
+          :maxdepth: 1
+          :caption: Final Assignment
 
-   lessons/final-assignment/final-assignment
-   lessons/final-assignment/final-assignment-grading
+          lessons/final-assignment/final-assignment
+          lessons/final-assignment/final-assignment-grading

@@ -3,17 +3,14 @@ General info
 
 .. admonition:: Contact teaching for Aalto University students
 
-    Please note that access to zoom, Slack and CSC notebooks is only available for students in Finnish higher education institutes.
+    Please note that access to Slack and CSC notebooks is only available for students in Finnish higher education institutes.
 
 
 Course meetings in teaching period III
 --------------------------------------
 
-- Lessons on Mondays 14:15-16:00
-- Tutorial sessions on Tuesdays 14:15-16:00
-- Practical work sessions on Thursdays 09:15-12:00
-
-You can find the `Zoom link from MyCourses <https://mycourses.aalto.fi/course/view.php?id=30510>`__ (requires login, only accessible to course students).
+- Lessons on **Mondays** and **Tuesdays** at **14:15-16:00** (**room 326** at Otakaari 4). Videos will be shared afterwards.
+- Exercise sessions on **Thursdays** at **13:15-16:00** (**room 148** at Otakaari 4). In-person only.
 
 Instructors
 -----------
@@ -29,7 +26,7 @@ Course websites
 
   - Main course site: `<https://sustainability-gis.readthedocs.io>`_
   - Notebooks by CSC: `<https://notebooks.csc.fi>`_
-  - Slack (Q&A + chat): `<https://AaltoSDS2022.slack.com>`_
+  - Slack (Q&A + chat): `<https://AaltoSDS2023.slack.com>`_
   - Polling / voting (active during lectures only): `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
 
 - Other useful resources:

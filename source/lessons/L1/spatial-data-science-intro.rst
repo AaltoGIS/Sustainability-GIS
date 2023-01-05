@@ -15,6 +15,6 @@ spatial data science is a fundamental part of ambitions and research aiming to a
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLojuVnBd4SoEeNGUG-yNAE2aUmjhWi9LE9jt6z5-hkBNQwMwqmyAm235YclXrV2NCoJHx3v75ikyq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVzuxS_HmOvBlQkNQBInbt463sSwRsVsuQ9xvQByOZIQdbIUohESamK1kX8iPT4xpiIY6I48WuNMkj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
