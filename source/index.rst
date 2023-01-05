@@ -79,7 +79,7 @@ completed individually and must clearly reflect your own work (in short, don’t
 Program
 -------
 
-The course runs for six weeks at the Aalto University starting in the third teaching period on Monday the 10th of January 2022.
+The course runs for six weeks at the Aalto University starting in the third teaching period.
 Each week covers selected spatial data science (SDS) methodologies which are applied to topics/problems relevant for selected sustainable development goals (SDG).
 Topics per week are listed below. Please note that this web page is updated each week before the lesson:
 
