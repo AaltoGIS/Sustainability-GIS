@@ -8,11 +8,9 @@ During this course, we will use different tools and applications for programming
 3. `Git and GitHub`_ for version control and documentation
 4. `Voting / polling  <#voting-and-polling>`_ for interactive questions during the lectures
 5. `Slack`_ for communicating among Aalto students
-6. `Zoom`_ for live session at Aalto
-
 
 JupyterLab
-------------
+----------
 `JupyterLab <https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>`__ is an open-source web-based user interface for doing data science.
 The JupyterLab interface consists of different components such as a file browser, terminal, image viewer, console, text editor, etc.
 
@@ -62,23 +60,27 @@ CSC Notebooks
 Notebooks by CSC (https://notebooks.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). CSC notebooks are used for running Jupyter Notebooks in a customized cloud computing environment.
 CSC Notebooks is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
 
+
 .. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
 
-    1. Go to this link: https://notebooks-old.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
-    2. Join group **Sustainability-GIS** using the joining code: ``sustainability-gis-tfhk0``
+    1. Log in at https://notebooks.csc.fi/
+    2. Select Haka for the authentication provider
+    3. Enter your Finnish university login credentials
+    4. Click on the **Join workspace** button on the top right
+    5. Join the ``Sustainability GIS 2023`` workspace using the join code ``TOBEADDED``
 
-    After joining the group, you should be able to view an environment called `Sustainability-GIS` on the Dashboard.
+    After joining the group, you should be able to view an environment called ``Sustainability GIS 2023`` on the Dashboard.
 
-.. figure:: img/CSC_join_group.png
+.. figure:: img/CSC_join_group.webp
    :alt: Join Group in CSC Notebooks
+
+**Remember to save your work!**
 
 .. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**
 
     1. Log in at https://notebooks.csc.fi/
-    2. Click ``Launch new`` on the Dashboard
+    2. Click ``Start session`` (power button) on the Dashboard for Sustainability GIS 2023
     3. Wait. It might take a few moments for the instance to launch
-    4. Click ``Open in browser`` once the instance is ready
-    5. If you are asked to ``Click to copy password & proceed``, then click on the button, and paste the password on the following page
 
 .. figure:: img/CSC_launch_new.png
    :alt: Launch new Jupyter Lab instance
@@ -149,14 +151,9 @@ Slack
 ------
 
 During the course we will use actively an application called `Slack <http://slack.com>`__ for discussion and
-questions about the lessons and exercises. All enrolled students have received an invite link to the `AaltoSDS2021` workspace at the start of the course.
+questions about the lessons and exercises. All enrolled students have received an invite link to the ``AaltoSDS2023`` workspace at the start of the course.
 :doc:`If Slack is new to you, check Slack basic usage instructions <slack-usage>`.
 
-Zoom
-------
-
-We will use zoom during the live sessions at Aalto University during the remote teaching period in Spring 2021.
-Zoom link and details will be shared in Slack and sent out via email to registered students.
 
 Page summary
 ------------
