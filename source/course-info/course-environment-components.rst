@@ -67,7 +67,7 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Sustainability GIS 2023`` workspace using the join code ``TOBEADDED``
+    5. Join the ``Sustainability GIS 2023`` workspace using the join code ``sus-is7cffg7``
 
     After joining the group, you should be able to view an environment called ``Sustainability GIS 2023`` on the Dashboard.
 
