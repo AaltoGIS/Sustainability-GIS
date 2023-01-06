@@ -13,10 +13,10 @@ The first week of this course will be dedicated to various introductions. We wil
 Lesson videos
 -------------
 
-To ensure the privacy of participating students at online sessions, the videos will not be made publicly available this year.
+To be added.
 
 
-    .. admonition:: Lesson 1.1 - Introduction to the course
+..    .. admonition:: Lesson 1.1 - Introduction to the course
 
         Aalto University students can access the video by clicking the image below (requires login):
 
