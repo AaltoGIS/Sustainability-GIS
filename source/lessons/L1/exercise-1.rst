@@ -1,7 +1,7 @@
 Exercise 1
 ==========
 
-**Due date:** Please complete this exercise by **the end of day on Thursday the 27th of January 2022**.
+**Due date:** Please complete this exercise by **the end of the day on Sunday the 29th of January 2023**.
 
 .. admonition:: Pre-assignment - Create a GitHub account
 
@@ -20,23 +20,18 @@ Exercise 1
 
 .. admonition:: Exercise 1 - Start your assignment
 
-    **You can start working on your personal (private) copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/X7G7fpuL>`__.
+    **You can start working on your personal (private) copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/ERBLZKda>`__.
+    Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
-Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
+    After you have your personal Exercise-1 exercise in GitHub, start doing the programming using CSC Notebooks:
 
-You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/Sustainability-GIS-2022/Exercise-1>`__ (does not require logging in).
+    .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
+        :target: https://notebooks.csc.fi
+
+
+You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/Sustainability-GIS-2023/Exercise-1>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
-Cloud computing environment
----------------------------
-
-After you have your personal exercise in GitHub, start doing the programming using CSC Notebooks:
-
-  .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-      :target: https://notebooks.csc.fi/#/blueprint/c54303e865294208ba1ef381332fd69b
-
-Using Git
----------
 
 .. note::
 
