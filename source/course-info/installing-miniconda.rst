@@ -3,12 +3,11 @@ Install Python locally (optional)
 
 Although we will use the dedicated `course environment to do all the programming, <course-environment-components.html>`__
 **it is also possible to complete the tutorials and programming exercises on your own computer**.
-
-The purpose of this page is to help you to install Python and different Python packages into your own computer.
-Even though it is possible to install Python from the `Python homepage <https://www.python.org/>`_, **we highly recommend using** `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ to install Python.
-Miniconda comes with Python and a small number of essential packages.
-Additional packages can be installed using the package management systems `mamba <https://mamba.readthedocs.io/en/latest/index.html>`_ or `conda <https://docs.conda.io/en/latest/>`__.
-Both offer similar functionality, but we suggest using mamba because it is significantly faster for installing the libraries needed for using Python for GIS.
+The purpose of this page is to help you to install Python and required Python packages locally.
+We recommend using `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ for installing Python
+(i.e. not the one available from the Python website).
+Miniconda comes with Python and a small number of useful packages. Additional packages can be installed using the
+package management system `conda <https://docs.conda.io/en/latest/>`__.
 
 Miniconda is a light-weight version of `Anaconda <https://www.anaconda.com/>`_ which is an open source distribution of the Python and R programming
 languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment. In short,
@@ -28,7 +27,7 @@ In case you already have Anaconda installed on your computer, you can continue u
 Install Miniconda
 -------------------
 
-You can find the latest version of Miniconda for different operating systems in the `Miniconda dowload page <https://docs.conda.io/en/latest/miniconda.html>`__.
+You can find the latest version of Miniconda for different operating systems in the `Miniconda download page <https://docs.conda.io/en/latest/miniconda.html>`__.
 Tips and tricks for Windows, macOS and Linux users below.
 
 Windows
@@ -52,7 +51,7 @@ and running command ``conda --version``. If the command returns a version number
 macOS
 ~~~~~~~~
 Visit the `Miniconda download page <https://docs.conda.io/en/latest/miniconda.html#macosx-installers>`__ and download the latest
-Python 3.8 installer for macOSX.
+Python 3.9 installer for macOSX.
 
 .. figure:: img/miniconda-osx.png
     :width: 600px
@@ -74,7 +73,7 @@ Install Miniconda 3 and add it to system path using Terminal:
     nano ~/.bashrc
 
     # Add following line at the end of the file and save (EDIT ACCORDING YOUR INSTALLATION PATH)
-    export PATH=$PATH:/PATH_TO_MINICONDA/miniconda3/bin:/PATH_TO_MINICONDA/miniconda3/lib/python3.8/site-packages
+    export PATH=$PATH:/PATH_TO_MINICONDA/miniconda3/bin:/PATH_TO_MINICONDA/miniconda3/lib/python3.9/site-packages
 
 
 Install the course environment
@@ -89,56 +88,40 @@ the Python interpreter. It is a good practice to install all packages (if possib
 conda channel (e.g. ``conda-forge`` which we recommend), and not to mix conda and pip for installations
 if not strictly necessary.
 
+**Installing the** ``sustainability-gis`` **environment for the course**
+
 Conda has an excellent documentation about `creating and managing conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`__
 where you can check details of the used commands.
 
-Installing mamba
-~~~~~~~~~~~~~~~~
+Main steps for creating and using a conda environment:
 
-To get started we will install the mamba package manager in our new Miniconda environment (are you tired of all the snake references yet?).
-We can install mamba by **opening a terminal window or command prompt** in Windows (as an admin user) and running the following:
-
-.. code-block:: bash
-
-    # Install mamba
-    conda install mamba -n base -c conda-forge
-
-If you're curious, you can find more about mamba in the `online user guide <https://mamba.readthedocs.io/en/latest/index.html>`__ which covers most of the basic things, such as installing new packages.
-
-Installing the packages
-~~~~~~~~~~~~~~~~~~~~~~~
-
-After installing `mamba`, the main steps for creating and using a conda environment:
-
-1. create the environment from environment.yml file using mamba,
+1. create the environment from environment.yml file,
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
 We have prepared a ready-made environment file for this course (called ``environment.yml``). You can  `DOWNLOAD IT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
-If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
-The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
+The commands work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
 
-1. Create the Python environment based on the file that you downloaded by using a terminal (or command prompt)
-and executing the following command in the directory where you downloaded the `.yml` file:
+1. Create the Python environment based on the file that you downloaded:
 
 .. code-block::
 
-    mamba env create -f environment.yml
+    conda env create -f environment.yml
 
 
 2. Activate the environment:
 
 .. code-block::
 
-    conda activate geo
+    conda activate sustainability-gis
 
 You should now see the name of the environment at the start of the command line.
 
 3. Launch JupyterLab IDE
 
 After you have installed all required packages, you can start working in a local Jupyter Lab environment that is
-linked to your ``geo`` conda environment by launching jupyter lab on the command line.
+linked to your ``sustainability-gis`` conda environment by launching jupyter lab on the command line.
 
 It's a good idea to first navigate to the folder where your Jupyter Notebook -files are located before launching Jupyter Lab.
 
@@ -154,24 +137,24 @@ Note, Jupyter Lab will probably prompt you to "Build" the installation in order 
     install the package that you wish to install following the guidelines below.
 
 
-General guide for installing packages with Mamba/Conda
-------------------------------------------------------
+General guide for installing packages with Conda
+------------------------------------------------
 
 Conda has an excellent `online user guide <https://docs.conda.io/projects/conda/en/latest/index.html>`__ which covers most of the basic things,
-such as installing new packages. You can replace all `conda` commands listed in the user guide with `mamba` to be able to install the packages much faster.
+such as installing new packages.
 
-Mamba install
-~~~~~~~~~~~~~
+Conda install
+~~~~~~~~~~~~~~~
 
-You can install new packages using the `mamba install <https://docs.conda.io/projects/conda/en/latest/commands/install.html>`__
-command. The basic syntax for installing packages is ``mamba install package-name``.
+You can install new packages using the `conda install <https://docs.conda.io/projects/conda/en/latest/commands/install.html>`__
+command. The basic syntax for installing packages is ``conda install package-name``.
 In addition, we also want to specify the **conda channel** from where the package is downloaded using the parameter `-c`.
 
 **Installing Pandas package from the conda-forge channel:**
 
 .. code-block::
 
-    mamba install -c conda-forge pandas
+    conda install -c conda-forge pandas
 
 Once you run this command, you will see also other packages getting installed and/or updated as conda checks for dependencies of the installed package.
 Read more about package installations in the `conda documentation <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages>`__
@@ -181,9 +164,9 @@ You can **install other useful packages in a similar way:**
 
 .. code-block::
 
-    mamba install -c conda-forge matplotlib
-    mamba install -c conda-forge bokeh
-    mamba install -c conda-forge geopandas
+    conda install -c conda-forge matplotlib
+    conda install -c conda-forge bokeh
+    conda install -c conda-forge geopandas
 
 .. admonition:: Conda channels
 
@@ -201,15 +184,18 @@ Installing JupyterLab
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 We use `JupyterLab <https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>`__ as the main programming environment during this course.
-JupyterLab can be installed like any other packages using the conda install command.
+JupyterLab can be installed as a 1) desktop application or 2) like any other packages using the conda install command.
+For more information, take a look at the `JupyterLab installation instructions <https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html>`__.
 
-For other options and more information, take a look at the `JupyterLab installation instructions <https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html>`__.
+**Install JupyterLab using Desktop application:**
+
+- `Download the installer and read the usage instructions here <https://github.com/jupyterlab/jupyterlab-desktop#download>`__
 
 **Install JupyterLab from the conda-forge channel:**
 
 .. code-block::
 
-    mamba install -c conda-forge jupyterlab
+    conda install -c conda-forge jupyterlab
 
 After installation is completed, you can start a JupyterLab instance by running this command (notice the space between the words!):
 
