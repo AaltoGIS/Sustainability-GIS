@@ -116,13 +116,13 @@ Topics per week are listed below. Please note that this web page is updated each
     * - 4
       - - Spatial regression
         - Spatial optimization - Location allocation
-      - - SDG 7-8: Affordable and clean energy & Decent work and economic growth
+      - - SDGs 7-8: Affordable and clean energy & Decent work and economic growth
     * - 5
-      - - Hydrological spatial models
-        - Simulation
-        - Artificial intelligence
-      - - SDG 2, 6: Zero Hunger & Clean water
-        - Water diplomacy
+      - - Simulation & Agent Based Modeling
+        - Hydrological models
+        - Socio-economic impact assessment
+      - - SDGs 2, 3 & 6: Zero Hunger, Good Health and well-being & Clean water
+
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
@@ -138,6 +138,7 @@ Contents
 
    course-info/introduction
    course-info/course-info
+   course-info/learning-goals
    course-info/grading
    course-info/course-environment-components
    course-info/slack-usage
@@ -146,7 +147,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Lesson 1
+   :caption: Week 1
 
    lessons/L1/lesson-overview
    lessons/L1/sustainability-intro
@@ -159,7 +160,7 @@ Contents
 
        .. toctree::
           :maxdepth: 1
-          :caption: Lesson 2
+          :caption: Week 2
 
           lessons/L2/lesson-overview
           lessons/L2/wellbeing-capabilities
@@ -170,7 +171,7 @@ Contents
 
        .. toctree::
           :maxdepth: 1
-          :caption: Lesson 3
+          :caption: Week 3
 
           lessons/L3/lesson-overview
           lessons/L3/mobilities
@@ -181,7 +182,7 @@ Contents
 
        .. toctree::
           :maxdepth: 1
-          :caption: Lesson 4
+          :caption: Week 4
 
           lessons/L4/lesson-overview
           lessons/L4/economy
@@ -192,7 +193,7 @@ Contents
 
        .. toctree::
           :maxdepth: 1
-          :caption: Lesson 5
+          :caption: Week 5
 
           lessons/L5/lesson-overview
           lessons/L5/agent-based-modelling
@@ -201,7 +202,7 @@ Contents
 
        .. toctree::
           :maxdepth: 1
-          :caption: Lesson 6
+          :caption: Week 6
 
           ..  lessons/L6/lesson-overview
               lessons/L6/conservation-planning-spatial-prioritization
