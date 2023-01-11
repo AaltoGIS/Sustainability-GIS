@@ -149,7 +149,7 @@ Contents
    :maxdepth: 1
    :caption: Week 1
 
-   lessons/L1/lesson-overview
+   lessons/L1/overview
    lessons/L1/sustainability-intro
    lessons/L1/spatial-data-science-intro
    lessons/L1/git-basics
@@ -162,7 +162,7 @@ Contents
           :maxdepth: 1
           :caption: Week 2
 
-          lessons/L2/lesson-overview
+          lessons/L2/overview
           lessons/L2/wellbeing-capabilities
           lessons/L2/network-analytics-accessibility
           lessons/L2/spatial_network_analysis.ipynb
@@ -173,7 +173,7 @@ Contents
           :maxdepth: 1
           :caption: Week 3
 
-          lessons/L3/lesson-overview
+          lessons/L3/overview
           lessons/L3/mobilities
           lessons/L3/trajectory-data-mining
           lessons/L3/mobility-analytics.ipynb
@@ -184,7 +184,7 @@ Contents
           :maxdepth: 1
           :caption: Week 4
 
-          lessons/L4/lesson-overview
+          lessons/L4/overview
           lessons/L4/economy
           lessons/L4/spatial_econometrics
           lessons/L4/spatial_regression.ipynb
@@ -195,7 +195,7 @@ Contents
           :maxdepth: 1
           :caption: Week 5
 
-          lessons/L5/lesson-overview
+          lessons/L5/overview
           lessons/L5/agent-based-modelling
           lessons/L5/literature
           ..    lessons/L5/exercise-5
@@ -204,7 +204,7 @@ Contents
           :maxdepth: 1
           :caption: Week 6
 
-          ..  lessons/L6/lesson-overview
+          ..  lessons/L6/overview
               lessons/L6/conservation-planning-spatial-prioritization
               lessons/L6/zonation-tutorial
               lessons/L6/literature
