@@ -166,8 +166,14 @@ Contents
   lessons/L2/wellbeing-capabilities
   lessons/L2/network-analytics-accessibility
   lessons/L2/literature
-  .. lessons/L2/spatial_network_analysis.ipynb
+  lessons/L2/spatial_network_analysis.ipynb
   .. lessons/L2/exercise-2
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Final Assignment
+
+  lessons/final-assignment/final-assignment
 
        .. toctree::
           :maxdepth: 1
@@ -209,9 +215,3 @@ Contents
               lessons/L6/zonation-tutorial
               lessons/L6/literature
 
-       .. toctree::
-          :maxdepth: 1
-          :caption: Final Assignment
-
-          lessons/final-assignment/final-assignment
-          lessons/final-assignment/final-assignment-grading
