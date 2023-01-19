@@ -21,12 +21,13 @@ The following presentation provides you more instructions and information to get
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfilQVIUAQQgQUjYu7shxNLMJiiGoH6n-6cSC5HXL9BHF9yuw4gGcL0ITrveMI6zEprb04Q5zFHT8s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-.. .. admonition:: Instructions for the Final assignment (video)
-        Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/SDS4SD-final-assignment.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f455e46a-3d31-4b0e-9f0c-ae360121f0d0
-            :width: 500px
-            :align: left
+.. admonition:: Instructions for the Final assignment (video)
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-final-assignment.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37d49dcc-c05d-4a6f-ad10-af8e0140bd48
+        :width: 500px
+        :align: left
 
 
 Suggested topics
