@@ -33,12 +33,12 @@ To ensure the privacy of participating students at online sessions, the videos w
         :align: left
 
 
-.. .. admonition:: Lesson 2.3 - Exercise 2 Overview
+.. admonition:: Lesson 2.3 - Calculating travel time matrices in Python + Exercise 2 Overview
 
         Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/SDS4SD_Lesson_2.5.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3fd8ca1-de0e-4d31-b871-ae2200a6d143
+        .. figure:: img/SDS4SD_Lesson_2.4.png
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=43f03e65-e569-4bea-b9ce-af8f00d7c3f3
             :width: 500px
             :align: left
 
