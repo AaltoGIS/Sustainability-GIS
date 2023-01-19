@@ -44,29 +44,12 @@ Lesson videos
         :width: 500px
         :align: left
 
-..    .. admonition:: Lesson 1.4 - Overview of Exercise 1
-
-        Aalto University students can access the video by clicking the image below (requires login):
-
-        .. figure:: img/SDS4SD-Lesson-1.6.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ba2f1580-dfbb-45e5-af8e-ae1a0138a55a
-            :width: 500px
-            :align: left
-
-    .. admonition:: Lesson 1.5 - Using Git and working with the Exercises using cloud computing
+.. admonition:: Lesson 1.4 - Introduction to Git/Github & How to work with the exercises
 
         Aalto University students can access the video by clicking the image below (requires login):
 
         .. figure:: img/SDS4SD-Lesson-1.4.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b21a80b4-9ac1-4d44-a611-ae1a0138a5ac
+            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f6c1cad-b7a5-42ec-9ae2-af8e00b41c31
             :width: 500px
             :align: left
 
-    .. admonition:: Lesson 1.6 - Introduction to spatial analysis with Python using Geopandas (Tutorial 1.2)
-
-        Aalto University students can access the video by clicking the image below (requires login):
-
-        .. figure:: img/SDS4SD-Lesson-1.5.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3186ffb2-67b5-49c3-8666-ae1c00fa8497
-            :width: 500px
-            :align: left
