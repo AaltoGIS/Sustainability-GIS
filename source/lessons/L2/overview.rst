@@ -7,7 +7,7 @@ In the second week, we will learn about:
 - :doc:`Network analytics and spatial accessibility modelling. <network-analytics-accessibility>`
 - :doc:`Tutorial 2.1: Shortest path analysis in Python <spatial_network_analysis>`
 - :doc:`Tutorial 2.2: Calculating travel time matrices in Python <r5py_calculating_travel_time_matrices>`
-.. - :doc:`Exercise 2 <exercise-2>`
+- :doc:`Exercise 2 <exercise-2>`
 
 Lesson videos
 -------------
