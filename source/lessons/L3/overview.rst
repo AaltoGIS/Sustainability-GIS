@@ -21,16 +21,16 @@ Lesson videos
        :align: left
 
 
-..    .. admonition:: Lesson 3.2 - Mobility analytics
+.. admonition:: Lesson 3.2 - Sustainable Mobility, Mobility analytics & Tutorial 3
 
-        Aalto University students can access the video by clicking the image below (requires login):
+   Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/SDS4SD_Lesson_3.2.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f887be7-5d2f-426f-8954-ae280113c249
-            :width: 500px
-            :align: left
+   .. figure:: img/SDS4SD_Lesson_3.2.png
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=15812435-ffde-4a3a-9ace-af94011ec013
+       :width: 500px
+       :align: left
 
-    .. admonition:: Lesson 3.3 - Trajectory data mining in Python
+..    .. admonition:: Lesson 3.3 - Trajectory data mining in Python
 
         Aalto University students can access the video by clicking the image below (requires login):
 
