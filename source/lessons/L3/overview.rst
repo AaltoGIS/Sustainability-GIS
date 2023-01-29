@@ -30,13 +30,13 @@ Lesson videos
        :width: 500px
        :align: left
 
-..    .. admonition:: Lesson 3.3 - Trajectory data mining in Python
+.. admonition:: Lesson 3.3 - Visualizing data with KeplerGl; Creating an animation based on movements
 
-        Aalto University students can access the video by clicking the image below (requires login):
+    Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/SDS4SD_Lesson_3.3.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6fd43a85-d319-4127-8302-ae280113cad0
-            :width: 500px
-            :align: left
+    .. figure:: img/SDS4SD_Lesson_3.3.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7552d81-df57-45e1-afb3-af990091b126
+        :width: 500px
+        :align: left
 
 
