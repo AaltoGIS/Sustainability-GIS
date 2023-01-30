@@ -110,6 +110,14 @@ When is the deadline?
 2. The poster session is organized on **Thursday 23rd February at 13:00-16:00**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
 3. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 26th February**.
 
+Code of conduct
+---------------
+
+In the final assignment you will work as a team. **Inclusion, kindness and respect should be the guiding principles in the way of working in your group**.
+In practice, this means being compassionate to yourself and others, respect different viewpoints, identities and backgrounds, and apologizing when needed.
+Let's make this project a shared space for the process of learning & unlearning. Do not hesitate to contact Henrikki in case you have any worries regarding
+the code of conduct.
+
 Grading
 -------
 
@@ -202,63 +210,59 @@ Literature + inspiration
 You can use the literature provided during the course as inspiration and as a source for information, but please remember
 to cite your sources appropriately in your final assignment. Add a reference list to the end of your notebook.
 
-.. note::
 
-    Further instructions about practicalities of starting the final assignment in Github will be provided to you after you have picked the topic (by Tue 31.1).
+Start your assignment
+---------------------
 
+.. important::
 
-..      Start your assignment
-        ---------------------
+    **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
+    below, it is possible for you to i) **create a team** OR ii) **join to an existing team**.
 
-        .. important::
+    .. admonition:: You should see something like this (click to open)
+        :class: dropdown
 
-            **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
-            below, it is possible for you to i) **create a team** OR ii) **join to an existing team**.
+        .. figure:: img/Joining-a-team.png
+           :width: 400px
 
-            .. admonition:: You should see something like this (click to open)
-                :class: dropdown
+    Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name,
+    so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
+    with your Github accounts.
 
-                .. figure:: img/Joining-a-team.png
-                   :width: 400px
+.. admonition:: Start your assignment
 
-            Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name,
-            so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
-            with your Github accounts.
+    **Start your final assignment by**:
 
-        .. admonition:: Start your assignment
+    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/5COJ26Xn>`__ **for the final work**.
 
-            **Start your final assignment by**:
-
-            - **accepting the** `GitHub Classroom <https://classroom.github.com/a/o-Sg3tWr>`__ **for the final work**.
-
-            After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
+    After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
 
 
-        How to work with the code?
-        --------------------------
+How to work with the code?
+--------------------------
 
-        The leading principle in terms of the programming parts of your final assignment is that **the workflow should be repeatable and well documented.**
-        In other words, anyone who gets a copy of your repository should be able to run your code, and read your code. Document well the crucial parts of your code
-        and especially remember to document the data sources that you use in your work and add links to the sources.
+The leading principle in terms of the programming parts of your final assignment is that **the workflow should be repeatable and well documented.**
+In other words, anyone who gets a copy of your repository should be able to run your code, and read your code. Document well the crucial parts of your code
+and especially remember to document the data sources that you use in your work and add links to the sources.
 
-        Organize all your material into your groups Final-Assignment repository and store your work into the ``final_assignment.ipynb`` file.
-        If you wish, you can write parts of your analysis workflow into separate Python script files (``.py``) and then apply them inside the Notebook.
-        Anyone who downloads the repository should be able to **read your code** and documentation and understand what is going on, and **run your code** in order to reproduce the same results.
-        Please return a clean and coherent notebook (think it as a supportive report/story with code alongside the poster) that only contains necessary code cells to reproduce and report the main findings of your analyses
-        Hence, you should remove all unnecessary code blocks for printing the first rows of the GeoDataFrame etc.
-        **Please ensure that everything works before returning your work**: Run the whole notebook (`like this <https://stackoverflow.com/a/53214668>`__)
-        and return the work once you do not have any surprising errors and your results look as they should (this is what reproducibility is all about!).
+Organize all your material into your groups Final-Assignment repository and store your work into the ``final_assignment.ipynb`` file.
+If you wish, you can write parts of your analysis workflow into separate Python script files (``.py``) and then apply them inside the Notebook.
+Anyone who downloads the repository should be able to **read your code** and documentation and understand what is going on, and **run your code** in order to reproduce the same results.
+Please return a clean and coherent notebook (think it as a supportive report/story with code alongside the poster) that only contains necessary code cells to reproduce and report the main findings of your analyses
+Hence, you should remove all unnecessary code blocks for printing the first rows of the GeoDataFrame etc.
+**Please ensure that everything works before returning your work**: Run the whole notebook (`like this <https://stackoverflow.com/a/53214668>`__)
+and return the work once you do not have any surprising errors and your results look as they should (this is what reproducibility is all about!).
 
-        *Note: If your code requires some python packages not found in the csc notebooks environment, please mention them also in the report and provide installation instrutions.*
+*Note: If your code requires some python packages not found in the csc notebooks environment, please mention them also in the report and provide installation instrutions.*
 
-        .. admonition:: Technical considerations
-            :class: dropdown
+.. admonition:: Technical considerations
+    :class: dropdown
 
-            - Document your analyses well using the Markdown cells and describe 1) what you are doing and 2) what you can see from the data and your results.
-            - Use informative visualizations:
+    - Document your analyses well using the Markdown cells and describe 1) what you are doing and 2) what you can see from the data and your results.
+    - Use informative visualizations:
 
-              - Create maps (static or interactive)
-              - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
-              - Use subplots that allows to easily compare results side-by-side
+      - Create maps (static or interactive)
+      - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
+      - Use subplots that allows to easily compare results side-by-side
 
-            - When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
+    - When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
