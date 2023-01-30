@@ -110,6 +110,14 @@ When is the deadline?
 2. The poster session is organized on **Thursday 23rd February at 13:00-16:00**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
 3. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 26th February**.
 
+Code of conduct
+---------------
+
+In the final assignment you will work as a team. **Inclusion, kindness and respect should be the guiding principles in the way of working in your group**.
+In practice, this means being compassionate to yourself and others, respect different viewpoints, identities and backgrounds, and apologizing when needed.
+Let's make this project a shared space for the process of learning & unlearning. Do not hesitate to contact Henrikki in case you have any worries regarding
+the code of conduct.
+
 Grading
 -------
 
