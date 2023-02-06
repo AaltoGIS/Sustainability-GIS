@@ -1,7 +1,7 @@
 Exercise 2
 ==========
 
-**Due date:** Please complete this exercise by **the end of day on Thursday the 5th of February 2023**.
+**Due date:** Please complete this exercise by **the end of day on Sunday the 5th of February 2023**.
 
 .. admonition:: Exercise 2 - Start your assignment
 
