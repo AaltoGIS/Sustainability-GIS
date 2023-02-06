@@ -194,6 +194,16 @@ Contents
 
   .. lessons/L4/exercise-4
 
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Week 5
+
+  lessons/L5/overview
+  lessons/L5/agent-based-modelling
+  lessons/L5/literature
+
+
 .. toctree::
   :maxdepth: 1
   :caption: Final Assignment
@@ -201,14 +211,7 @@ Contents
   lessons/final-assignment/final-assignment
 
 
-       .. toctree::
-          :maxdepth: 1
-          :caption: Week 5
 
-          lessons/L5/overview
-          lessons/L5/agent-based-modelling
-          lessons/L5/literature
-          ..    lessons/L5/exercise-5
 
        .. toctree::
           :maxdepth: 1
