@@ -4,6 +4,8 @@ Lesson overview
 In the fifth week, we will learn about:
 
 - :doc:`Agent based modelling <agent-based-modelling>`
+- :doc:`Spatial Data Science in Water Resource Management <water_resource_management>`
+- :doc:`Flood forecasting <flood_forecasting>`
 
 Lesson videos
 -------------
