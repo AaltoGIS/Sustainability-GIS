@@ -214,6 +214,14 @@ to cite your sources appropriately in your final assignment. Add a reference lis
 Start your assignment
 ---------------------
 
+.. admonition:: Getting started with the Final assignment (video)
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-final-assignment-getting-started.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8cbf22a7-bb1e-43d6-b4ce-afa100f1ab43
+        :width: 500px
+        :align: left
+
 .. important::
 
     **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
