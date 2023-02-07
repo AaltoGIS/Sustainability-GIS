@@ -201,6 +201,8 @@ Contents
 
   lessons/L5/overview
   lessons/L5/agent-based-modelling
+  lessons/L5/water_resource_management
+  lessons/L5/flood_forecasting
   lessons/L5/literature
 
 
