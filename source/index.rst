@@ -191,8 +191,7 @@ Contents
   lessons/L4/spatial_econometrics
   lessons/L4/spatial_regression.ipynb
   lessons/L4/literature
-
-  .. lessons/L4/exercise-4
+  lessons/L4/exercise-4
 
 
 .. toctree::
