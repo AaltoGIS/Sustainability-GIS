@@ -131,16 +131,16 @@ The grading is based on a typical 0-5 scale. The final assignment is graded base
 .. admonition:: See more detailed grading criteria here
    :class: dropdown
 
-   **The grading is based on a typical 0-5 scale. The grade is based on a total of 50 points:**
+   **The grading is based on a typical 0-5 scale. The grade is based on a total of 40 points:**
 
-   **25 points for the poster and presentation based on following criteria:**
+   **20 points for the poster and presentation based on following criteria:**
 
    - is there a general description in about the research problem / purpose of the work?
    - is the usage of the methods described clearly?
    - are the results (maps, graphs) presented and explained clearly?
 
 
-   **25 points for demonstrating major analysis steps/ functionality**:
+   **20 points for demonstrating major analysis steps/ functionality**:
 
    - Finding relevant datasets
    - Reading and manipulating data
