@@ -145,8 +145,8 @@ Contents
 ..        .. toctree::
            :maxdepth: 1
            :caption: Week 1
+           lessons/L1/introduction
            lessons/L1/overview
-           course-info/introduction
            lessons/L1/sustainability-intro
            lessons/L1/spatial-data-science-intro
            lessons/L1/git-basics
