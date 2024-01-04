@@ -33,7 +33,7 @@ and `Spatial analytics <https://spatial-analytics.readthedocs.io/en/latest/>`__.
 
 .. admonition:: Help improving the materials
 
-    **This is version #3.**
+    **This is version #4.**
 
     The course was given for the very first time in 2021. Due to the early stages of the course, it is likely that the contents will
     change and improve after each iteration (all versions will be available). By being a fully open
@@ -114,15 +114,13 @@ Topics per week are listed below. Please note that this web page is updated each
         - Transport-related carbon emission quantification
         - Commute vs long-distance travel
     * - 4
+      - - Flood forecasting with AI
+        - Simulation & Agent Based Modeling
+      - - SDGs 2, 3 & 6: Zero Hunger, Good Health and well-being & Clean water
+    * - 5
       - - Spatial regression
         - Spatial optimization - Location allocation
       - - SDGs 7-8: Affordable and clean energy & Decent work and economic growth
-    * - 5
-      - - Simulation & Agent Based Modeling
-        - Hydrological models
-        - Socio-economic impact assessment
-      - - SDGs 2, 3 & 6: Zero Hunger, Good Health and well-being & Clean water
-
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
@@ -136,7 +134,6 @@ Contents
    :maxdepth: 1
    :caption: Course information
 
-   course-info/introduction
    course-info/course-info
    course-info/learning-goals
    course-info/grading
@@ -145,79 +142,70 @@ Contents
    course-info/License-terms
    course-info/attribution
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Week 1
-
-   lessons/L1/overview
-   lessons/L1/sustainability-intro
-   lessons/L1/spatial-data-science-intro
-   lessons/L1/git-basics
-   lessons/L1/intro-to-python-geostack.ipynb
-   lessons/L1/literature
-   lessons/L1/exercise-1
-
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Week 2
-
-  lessons/L2/overview
-  lessons/L2/wellbeing-capabilities
-  lessons/L2/network-analytics-accessibility
-  lessons/L2/spatial_network_analysis.ipynb
-  lessons/L2/r5py_calculating_travel_time_matrices.ipynb
-  lessons/L2/literature
-  lessons/L2/exercise-2
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Week 3
-
-  lessons/L3/overview
-  lessons/L3/mobilities
-  lessons/L3/trajectory-data-mining
-  lessons/L3/mobility-analytics.ipynb
-  lessons/L3/literature
-  lessons/L3/exercise-3.ipynb
+..        .. toctree::
+           :maxdepth: 1
+           :caption: Week 1
+           lessons/L1/overview
+           course-info/introduction
+           lessons/L1/sustainability-intro
+           lessons/L1/spatial-data-science-intro
+           lessons/L1/git-basics
+           lessons/L1/intro-to-python-geostack.ipynb
+           lessons/L1/literature
+           lessons/L1/exercise-1
 
 
-.. toctree::
-  :maxdepth: 1
-  :caption: Week 4
+..        .. toctree::
+          :maxdepth: 1
+          :caption: Week 2
+          lessons/L2/overview
+          lessons/L2/wellbeing-capabilities
+          lessons/L2/network-analytics-accessibility
+          lessons/L2/spatial_network_analysis.ipynb
+          lessons/L2/r5py_calculating_travel_time_matrices.ipynb
+          lessons/L2/literature
+          lessons/L2/exercise-2
 
-  lessons/L4/overview
-  lessons/L4/economy
-  lessons/L4/spatial_econometrics
-  lessons/L4/spatial_regression.ipynb
-  lessons/L4/literature
-  lessons/L4/exercise-4
+..    .. toctree::
+      :maxdepth: 1
+      :caption: Week 3
+      lessons/L3/overview
+      lessons/L3/mobilities
+      lessons/L3/trajectory-data-mining
+      lessons/L3/mobility-analytics.ipynb
+      lessons/L3/literature
+      lessons/L3/exercise-3.ipynb
 
 
-.. toctree::
-  :maxdepth: 1
-  :caption: Week 5
+..    .. toctree::
+      :maxdepth: 1
+      :caption: Week 4
+      lessons/L4/overview
+      lessons/L4/agent-based-modelling
+      lessons/L4/flood_forecasting
+      lessons/L4/literature
 
-  lessons/L5/overview
-  lessons/L5/agent-based-modelling
-  lessons/L5/water_resource_management
-  lessons/L5/flood_forecasting
-  lessons/L5/literature
+..    .. toctree::
+      :maxdepth: 1
+      :caption: Week 5
+      lessons/L5/overview
+      lessons/L5/economy
+      lessons/L5/spatial_econometrics
+      lessons/L5/spatial_regression.ipynb
+      lessons/L5/literature
+      lessons/L5/exercise-4
 
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Final Assignment
-
-  lessons/final-assignment/final-assignment
+..    .. toctree::
+      :maxdepth: 1
+      :caption: Final Assignment
+      lessons/final-assignment/final-assignment
 
 
 
 
-       .. toctree::
+..       .. toctree::
           :maxdepth: 1
           :caption: Week 6
-
           ..  lessons/L6/overview
               lessons/L6/conservation-planning-spatial-prioritization
               lessons/L6/zonation-tutorial
