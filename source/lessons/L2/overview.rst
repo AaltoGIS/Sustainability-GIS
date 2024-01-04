@@ -5,17 +5,17 @@ In the second week, we will learn about:
 
 - :doc:`Human wellbeing and capabilities. <wellbeing-capabilities>`
 - :doc:`Network analytics and spatial accessibility modelling. <network-analytics-accessibility>`
-- :doc:`Tutorial 2.1: Shortest path analysis in Python <spatial_network_analysis>`
-- :doc:`Tutorial 2.2: Calculating travel time matrices in Python <r5py_calculating_travel_time_matrices>`
-- :doc:`Exercise 2 <exercise-2>`
+.. - :doc:`Tutorial 2.1: Shortest path analysis in Python <spatial_network_analysis>`
+.. - :doc:`Tutorial 2.2: Calculating travel time matrices in Python <r5py_calculating_travel_time_matrices>`
+.. - :doc:`Exercise 2 <exercise-2>`
 
 Lesson videos
 -------------
 
-To ensure the privacy of participating students at online sessions, the videos will not be made publicly available this year.
+To be added.
 
 
-.. admonition:: Lesson 2.1 - Human wellbeing and capabilities
+    .. .. admonition:: Lesson 2.1 - Human wellbeing and capabilities
 
     Aalto University students can access the video by clicking the image below (requires login):
 
@@ -24,7 +24,7 @@ To ensure the privacy of participating students at online sessions, the videos w
         :width: 500px
         :align: left
 
-.. admonition:: Lesson 2.2 - Network analysis, spatial accessibility modelling & tutorial for shortest path analysis in Python
+    .. admonition:: Lesson 2.2 - Network analysis, spatial accessibility modelling & tutorial for shortest path analysis in Python
 
     Aalto University students can access the video by clicking the image below (requires login):
 
@@ -34,7 +34,7 @@ To ensure the privacy of participating students at online sessions, the videos w
         :align: left
 
 
-.. admonition:: Lesson 2.3 - Calculating travel time matrices in Python + Exercise 2 Overview
+    .. admonition:: Lesson 2.3 - Calculating travel time matrices in Python + Exercise 2 Overview
 
         Aalto University students can access the video by clicking the image below (requires login):
 
