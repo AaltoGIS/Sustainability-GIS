@@ -1,31 +1,33 @@
 Lesson overview
 ===============
 
-In the fourth week, we will learn about:
+In the fifth week, we will learn about:
 
-- :doc:`Economic inequalities, growth and green economy <economy>`
-- :doc:`Spatial regression <spatial_econometrics>`
-- :doc:`Tutorial 4: Spatial regression in Python <spatial_regression>`
-.. - :doc:`Exercise 4 <exercise-4>`
+- :doc:`Agent based modelling <agent-based-modelling>`
+- :doc:`Spatial Data Science in Water Resource Management <water_resource_management>`
+- :doc:`Flood forecasting <flood_forecasting>`
 
 Lesson videos
 -------------
 
-.. admonition:: Lesson 4.1 - Economic inequalities and growth
+
+.. admonition:: Lesson 5.1 - Agent Based Modelling with Spatial data
 
     Aalto University students can access the video by clicking the image below (requires login):
 
-    .. figure:: img/SDS4SD_Lesson_4.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8d75d2a3-7fde-47ff-b9ed-afa100f1e9fc
+    .. figure:: img/SDS4SD_Lesson_5.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=832f54d4-f2b6-43da-827e-afa100cabcfa
         :width: 500px
         :align: left
 
-.. admonition:: Lesson 4.2 - Spatial econometrics; Spatial regression with Python (tutorial)
+.. admonition:: Lesson 5.2 - Spatial Data Science in Water Resources Management and Flood forecasting
 
     Aalto University students can access the video by clicking the image below (requires login):
 
-    .. figure:: img/SDS4SD_Lesson_4.2.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=71e8dde5-5122-4500-9f21-afa100f2f703
+    .. figure:: img/SDS4SD_Lesson_5.2.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fd5d10b-c068-4100-ba49-afbd00e1caf7
         :width: 500px
         :align: left
+
+
 
