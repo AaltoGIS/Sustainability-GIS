@@ -16,9 +16,11 @@
 
 
 # -- Project information -----------------------------------------------------
+from datetime import datetime
+year = datetime.now().year
 
 project = 'SDS-Sustainability'
-copyright = '2023, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
+copyright = f'{year}, Henrikki Tenkanen, Dept. of Built Environment, Aalto University'
 author = 'Henrikki Tenkanen'
 
 # -- General configuration ---------------------------------------------------
