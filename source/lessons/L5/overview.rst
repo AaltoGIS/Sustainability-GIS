@@ -13,12 +13,12 @@ Lesson videos
 
 To be added.
 
-    .. .. admonition:: Lesson 4.1 - Economic inequalities and growth
-        Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/SDS4SD_Lesson_4.1.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8d75d2a3-7fde-47ff-b9ed-afa100f1e9fc
-            :width: 500px
-            :align: left
+.. .. admonition:: Lesson 4.1 - Economic inequalities and growth
+    Aalto University students can access the video by clicking the image below (requires login):
+    .. figure:: img/SDS4SD_Lesson_4.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8d75d2a3-7fde-47ff-b9ed-afa100f1e9fc
+        :width: 500px
+        :align: left
     .. admonition:: Lesson 4.2 - Spatial econometrics; Spatial regression with Python (tutorial)
         Aalto University students can access the video by clicking the image below (requires login):
         .. figure:: img/SDS4SD_Lesson_4.2.png

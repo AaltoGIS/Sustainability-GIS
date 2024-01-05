@@ -13,12 +13,12 @@ Lesson videos
 
 To be added.
 
-    .. .. admonition:: Lesson 3.1 - Sustainable cities and urban challenges
-       Aalto University students can access the video by clicking the image below (requires login):
-       .. figure:: img/SDS4SD_Lesson_3.1.png
-           :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5384bd0f-841c-4189-aa8e-af930120033c
-           :width: 500px
-           :align: left
+.. .. admonition:: Lesson 3.1 - Sustainable cities and urban challenges
+   Aalto University students can access the video by clicking the image below (requires login):
+   .. figure:: img/SDS4SD_Lesson_3.1.png
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5384bd0f-841c-4189-aa8e-af930120033c
+       :width: 500px
+       :align: left
     .. admonition:: Lesson 3.2 - Sustainable Mobility, Mobility analytics & Tutorial 3
        Aalto University students can access the video by clicking the image below (requires login):
        .. figure:: img/SDS4SD_Lesson_3.2.png
