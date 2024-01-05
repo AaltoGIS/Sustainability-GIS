@@ -15,7 +15,7 @@ Lesson videos
 To be added.
 
 
-    .. .. admonition:: Lesson 2.1 - Human wellbeing and capabilities
+.. .. admonition:: Lesson 2.1 - Human wellbeing and capabilities
     Aalto University students can access the video by clicking the image below (requires login):
     .. figure:: img/SDS4SD_Lesson_2.1.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=df7d1c6b-0972-4c5e-9cfc-af8e0140bdb0
