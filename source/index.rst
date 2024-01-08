@@ -142,17 +142,18 @@ Contents
    course-info/License-terms
    course-info/attribution
 
-..        .. toctree::
-           :maxdepth: 1
-           :caption: Week 1
-           lessons/L1/introduction
-           lessons/L1/overview
-           lessons/L1/sustainability-intro
-           lessons/L1/spatial-data-science-intro
-           lessons/L1/git-basics
-           lessons/L1/intro-to-python-geostack.ipynb
-           lessons/L1/literature
-           lessons/L1/exercise-1
+.. toctree::
+   :maxdepth: 1
+   :caption: Week 1
+
+   lessons/L1/introduction
+   lessons/L1/overview
+   lessons/L1/sustainability-intro
+   lessons/L1/spatial-data-science-intro
+   .. lessons/L1/git-basics
+   .. lessons/L1/intro-to-python-geostack.ipynb
+   .. lessons/L1/literature
+   .. lessons/L1/exercise-1
 
 
 ..        .. toctree::
