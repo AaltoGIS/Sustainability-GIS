@@ -137,7 +137,7 @@ Contents
    course-info/course-info
    course-info/learning-goals
    course-info/grading
-   .. course-info/course-environment-components
+   course-info/course-environment-components
    course-info/slack-usage
    course-info/License-terms
    course-info/attribution
