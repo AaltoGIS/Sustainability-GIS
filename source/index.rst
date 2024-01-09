@@ -137,7 +137,8 @@ Contents
    course-info/course-info
    course-info/learning-goals
    course-info/grading
-   .. course-info/course-environment-components
+   course-info/course-environment-components
+   course-info/installing-miniconda
    course-info/slack-usage
    course-info/License-terms
    course-info/attribution
@@ -150,9 +151,9 @@ Contents
    lessons/L1/overview
    lessons/L1/sustainability-intro
    lessons/L1/spatial-data-science-intro
-   .. lessons/L1/git-basics
-   .. lessons/L1/intro-to-python-geostack.ipynb
-   .. lessons/L1/literature
+   lessons/L1/git-basics
+   lessons/L1/intro-to-python-geostack.ipynb
+   lessons/L1/literature
    .. lessons/L1/exercise-1
 
 

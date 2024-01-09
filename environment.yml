@@ -5,81 +5,53 @@ channels:
 
 dependencies:
   - python=3.10
+  - gitpython
+  - git
+  - jupyterlab<4.0
+  - jupyterlab-git
   - access
-  - bokeh
-  - clustergram
   - contextily
-  - dash
   - dask
   - dask-ml
   - datashader
-  - earthpy
   - esda
-  - folium
-  - geocube
-  - geojson
+  - fiona=1.8.22
   - geopandas
+  - geojson
   - geoplot
-  - geopy
-  - giddy
-  - gstools
-  - h3-py
-  - hvplot
+  - geoviews
   - inequality
-  - jupyterlab
-  - jupyterlab-git
-  - keplergl
-  - legendgram
-  - mamba
   - mapclassify
   - matplotlib
   - mesa
   - mgwr
   - momepy
   - movingpandas
-  - mplleaflet
   - networkx
+  - openjdk
   - openpyxl
   - osmnx
   - palettable
   - pandana
-  - pandas
-  - plotly_express
   - pointpats
-  - polyline
-  - pyarrow
-  - pygeos
-  - pyinterpolate
-  - pykrige
   - pyrosm
   - pysal
   - python-igraph
   - r5py
-  - rasterio
-  - rasterstats
-  - richdem
-  - rioxarray
+  - r5py.sampledata.helsinki>=0.1.1dev2
+  - r5py.sampledata.sao_paulo>=0.1.1dev2
+  - scipy
   - scikit-image
   - scikit-learn
   - scikit-mobility
-  - scipy
-  - seaborn
   - segregation
-  - shapely<2.0
   - simpy
-  - spaghetti
   - spint
   - splot
   - spreg
-  - sqlalchemy
   - statsmodels
-  - tobler
-  - tqdm
+  - seaborn
+  - pandas
   - urbanaccess
-  - vaex
-  - vaex-arrow
-  - xarray
-  - xarray_leaflet
-  - xarray-spatial
-  - xlrd
-  - xlsxwriter
+  - nose
+  - jinja2
