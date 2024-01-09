@@ -1,5 +1,5 @@
-Install Python locally (optional)
-=================================
+Install Python + libraries (optional)
+=====================================
 
 Although we will use the dedicated `course environment to do all the programming, <course-environment-components.html>`__
 **it is also possible to complete the tutorials and programming exercises on your own computer**.
@@ -90,27 +90,48 @@ if not strictly necessary.
 
 **Installing the** ``sustainability-gis`` **environment for the course**
 
-Conda has an excellent documentation about `creating and managing conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`__
+Conda/Mamba has an excellent documentation about `creating and managing conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`__
 where you can check details of the used commands.
 
-Main steps for creating and using a conda environment:
+Installing mamba
+~~~~~~~~~~~~~~~~
 
-1. create the environment from environment.yml file,
+To get started we will install the mamba package manager in our new Miniconda environment.
+We can install mamba by **opening an Anaconda prompt (miniconda)** and running the following:
+
+.. code-block:: bash
+
+    # Install mamba
+    conda install --override-channels -c conda-forge mamba 'python_abi=*=*cp*'
+
+If you're curious, you can find more about mamba in the `online user guide <https://mamba.readthedocs.io/en/latest/index.html>`__ which covers most of the basic things, such as installing new packages.
+
+Installing the packages
+~~~~~~~~~~~~~~~~~~~~~~~
+
+After installing ``mamba``, the main steps for creating and using a conda environment:
+
+1. create the environment from environment.yml file using mamba,
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
-We have prepared a ready-made environment file for this course (called ``environment.yml``). You can  `DOWNLOAD IT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
-After downloading the environment file, run the following commands on the same folder where you downloaded it.
-The commands work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
+We have prepared a ready-made environment file for you (called ``environment_XX.yml``). You can download the file from the links below. Pick the link according your operating system
+(on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
 
-1. Create the Python environment based on the file that you downloaded:
+- `DOWNLOAD THE ENVIRONMENT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
+
+After downloading the environment file, run the following commands on the same folder where you downloaded it.
+If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
+The commands below work similarly in all operating systems where you have Miniconda (or Anaconda) installed:
+
+1. **Create the Python environment** based on the file that you downloaded by using a terminal (or command prompt)
+and executing the following command in the directory where you downloaded the `.yml` file:
 
 .. code-block::
 
-    conda env create -f environment.yml
+    mamba env create -f environment.yml
 
-
-2. Activate the environment:
+2. **Activate the environment**:
 
 .. code-block::
 
@@ -118,10 +139,19 @@ The commands work similarly in all operating systems where you have Miniconda (o
 
 You should now see the name of the environment at the start of the command line.
 
-3. Launch JupyterLab IDE
+3. **Test that the installation works** by running follow command in terminal/command prompt:
+
+.. code-block::
+
+    python -c "import r5py; import geopandas; import fiona"
+
+In case the command runs and does not return any errors, everything works!
+If not, i) ensure that you have activated the environment, (step 2 above), ii) ensure that all packages installed properly (step 1).
+
+4. **Launch JupyterLab IDE**
 
 After you have installed all required packages, you can start working in a local Jupyter Lab environment that is
-linked to your ``sustainability-gis`` conda environment by launching jupyter lab on the command line.
+linked to your ``sustainability-gis`` environment by launching jupyter lab on the command line.
 
 It's a good idea to first navigate to the folder where your Jupyter Notebook -files are located before launching Jupyter Lab.
 
