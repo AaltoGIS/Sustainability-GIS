@@ -72,14 +72,14 @@ CSC Notebooks is available only for students who are affiliated with Finnish uni
     After joining the group, you should be able to view an environment called ``Sustainability GIS 2024`` on the Dashboard.
 
 .. figure:: img/CSC_join_group.webp
-   :alt: Join Group in CSC Notebooks
+   :alt: Join Group in CSC Notebooks (example from the year 2023.)
 
 **Remember to save your work!**
 
 .. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**
 
     1. Log in at https://notebooks.csc.fi/
-    2. Click ``Start session`` (power button) on the Dashboard for Sustainability GIS 2023
+    2. Click ``Start session`` (power button) on the Dashboard for Sustainability GIS 2024
     3. Wait. It might take a few moments for the instance to launch
 
 .. figure:: img/CSC_launch_new.png
