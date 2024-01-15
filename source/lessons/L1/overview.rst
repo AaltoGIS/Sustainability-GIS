@@ -13,8 +13,6 @@ The first week of this course will be dedicated to various introductions. We wil
 Lesson videos
 -------------
 
-To be added.
-
 .. admonition:: Lesson 1.1 - Introduction to the course; Introduction to sustainability.
 
     Aalto University students can access the video by clicking the image below (requires login):
