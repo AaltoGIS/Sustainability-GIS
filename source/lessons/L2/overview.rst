@@ -12,16 +12,19 @@ In the second week, we will learn about:
 Lesson videos
 -------------
 
-To be added.
 
 
-.. .. admonition:: Lesson 2.1 - Human wellbeing and capabilities
+.. admonition:: Lesson 2.1 - Human wellbeing and capabilities
+
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/SDS4SD_Lesson_2.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=df7d1c6b-0972-4c5e-9cfc-af8e0140bdb0
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5f619ac6-6634-4d84-9d53-b0f800e73cab
         :width: 500px
         :align: left
-    .. admonition:: Lesson 2.2 - Network analysis, spatial accessibility modelling & tutorial for shortest path analysis in Python
+
+
+..    .. admonition:: Lesson 2.2 - Network analysis, spatial accessibility modelling & tutorial for shortest path analysis in Python
     Aalto University students can access the video by clicking the image below (requires login):
     .. figure:: img/SDS4SD_Lesson_2.3.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=36518179-9bd5-4fc8-889a-af8e0140bd76
