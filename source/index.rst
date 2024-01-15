@@ -114,13 +114,13 @@ Topics per week are listed below. Please note that this web page is updated each
         - Transport-related carbon emission quantification
         - Commute vs long-distance travel
     * - 4
-      - - Flood forecasting with AI
-        - Simulation & Agent Based Modeling
-      - - SDGs 2, 3 & 6: Zero Hunger, Good Health and well-being & Clean water
+      - - Empowering Natural Disaster Response Through Volunteer Geographic Information
+        - Visual analysis of urban morphology
+      - - SDGs 11: Sustainable cities and communities
     * - 5
-      - - Spatial regression
-        - Spatial optimization - Location allocation
-      - - SDGs 7-8: Affordable and clean energy & Decent work and economic growth
+      - - Simulation & Agent Based Modeling
+        - Spatial regression
+      - - SDGs 3, 7-8: Health and well-being, Affordable and clean energy, Decent work and economic growth
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
