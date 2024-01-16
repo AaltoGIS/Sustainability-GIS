@@ -22,13 +22,16 @@ Lesson videos
         :align: left
 
 
-..    .. admonition:: Lesson 2.2 - Network analysis, spatial accessibility modelling & tutorial for shortest path analysis in Python
+.. admonition:: Lesson 2.2 - Network analysis, spatial accessibility modelling & Tutorials 2.1 and 2.2
+
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/SDS4SD_Lesson_2.3.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=36518179-9bd5-4fc8-889a-af8e0140bd76
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=40a7d0f2-7338-4731-8efc-b0f900ebfc32
         :width: 500px
         :align: left
-    .. admonition:: Lesson 2.3 - Calculating travel time matrices in Python + Exercise 2 Overview
+
+..    .. admonition:: Lesson 2.3 - Calculating travel time matrices in Python + Exercise 2 Overview
         Aalto University students can access the video by clicking the image below (requires login):
         .. figure:: img/SDS4SD_Lesson_2.4.png
             :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=43f03e65-e569-4bea-b9ce-af8f00d7c3f3
