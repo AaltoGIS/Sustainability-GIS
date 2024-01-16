@@ -12,8 +12,6 @@ In the second week, we will learn about:
 Lesson videos
 -------------
 
-
-
 .. admonition:: Lesson 2.1 - Human wellbeing and capabilities
 
     Aalto University students can access the video by clicking the image below (requires login):

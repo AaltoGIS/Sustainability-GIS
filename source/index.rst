@@ -165,9 +165,9 @@ Contents
    lessons/L2/wellbeing-capabilities
    lessons/L2/network-analytics-accessibility
    lessons/L2/literature
+   lessons/L2/spatial_network_analysis.ipynb
+   lessons/L2/calculating-travel-time-matrices.ipynb
 
-   .. lessons/L2/spatial_network_analysis.ipynb
-   .. lessons/L2/r5py_calculating_travel_time_matrices.ipynb
    .. lessons/L2/exercise-2
 
 ..    .. toctree::
