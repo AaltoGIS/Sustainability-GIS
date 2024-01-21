@@ -180,7 +180,6 @@ Contents
    .. lessons/L3/exercise-3
 
 .. toctree::
-
    :maxdepth: 1
    :caption: Final Assignment
 
