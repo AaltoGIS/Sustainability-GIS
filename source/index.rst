@@ -107,20 +107,19 @@ Topics per week are listed below. Please note that this web page is updated each
         - Health accessibility
         - Spatial inequality
     * - 3
-      - - Mobility analytics
-        - Trajectory data mining
-        - Spatial-interaction models
-      - - SDG 11, 13: Sustainable cities and communities & Climate action
-        - Transport-related carbon emission quantification
-        - Commute vs long-distance travel
+      - - Spatial econometrics
+        - Spatial regression
+      - - SDG 1, 8: No poverty, Decent work and economic growth
     * - 4
       - - Empowering Natural Disaster Response Through Volunteer Geographic Information
         - Visual analysis of urban morphology
       - - SDGs 11: Sustainable cities and communities
     * - 5
-      - - Simulation & Agent Based Modeling
-        - Spatial regression
-      - - SDGs 3, 7-8: Health and well-being, Affordable and clean energy, Decent work and economic growth
+      - - Mobility analytics
+        - Trajectory data mining
+        - Simulation & Agent Based Modeling
+      - - SDGs 3, 7, 11: Health and well-being, Affordable and clean energy, Sustainable cities and communities & Climate action
+        - Commute vs long-distance travel
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
@@ -169,16 +168,23 @@ Contents
    lessons/L2/literature
    lessons/L2/exercise-2
 
-..    .. toctree::
-      :maxdepth: 1
-      :caption: Week 3
-      lessons/L3/overview
-      lessons/L3/mobilities
-      lessons/L3/trajectory-data-mining
-      lessons/L3/mobility-analytics.ipynb
-      lessons/L3/literature
-      lessons/L3/exercise-3.ipynb
+.. toctree::
+   :maxdepth: 1
+   :caption: Week 3
 
+   lessons/L3/overview
+   lessons/L3/economy
+   lessons/L3/spatial_econometrics
+   lessons/L3/literature
+   .. lessons/L3/spatial_regression.ipynb
+   .. lessons/L3/exercise-3
+
+.. toctree::
+
+   :maxdepth: 1
+   :caption: Final Assignment
+
+   lessons/final-assignment/final-assignment
 
 ..    .. toctree::
       :maxdepth: 1
@@ -191,18 +197,12 @@ Contents
 ..    .. toctree::
       :maxdepth: 1
       :caption: Week 5
-      lessons/L5/overview
-      lessons/L5/economy
-      lessons/L5/spatial_econometrics
-      lessons/L5/spatial_regression.ipynb
-      lessons/L5/literature
-      lessons/L5/exercise-4
-
-..    .. toctree::
-      :maxdepth: 1
-      :caption: Final Assignment
-      lessons/final-assignment/final-assignment
-
+      lessons/L3/overview
+      lessons/L3/mobilities
+      lessons/L3/trajectory-data-mining
+      lessons/L3/mobility-analytics.ipynb
+      lessons/L3/literature
+      lessons/L3/exercise-3.ipynb
 
 
 
