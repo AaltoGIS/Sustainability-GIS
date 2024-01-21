@@ -18,7 +18,7 @@ The following presentation provides you more instructions and information to get
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkJyHjYIiybJu6Zup8GNBznd26p2hos3iPHANfYhVpIN9PYJFOl8UvcbcIkDAxEwhPyW2yZL_oRFIP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkJyHjYIiybJu6Zup8GNBznd26p2hos3iPHANfYhVpIN9PYJFOl8UvcbcIkDAxEwhPyW2yZL_oRFIP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 .. .. admonition:: Instructions for the Final assignment (video)
