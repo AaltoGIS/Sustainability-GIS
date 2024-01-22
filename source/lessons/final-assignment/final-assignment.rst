@@ -18,12 +18,11 @@ The following presentation provides you more instructions and information to get
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfilQVIUAQQgQUjYu7shxNLMJiiGoH6n-6cSC5HXL9BHF9yuw4gGcL0ITrveMI6zEprb04Q5zFHT8s/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkJyHjYIiybJu6Zup8GNBznd26p2hos3iPHANfYhVpIN9PYJFOl8UvcbcIkDAxEwhPyW2yZL_oRFIP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-.. admonition:: Instructions for the Final assignment (video)
+.. .. admonition:: Instructions for the Final assignment (video)
     Aalto University students can access the video by clicking the image below (requires login):
-
     .. figure:: img/SDS4SD-final-assignment.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37d49dcc-c05d-4a6f-ad10-af8e0140bd48
         :width: 500px
@@ -106,9 +105,9 @@ with the final work**.
 When is the deadline?
 ---------------------
 
-1. The deadline for a FINALIZED POSTER is **Tuesday February 21st, 2022** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
-2. The poster session is organized on **Thursday 23rd February at 13:00-16:00**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
-3. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 26th February**.
+1. The deadline for a FINALIZED POSTER is **Tuesday February 20th, 2024** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
+2. The poster session is organized on **Thursday 22nd February at 13:00-16:00** at **Rakentajanaukio 4, Hall R3**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
+3. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 25th February**.
 
 Code of conduct
 ---------------
@@ -214,9 +213,8 @@ to cite your sources appropriately in your final assignment. Add a reference lis
 Start your assignment
 ---------------------
 
-.. admonition:: Getting started with the Final assignment (video)
+.. .. admonition:: Getting started with the Final assignment (video)
     Aalto University students can access the video by clicking the image below (requires login):
-
     .. figure:: img/SDS4SD-final-assignment-getting-started.png
         :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8cbf22a7-bb1e-43d6-b4ce-afa100f1ab43
         :width: 500px
@@ -233,7 +231,7 @@ Start your assignment
         .. figure:: img/Joining-a-team.png
            :width: 400px
 
-    Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name,
+    Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name (e.g. "Group-1" if you were named as Group 1),
     so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
     with your Github accounts.
 
@@ -241,7 +239,7 @@ Start your assignment
 
     **Start your final assignment by**:
 
-    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/5COJ26Xn>`__ **for the final work**.
+    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/sAbubeNF>`__ **for the final work**.
 
     After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
 
@@ -273,4 +271,4 @@ and return the work once you do not have any surprising errors and your results 
       - Create other kind of graphs (e.g. bar graphs, line graphs, scatter plots etc.)
       - Use subplots that allows to easily compare results side-by-side
 
-    - When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/functions.html#calling-functions-from-a-script-file>`__)
+    - When writing the codes, we highly recommend that you use and write functions for repetitive parts of the code. As a motivation: think that you should repeat your analyses for all cities in Finland, write your codes in a way that this would be possible. Furthermore, we recommend that you save those functions into a separate .py -script file that you import into the Notebook (`see example from Geo-Python Lesson 4 <https://geo-python-site.readthedocs.io/en/latest/notebooks/L4/script-files.html#saving-functions-in-a-script-file>`__)
