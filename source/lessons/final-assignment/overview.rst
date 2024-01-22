@@ -4,7 +4,7 @@ Overview (video)
 Contents:
 
 - :doc:`Final assignment instructions. <final-assignment>`
-- :doc:`Starting the group assignment in Github. <ga-assignment>`
+- :doc:`Starting the group assignment in Github. <classroom-assignment>`
 
 Videos
 ------
