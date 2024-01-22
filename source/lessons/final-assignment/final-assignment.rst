@@ -1,16 +1,6 @@
 Instructions
 ============
 
-Aim of the final assignment
----------------------------
-
-The final project is **a group work** where the aim is to apply spatial data science methods to study a selected
-sustainability challenge, and **report your findings in a poster**. For the final project, you can select a pre-defined topic, or develop your own question.
-
-- You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub) and good coding practices (writing readable code) when doing the final assignment.
-
-- Return your poster as a Powerpoint presentation with **a single slide** or as a PDF with single page. In the poster session, you will be presenting your poster to the students.
-
 Instructions
 ------------
 
@@ -20,13 +10,15 @@ The following presentation provides you more instructions and information to get
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkJyHjYIiybJu6Zup8GNBznd26p2hos3iPHANfYhVpIN9PYJFOl8UvcbcIkDAxEwhPyW2yZL_oRFIP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+Aim of the final assignment
+---------------------------
 
-.. .. admonition:: Instructions for the Final assignment (video)
-    Aalto University students can access the video by clicking the image below (requires login):
-    .. figure:: img/SDS4SD-final-assignment.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37d49dcc-c05d-4a6f-ad10-af8e0140bd48
-        :width: 500px
-        :align: left
+The final project is **a group work** where the aim is to apply spatial data science methods to study a selected
+sustainability challenge, and **report your findings in a poster**. For the final project, you can select a pre-defined topic, or develop your own question.
+
+- You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub) and good coding practices (writing readable code) when doing the final assignment.
+
+- Return your poster as a Powerpoint presentation with **a single slide** or as a PDF with single page. In the poster session, you will be presenting your poster to the students.
 
 
 Suggested topics
@@ -213,36 +205,7 @@ to cite your sources appropriately in your final assignment. Add a reference lis
 Start your assignment
 ---------------------
 
-.. .. admonition:: Getting started with the Final assignment (video)
-    Aalto University students can access the video by clicking the image below (requires login):
-    .. figure:: img/SDS4SD-final-assignment-getting-started.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8cbf22a7-bb1e-43d6-b4ce-afa100f1ab43
-        :width: 500px
-        :align: left
-
-.. important::
-
-    **Note regarding the Final Assignment**: This assignment is a **group assignment**, i.e. when you accept the Github Classroom
-    below, it is possible for you to i) **create a team** OR ii) **join to an existing team**.
-
-    .. admonition:: You should see something like this (click to open)
-        :class: dropdown
-
-        .. figure:: img/Joining-a-team.png
-           :width: 400px
-
-    Before starting the final assignment, **you need to communicate with your group members, who will create the team** and give it an appropriate name (e.g. "Group-1" if you were named as Group 1),
-    so that **others can find and join the team**. After this process, your team will have a shared repository for the final assignment and you can all access it
-    with your Github accounts.
-
-.. admonition:: Start your assignment
-
-    **Start your final assignment by**:
-
-    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/sAbubeNF>`__ **for the final work**.
-
-    After you have your personal exercise in GitHub, start doing the programming using CSC Notebook environment.
-
+See the documentation in :doc:`"Starting your final assignment on Github" -page <classroom-assignment>`
 
 How to work with the code?
 --------------------------
