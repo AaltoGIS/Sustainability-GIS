@@ -1,12 +1,12 @@
 Exercise 3
 ==========
 
-**Due date:** Please complete this exercise by **the end of day on Sunday the 26th of February 2023**.
+**Due date:** Please complete this exercise by **the end of day on Friday 9th of February 2024**.
 
 .. admonition:: Exercise 3 - Start your assignment
 
     You can start working on your personal (private) copy of Exercise by:
-      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/VZzJ06DE>`__.
+      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/X8s5P9VH>`__.
 
 Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
