@@ -5,8 +5,8 @@ In the fourth week, we will learn about:
 
 - :doc:`Economic inequalities, growth and green economy <economy>`
 - :doc:`Spatial regression <spatial_econometrics>`
-.. - :doc:`Tutorial 3: Spatial regression in Python <spatial_regression>`
-.. - :doc:`Exercise 3 <exercise-3>`
+- :doc:`Tutorial 3: Spatial regression in Python <spatial_regression>`
+- :doc:`Exercise 3 <exercise-3>`
 
 Lesson videos
 -------------
