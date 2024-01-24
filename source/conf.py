@@ -92,3 +92,6 @@ nb_execution_allow_errors = True
 
 # Do not execute cells
 nb_execution_mode = "off"
+
+# Add math config options for new version of MyST
+myst_enable_extensions = ["dollarmath"]
