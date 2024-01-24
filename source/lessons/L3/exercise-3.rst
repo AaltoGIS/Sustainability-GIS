@@ -10,7 +10,7 @@ Exercise 3
 
 Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
-You can also take a look at the open course copy of `Exercise 4 in the course GitHub repository <https://github.com/Sustainability-GIS-2024/Exercise-3>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/Sustainability-GIS-2024/Exercise-3>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 Cloud computing environment
@@ -18,8 +18,8 @@ Cloud computing environment
 
 After you have your personal exercise in GitHub, start doing the programming using CSC Notebooks:
 
-  .. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-      :target: https://notebooks.csc.fi/
+.. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
+  :target: https://notebooks.csc.fi/
 
 Using Git
 ---------
