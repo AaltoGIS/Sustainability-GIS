@@ -20,10 +20,12 @@ Lesson videos
         :width: 500px
         :align: left
 
-.. .. admonition:: Lesson 3.2 - Spatial econometrics; Spatial regression with Python (tutorial)
+.. admonition:: Lesson 3.2 - Tutorial 3: Spatial regression with Python
+
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/SDS4SD_Lesson_4.2.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=71e8dde5-5122-4500-9f21-afa100f2f703
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ae42f43-dd91-4933-b354-b10200ccbbaf
         :width: 500px
         :align: left
 
