@@ -88,7 +88,10 @@ html_theme_options = {
 }
 
 # Allow errors
-execution_allow_errors = True
+nb_execution_allow_errors = True
 
 # Do not execute cells
-jupyter_execute_notebooks = "off"
+nb_execution_mode = "off"
+
+# Add math config options for new version of MyST
+myst_enable_extensions = ["dollarmath"]

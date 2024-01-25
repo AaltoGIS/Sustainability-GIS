@@ -175,9 +175,9 @@ Contents
    lessons/L3/overview
    lessons/L3/economy
    lessons/L3/spatial_econometrics
+   lessons/L3/spatial_regression.ipynb
    lessons/L3/literature
-   .. lessons/L3/spatial_regression.ipynb
-   .. lessons/L3/exercise-3
+   lessons/L3/exercise-3
 
 .. toctree::
    :maxdepth: 1
