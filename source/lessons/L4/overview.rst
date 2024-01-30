@@ -3,7 +3,7 @@ Lesson overview
 
 In the fourth week, we will learn about:
 
-- :doc:`Natural disaster management with user-generated data <distaster-management-with-vgi>`
+- :doc:`Natural disaster management with user-generated data <disaster-management-with-vgi>`
 .. - :doc:`Spatial Data Science in Water Resource Management <water_resource_management>`
 .. - :doc:`Flood forecasting <flood_forecasting>`
 
