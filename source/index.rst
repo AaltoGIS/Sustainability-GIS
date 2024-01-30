@@ -179,13 +179,6 @@ Contents
    lessons/L3/literature
    lessons/L3/exercise-3
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Final Assignment
-
-   lessons/final-assignment/overview
-   lessons/final-assignment/final-assignment
-   lessons/final-assignment/classroom-assignment
 
 .. toctree::
    :maxdepth: 1
@@ -197,17 +190,24 @@ Contents
    ..   lessons/L4/flood_forecasting
    ..   lessons/L4/literature
 
-..    .. toctree::
-      :maxdepth: 1
-      :caption: Week 5
-      lessons/L3/overview
-      lessons/L3/mobilities
-      lessons/L3/trajectory-data-mining
-      lessons/L3/mobility-analytics.ipynb
-      lessons/L3/literature
-      lessons/L3/exercise-3.ipynb
+.. toctree::
+   :maxdepth: 1
+   :caption: Week 5
 
+   lessons/L5/overview
+   lessons/L5/mobilities
+   .. lessons/L5/trajectory-data-mining
+   .. lessons/L5/mobility-analytics.ipynb
+   .. lessons/L5/literature
+   .. lessons/L5/exercise-4.ipynb
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Final Assignment
+
+   lessons/final-assignment/overview
+   lessons/final-assignment/final-assignment
+   lessons/final-assignment/classroom-assignment
 
 ..       .. toctree::
           :maxdepth: 1
