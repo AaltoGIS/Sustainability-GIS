@@ -1,16 +1,24 @@
 Lesson overview
 ===============
 
-In the fifth week, we will learn about:
+In the fourth week, we will learn about:
 
-- :doc:`Agent based modelling <agent-based-modelling>`
+- :doc:`Natural disaster management with user-generated data <distaster-management-with-vgi>`
 .. - :doc:`Spatial Data Science in Water Resource Management <water_resource_management>`
 .. - :doc:`Flood forecasting <flood_forecasting>`
 
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 4.1 - Empovering Natural Disaster Response through User-Generated Geograpchic Information
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD_Lesson4.1.png
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=86334af1-3e88-40ff-83e0-b10600c9f22b
+        :width: 500px
+        :align: left
+
 
 .. .. admonition:: Lesson 5.1 - Agent Based Modelling with Spatial data
     Aalto University students can access the video by clicking the image below (requires login):

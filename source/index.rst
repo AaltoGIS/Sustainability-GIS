@@ -187,13 +187,15 @@ Contents
    lessons/final-assignment/final-assignment
    lessons/final-assignment/classroom-assignment
 
-..    .. toctree::
-      :maxdepth: 1
-      :caption: Week 4
-      lessons/L4/overview
-      lessons/L4/agent-based-modelling
-      lessons/L4/flood_forecasting
-      lessons/L4/literature
+.. toctree::
+   :maxdepth: 1
+   :caption: Week 4
+
+   lessons/L4/overview
+   lessons/L4/disaster-management-with-vgi
+   ..   lessons/L4/agent-based-modelling
+   ..   lessons/L4/flood_forecasting
+   ..   lessons/L4/literature
 
 ..    .. toctree::
       :maxdepth: 1
