@@ -4,22 +4,23 @@ Lesson overview
 In the third week, we will learn about:
 
 - :doc:`Sustainable cities and mobilities <mobilities>`
-.. - :doc:`Mobility analytics <trajectory-data-mining>`
-.. - :doc:`Tutorial: Trajectory data mining in Python <mobility-analytics>`
+- :doc:`Mobility analytics <trajectory-data-mining>`
+- :doc:`Tutorial: Trajectory data mining in Python <mobility-analytics>`
 .. - :doc:`Exercise 3 <exercise-3>`
 
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 3.1 - Sustainable cities and urban challenges
 
-.. .. admonition:: Lesson 3.1 - Sustainable cities and urban challenges
    Aalto University students can access the video by clicking the image below (requires login):
+
    .. figure:: img/SDS4SD_Lesson_3.1.png
-       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5384bd0f-841c-4189-aa8e-af930120033c
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0211a26f-5e63-4749-9fbc-b10700ec2d77
        :width: 500px
        :align: left
-    .. admonition:: Lesson 3.2 - Sustainable Mobility, Mobility analytics & Tutorial 3
+
+..    .. admonition:: Lesson 3.2 - Sustainable Mobility, Mobility analytics & Tutorial 3
        Aalto University students can access the video by clicking the image below (requires login):
        .. figure:: img/SDS4SD_Lesson_3.2.png
            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=15812435-ffde-4a3a-9ace-af94011ec013

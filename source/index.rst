@@ -196,9 +196,9 @@ Contents
 
    lessons/L5/overview
    lessons/L5/mobilities
-   .. lessons/L5/trajectory-data-mining
-   .. lessons/L5/mobility-analytics.ipynb
-   .. lessons/L5/literature
+   lessons/L5/trajectory-data-mining
+   lessons/L5/mobility-analytics.ipynb
+   lessons/L5/literature
    .. lessons/L5/exercise-4.ipynb
 
 .. toctree::
