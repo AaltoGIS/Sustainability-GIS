@@ -186,7 +186,6 @@ Contents
 
    lessons/L4/overview
    lessons/L4/disaster-management-with-vgi
-   ..   lessons/L4/agent-based-modelling
    ..   lessons/L4/flood_forecasting
    ..   lessons/L4/literature
 
@@ -197,6 +196,7 @@ Contents
    lessons/L5/overview
    lessons/L5/mobilities
    lessons/L5/trajectory-data-mining
+   lessons/L5/agent-based-modelling
    lessons/L5/mobility-analytics.ipynb
    lessons/L5/literature
    .. lessons/L5/exercise-4.ipynb
