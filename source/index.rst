@@ -186,8 +186,7 @@ Contents
 
    lessons/L4/overview
    lessons/L4/disaster-management-with-vgi
-   ..   lessons/L4/flood_forecasting
-   ..   lessons/L4/literature
+
 
 .. toctree::
    :maxdepth: 1
@@ -199,7 +198,7 @@ Contents
    lessons/L5/agent-based-modelling
    lessons/L5/mobility-analytics.ipynb
    lessons/L5/literature
-   .. lessons/L5/exercise-4.ipynb
+   lessons/L5/exercise-4.ipynb
 
 .. toctree::
    :maxdepth: 1
