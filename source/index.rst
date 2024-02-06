@@ -211,7 +211,7 @@ Contents
 
 ..       .. toctree::
           :maxdepth: 1
-          :caption: Week 6
+          :caption: Extra material
           ..  lessons/L6/overview
               lessons/L6/conservation-planning-spatial-prioritization
               lessons/L6/zonation-tutorial
