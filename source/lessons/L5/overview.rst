@@ -31,18 +31,18 @@ Lesson videos
 
 .. admonition:: Lesson 5.3 - Agent Based Modelling with Spatial data
 
-    Aalto University students can access the video by clicking the image below (requires login):
+   Aalto University students can access the video by clicking the image below (requires login):
 
-    .. figure:: img/SDS4SD_Lesson_5.3.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f0a65aa-97f7-467a-a572-b10e00c9f14b
-        :width: 500px
-        :align: left
+   .. figure:: img/SDS4SD_Lesson_5.3.png
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f0a65aa-97f7-467a-a572-b10e00c9f14b
+       :width: 500px
+       :align: left
 
- .. admonition:: Visualizing data with KeplerGl; Creating an animation based on movements
+.. admonition:: Visualizing data with KeplerGl; Creating an animation based on movements
 
-        Aalto University students can access the video by clicking the image below (requires login):
+   Aalto University students can access the video by clicking the image below (requires login):
 
-        .. figure:: img/SDS4SD_Lesson_5.5.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7552d81-df57-45e1-afb3-af990091b126
-            :width: 500px
-            :align: left
+   .. figure:: img/SDS4SD_Lesson_5.5.png
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7552d81-df57-45e1-afb3-af990091b126
+       :width: 500px
+       :align: left
