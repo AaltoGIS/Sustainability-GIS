@@ -199,7 +199,7 @@ Contents
    lessons/L5/agent-based-modelling
    lessons/L5/mobility-analytics.ipynb
    lessons/L5/literature
-   .. lessons/L5/exercise-4.ipynb
+   lessons/L5/exercise-4.ipynb
 
 .. toctree::
    :maxdepth: 1
