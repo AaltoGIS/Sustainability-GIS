@@ -38,6 +38,15 @@ Lesson videos
        :width: 500px
        :align: left
 
+.. admonition:: Lesson 5.4 - Tutorial: Trajectory data mining with Python
+
+   Aalto University students can access the video by clicking the image below (requires login):
+
+   .. figure:: img/SDS4SD_Lesson_5.4.png
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=17801d01-4555-4564-8e91-b117006bf365
+       :width: 500px
+       :align: left
+
 .. admonition:: Visualizing data with KeplerGl; Creating an animation based on movements
 
    Aalto University students can access the video by clicking the image below (requires login):
