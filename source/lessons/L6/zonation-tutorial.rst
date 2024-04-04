@@ -2,7 +2,7 @@ Tutorial/Exercise 6 - Spatial prioritization with Zonation
 ==========================================================
 
 .. warning::
-   **OBS!** This exercise is from the year 2020 and for a development version of the Zonation 5 software. **These instructions do not apply in the current Zonation 5 version**. See the official `Zonation webpages <https://zonationteam.github.io/Zonation5/>`__ for further information.
+   **OBS!** This exercise is from the year 2021 and for a development version of the Zonation 5 software. **These instructions do not apply in the current Zonation 5 version**. See the official `Zonation webpages <https://zonationteam.github.io/Zonation5/>`__ for further information.
 
 For this week, the Exercise will be combined with the tutorial. This week, we will use the Zonation software to do the exercises.
 Hence, **you need to install the software** to your local computer before starting the tutorial/exercise. We recommend, that you
