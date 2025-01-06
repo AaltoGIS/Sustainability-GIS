@@ -51,7 +51,7 @@ and running command ``conda --version``. If the command returns a version number
 macOS
 ~~~~~~~~
 Visit the `Miniconda download page <https://www.anaconda.com/download/success#miniconda>`__ and download the latest
-Python 3.9 installer for macOSX.
+Python installer for macOSX. If your computer is using an Apple silicon processor (e.g., M1, M2, M3, M4) you should select the Apple Silicon installer, and if your computer has an Intel processor then select the Intel chip installer.
 
 .. figure:: img/miniconda-macos.png
     :width: 600px
