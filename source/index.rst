@@ -142,6 +142,22 @@ Contents
    course-info/attribution
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Exercises
+
+    .. exercises/exercise-1
+    .. exercises/exercise-2
+    .. exercises/exercise-3
+    .. exercises/exercise-4
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Tutorials
+
+    .. tutorials/git-basics
+    .. tutorials/intro-to-python-geostack.ipynb
+
+.. toctree::
    :maxdepth: 1
    :caption: Week 1
 
