@@ -33,7 +33,7 @@ and `Spatial analytics <https://spatial-analytics.readthedocs.io/en/latest/>`__.
 
 .. admonition:: Help improving the materials
 
-    **This is version #4.**
+    **This is version #5.**
 
     The course was given for the very first time in 2021. Due to the early stages of the course, it is likely that the contents will
     change and improve after each iteration (all versions will be available). By being a fully open
@@ -73,7 +73,7 @@ completed individually and must clearly reflect your own work (in short, don’t
 
     Each lesson in this course can be turned into an interactive programming session in the browser.
     You can find buttons for activating the python environment using `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson.
-    Students at Finnish higher education institutions are encouraged to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
+    Students at Finnish higher education institutions are encouraged to use the `CSC Noppe <https://noppe.csc.fi/>`__ environment.
 
 
 Program
@@ -111,15 +111,14 @@ Topics per week are listed below. Please note that this web page is updated each
         - Spatial regression
       - - SDG 1, 8: No poverty, Decent work and economic growth
     * - 4
-      - - Empowering Natural Disaster Response Through Volunteer Geographic Information
-        - Visual analysis of urban morphology
-      - - SDGs 11: Sustainable cities and communities
-    * - 5
       - - Mobility analytics
         - Trajectory data mining
         - Simulation & Agent Based Modeling
       - - SDGs 3, 7, 11: Health and well-being, Affordable and clean energy, Sustainable cities and communities & Climate action
         - Commute vs long-distance travel
+    * - 5
+      - - Landscape sustainability and ecosystem services
+      - - SDGs 13, 15, 3: Climate Action, Life on Land, Good Health and Well-being
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
@@ -150,69 +149,71 @@ Contents
    lessons/L1/overview
    lessons/L1/sustainability-intro
    lessons/L1/spatial-data-science-intro
-   lessons/L1/intro-to-python-geostack.ipynb
-   lessons/L1/git-basics
-   lessons/L1/literature
-   lessons/L1/exercise-1
+   .. lessons/L1/intro-to-python-geostack.ipynb
+   .. lessons/L1/git-basics
+   .. lessons/L1/literature
+   .. lessons/L1/exercise-1
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 2
 
-   lessons/L2/overview
-   lessons/L2/wellbeing-capabilities
-   lessons/L2/network-analytics-accessibility
-   lessons/L2/spatial_network_analysis.ipynb
-   lessons/L2/calculating-travel-time-matrices.ipynb
-   lessons/L2/literature
-   lessons/L2/exercise-2
+   .. lessons/L2/overview
+   .. lessons/L2/wellbeing-capabilities
+   .. lessons/L2/network-analytics-accessibility
+   .. lessons/L2/spatial_network_analysis.ipynb
+   .. lessons/L2/calculating-travel-time-matrices.ipynb
+   .. lessons/L2/literature
+   .. lessons/L2/exercise-2
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 3
 
-   lessons/L3/overview
-   lessons/L3/economy
-   lessons/L3/spatial_econometrics
-   lessons/L3/spatial_regression.ipynb
-   lessons/L3/literature
-   lessons/L3/exercise-3
+   .. lessons/L3/overview
+   .. lessons/L3/economy
+   .. lessons/L3/spatial_econometrics
+   .. lessons/L3/spatial_regression.ipynb
+   .. lessons/L3/literature
+   .. lessons/L3/exercise-3
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 4
 
-   lessons/L4/overview
-   lessons/L4/disaster-management-with-vgi
-
+   .. lessons/L4/overview
+   .. lessons/L4/mobilities
+   .. lessons/L4/trajectory-data-mining
+   .. lessons/L4/agent-based-modelling
+   .. lessons/L4/mobility-analytics.ipynb
+   .. lessons/L4/literature
+   .. lessons/L4/exercise-4.ipynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 5
 
-   lessons/L5/overview
-   lessons/L5/mobilities
-   lessons/L5/trajectory-data-mining
-   lessons/L5/agent-based-modelling
-   lessons/L5/mobility-analytics.ipynb
-   lessons/L5/literature
-   lessons/L5/exercise-4.ipynb
+   .. lessons/L5/overview
 
 .. toctree::
    :maxdepth: 1
    :caption: Final Assignment
 
-   lessons/final-assignment/overview
-   lessons/final-assignment/final-assignment
-   lessons/final-assignment/classroom-assignment
+   .. lessons/final-assignment/overview
+   .. lessons/final-assignment/final-assignment
+   .. lessons/final-assignment/classroom-assignment
 
-..       .. toctree::
-          :maxdepth: 1
-          :caption: Extra material
-          ..  lessons/L6/overview
-              lessons/L6/conservation-planning-spatial-prioritization
-              lessons/L6/zonation-tutorial
-              lessons/L6/literature
+.. toctree::
+   :maxdepth: 1
+   :caption: Extra material
+
+   ..  lessons/L6/overview
+   ..  lessons/L6/conservation-planning-spatial-prioritization
+   ..  lessons/L6/zonation-tutorial
+   ..  lessons/L6/water_resource_management
+   ..  lessons/L6/flood_forecasting
+   ..  lessons/L6/disaster-management-with-vgi
+   ..  lessons/L6/literature
 
