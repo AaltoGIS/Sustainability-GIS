@@ -39,7 +39,7 @@ Visit the `Miniconda download page <https://www.anaconda.com/download/success#mi
 .. figure:: img/miniconda-windows.png
     :width: 600px
     :align: center
-    :alt: Downloading the latest Miniconda for Windows
+    :alt: Download the latest Miniconda for Windows
 
 Install Miniconda to your computer by double clicking the installer and install it into a directory you want (you might need admin rights).
 Install it to **all users** and use default settings.
