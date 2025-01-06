@@ -117,8 +117,8 @@ Topics per week are listed below. Please note that this web page is updated each
       - - SDGs 3, 7, 11: Health and well-being, Affordable and clean energy, Sustainable cities and communities & Climate action
         - Commute vs long-distance travel
     * - 5
-      - - Landscape sustainability and ecosystem services
-      - - SDGs 13, 15, 3: Climate Action, Life on Land, Good Health and Well-being
+      - - Mapping cultural ecosystem services
+      - - SDGs 15, 3: Life on Land, Good Health and Well-being
     * - 6
       - - Group work on selected topic
       - - Group work on selected topic
