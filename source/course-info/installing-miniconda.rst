@@ -33,7 +33,7 @@ Tips and tricks for Windows, macOS and Linux users below.
 Windows
 ~~~~~~~~
 
-Visit the `Miniconda download page <https://docs.conda.io/en/latest/miniconda.html#windows-installers>`__ and download the latest
+Visit the `Miniconda download page <https://www.anaconda.com/download/success#miniconda>`__ and download the latest
 **Miniconda3 Windows 64-bit** installer for Windows.
 
 .. figure:: img/miniconda-windows.png
@@ -50,10 +50,10 @@ and running command ``conda --version``. If the command returns a version number
 
 macOS
 ~~~~~~~~
-Visit the `Miniconda download page <https://docs.conda.io/en/latest/miniconda.html#macosx-installers>`__ and download the latest
+Visit the `Miniconda download page <https://www.anaconda.com/download/success#miniconda>`__ and download the latest
 Python 3.9 installer for macOSX.
 
-.. figure:: img/miniconda-osx.png
+.. figure:: img/miniconda-macos.png
     :width: 600px
     :align: center
     :alt: Downloading the latest Miniconda for Mac
@@ -115,8 +115,8 @@ After installing ``mamba``, the main steps for creating and using a conda enviro
 2. activate the environment
 3. start using the environment (e.g. launch the JupyterLab and start coding, see below)
 
-We have prepared a ready-made environment file for you (called ``environment_XX.yml``). You can download the file from the links below. Pick the link according your operating system
-(on the download page: righ-click the ``Raw`` button -> And press ``Save link as ..``):
+We have prepared a ready-made environment file for you (called ``environment.yml``). You can download the file from the link below.
+On the download page: click the Download button on top-right (an arrow down button next to a button called "Raw"):
 
 - `DOWNLOAD THE ENVIRONMENT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
 
