@@ -154,7 +154,7 @@ Contents
     :maxdepth: 1
     :caption: Tutorials
 
-    .. tutorials/git-basics
+    tutorials/git-basics
     .. tutorials/intro-to-python-geostack.ipynb
 
 .. toctree::

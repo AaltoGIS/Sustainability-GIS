@@ -54,41 +54,6 @@ The CSC notebooks environment is only accessible to students from Finnish univer
     You can also install Python and the same programming environment to your local computer, but it is not necessary in this course (we recommend using the cloud computing environment.
     **However**, if you wish to do so, please read :doc:`this documentation <installing-miniconda>` to learn how to install Python and the libraries on your own computer.
 
-CSC Notebooks
-~~~~~~~~~~~~~~~
-
-Notebooks by CSC (https://notebooks.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). CSC notebooks are used for running Jupyter Notebooks in a customized cloud computing environment.
-CSC Notebooks is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
-
-
-.. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
-
-    1. Log in at https://notebooks.csc.fi/
-    2. Select Haka for the authentication provider
-    3. Enter your Finnish university login credentials
-    4. Click on the **Join workspace** button on the top right
-    5. Join the ``Sustainability GIS 2024`` workspace using the join code ``sus-ttyngu9m``
-
-    After joining the group, you should be able to view an environment called ``Sustainability GIS 2024`` on the Dashboard.
-
-.. figure:: img/CSC_join_group.webp
-   :alt: Join Group in CSC Notebooks (example from the year 2023.)
-
-**Remember to save your work!**
-
-.. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**
-
-    1. Log in at https://notebooks.csc.fi/
-    2. Click ``Start session`` (power button) on the Dashboard for Sustainability GIS 2024
-    3. Wait. It might take a few moments for the instance to launch
-
-.. figure:: img/CSC_launch_new.png
-   :alt: Launch new Jupyter Lab instance
-
-   Launching the instance takes a few moments.
-
-**Remember to save your work!**
-
 Binder
 ~~~~~~~
 
@@ -151,7 +116,7 @@ Slack
 ------
 
 During the course we will use actively an application called `Slack <http://slack.com>`__ for discussion and
-questions about the lessons and exercises. All enrolled students have received an invite link to the ``AaltoSDS2023`` workspace at the start of the course.
+questions about the lessons and exercises. All enrolled students have received an invite link to the Slack workspace at the start of the course.
 :doc:`If Slack is new to you, check Slack basic usage instructions <slack-usage>`.
 
 
