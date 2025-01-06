@@ -81,11 +81,11 @@ CSC Noppe is available only for students who are affiliated with Finnish univers
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Sustainability GIS`` workspace using the join code ````
+    5. Join the ``Sustainability GIS`` workspace using the join code ``sus-qf2quq8d``
 
 After joining the group, you should be able to view an environment called ``Sustainability GIS`` on the Dashboard:
 
-.. figure:: img/intro-sda-workspace.png
+.. figure:: img/sds-workspace.png
    :alt: CSC Noppe Workspace for the course
 
 
@@ -122,7 +122,7 @@ Before we can clone a repository from GitHub, we need to create a Personal Acces
 
 6. Give your token 1) a **Name**, 2) **Expiration date** (90 Days), and 3) select the appropriate scope by clicking the **repo**:
 
-.. image:: img/GH_token_information.jpeg
+.. image:: img/GH_token_information.png
     :width: 500
 
 7. Then we can click the **Generate token** button at the very bottom of the page to create and see our token:
@@ -149,7 +149,7 @@ Whenever you want to do programming on this course, the following steps need to 
 .. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Noppe:**
 
     1. Log in at https://noppe.csc.fi/
-    2. Click ``Start session`` (power button) on the Dashboard for ``Introduction to Spatial Data Analysis``
+    2. Click ``Start session`` (power button) on the Dashboard for ``Spatial Data Science for Sustainable Development``
     3. Wait. It might take a few moments for the instance to launch
 
 .. figure:: img/CSC_launch_new.png
