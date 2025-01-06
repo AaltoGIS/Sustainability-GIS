@@ -4,10 +4,10 @@ channels:
   - conda-forge
 
 dependencies:
-  - python=3.10
+  - python=3.11.6
   - gitpython
   - git
-  - jupyterlab<4.0
+  - jupyterlab=4.3.4
   - jupyterlab-git
   - access
   - contextily
@@ -15,7 +15,6 @@ dependencies:
   - dask-ml
   - datashader
   - esda
-  - fiona=1.8.22
   - geopandas
   - geojson
   - geoplot
