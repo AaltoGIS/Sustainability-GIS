@@ -6,4 +6,4 @@ various things:
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvE8jlPLyN6YTRWsB-fzlY-EQbRLOKt-MDQlmzk88u8af-1D3jhjX5UvoGz1GnuRkt80x-rh-ITnIT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-K3CN5duEdC4ytfXRbGpbIet5at3hMIXMei3KQOjod9wElJSNlwkgyz8kXPKV7hN5FDvAo5frx2tw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
