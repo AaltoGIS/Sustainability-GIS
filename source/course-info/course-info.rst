@@ -3,7 +3,7 @@ General info
 
 .. admonition:: Contact teaching for Aalto University students
 
-    Please note that access to Slack and CSC notebooks is only available for students in Finnish higher education institutes.
+    Please note that access to Slack and CSC Noppe is only available for students in Finnish higher education institutes.
 
 
 Course meetings in teaching period III
@@ -24,15 +24,16 @@ Course websites
 
 - Course sites for Period III (Spatial Data Science for Sustainable Development):
 
-  - Main course site: `<https://sustainability-gis.readthedocs.io>`_
-  - Notebooks by CSC: `<https://notebooks.csc.fi>`_
-  - Slack (Q&A + chat): `<https://aaltosds2024.slack.com>`_
+  - Main course site: `<https://sustainability-gis.readthedocs.io>`__
+  - Noppe by CSC: `<https://noppe.csc.fi>`__
+  - Slack (Q&A + chat): `<https://sds2025.slack.com>`__
   - Polling / voting (active during lectures only): `presemo.aalto.fi/sustainability <https://presemo.aalto.fi/sustainability/>`__
 
 - Other useful resources:
 
-  - Geo-Python - Introduction to Python for geo-minded people: `<https://geo-python.github.io>`_
-  - Automating GIS processes - Introduction to GIS with Python: `<https://autogis.github.io>`_
-  - Spatial Analytics - Introduction to geospatial analysis in Python `<https://spatial-analytics.readthedocs.io/`_
-  - Geographic Data Science - Introduction to more advanced concepts of geographical analysis: `<https://geographicdata.science/book/intro.html>`_
+  - Geo-Python - Introduction to Python for geo-minded people: `<https://geo-python.github.io>`__
+  - Automating GIS processes - Introduction to GIS with Python: `<https://autogis.github.io>`__
+  - Introduction to Spatial Data Analysis `<https://introsda.readthedocs.io>`__
+  - Introduction to Python for Geographic Data Analysis -book: `<https://pythongis.org>`__
+  - Geographic Data Science - Introduction to more advanced concepts of geographical analysis: `<https://geographicdata.science/book/intro.html>`__
 

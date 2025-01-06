@@ -4,7 +4,7 @@ Grading
 Course grades will be given using the standard six-level grading scale from 0 to 5.
 Course grade will be based on 1) the weekly exercises and 2) the final poster.
 
-The final grade is based 40 % on the final poster assignment and 60 % on weekly exercise submissions.
+The final grade is based 50 % on the final poster assignment and 50 % on weekly exercise submissions.
 
 .. note:: Please submit your exercise reports on time
 
