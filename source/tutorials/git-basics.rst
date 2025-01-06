@@ -95,12 +95,12 @@ After joining the group, you should be able to view an environment called ``Sust
 Before we can clone a repository from GitHub, we need to create a Personal Access Token for us to be able to interact with GitHub. We will go through the basic setup here, you can also find more detailed instructions in the `GitHub documentation <https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token>`_.
 
 1. If you have not already verified your email address, make sure to do so in your GitHub-settings (`GitHub email verification <https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address>`_).
-   On GitHub, go into `your settings <https://github.com/settings/profile>`__.
+   On GitHub, go into `your settings <https://github.com/settings/profile>`__ which you can find from the panel that opens by clicking your profile picture on the top-right of the page:
 
-.. image:: img/account-settings.png
-    :width: 200
+.. image:: img/account-settings.jpeg
+    :width: 400
 
-2. Go to the `developer settings <https://github.com/settings/apps>`__ which is located at the bottom of the left sidebar.
+2. Go to the `developer settings <https://github.com/settings/apps>`__ which is located at the bottom of the left sidebar:
 
 .. image:: img/GH_developer_settings.jpeg
     :width: 200
