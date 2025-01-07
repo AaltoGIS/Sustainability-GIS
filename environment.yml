@@ -36,7 +36,6 @@ dependencies:
   - pyrosm
   - pysal
   - python-igraph
-  - r5py
   - r5py.sampledata.helsinki>=0.1.1dev2
   - r5py.sampledata.sao_paulo>=0.1.1dev2
   - scipy
@@ -54,3 +53,6 @@ dependencies:
   - urbanaccess
   - nose
   - jinja2
+  - pip
+  - pip:
+      - r5py==1.0.0.dev0
