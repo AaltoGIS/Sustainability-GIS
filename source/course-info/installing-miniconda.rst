@@ -27,7 +27,7 @@ In case you already have Anaconda installed on your computer, you can continue u
 Install Miniconda
 -------------------
 
-You can find the latest version of Miniconda for different operating systems in the `Miniconda download page <https://docs.conda.io/en/latest/miniconda.html>`__.
+You can find the latest version of Miniconda for different operating systems in the `Miniconda download page <https://www.anaconda.com/download/success#miniconda>`__.
 Tips and tricks for Windows, macOS and Linux users below.
 
 Windows
