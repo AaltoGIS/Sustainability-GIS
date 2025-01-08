@@ -145,7 +145,7 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    .. exercises/exercise-1
+    exercises/exercise-1
     .. exercises/exercise-2
     .. exercises/exercise-3
     .. exercises/exercise-4
@@ -155,7 +155,7 @@ Contents
     :caption: Tutorials
 
     tutorials/git-basics
-    .. tutorials/intro-to-python-geostack.ipynb
+    tutorials/intro-to-python-geostack.ipynb
 
 .. toctree::
    :maxdepth: 1
@@ -165,11 +165,7 @@ Contents
    lessons/L1/introduction
    lessons/L1/sustainability-intro
    lessons/L1/spatial-data-science-intro
-   .. lessons/L1/intro-to-python-geostack.ipynb
-   .. lessons/L1/git-basics
-   .. lessons/L1/literature
-   .. lessons/L1/exercise-1
-
+   lessons/L1/literature
 
 .. toctree::
    :maxdepth: 1
