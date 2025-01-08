@@ -22,10 +22,10 @@ Exercise 1
 
     You can start working on your personal (private) copy of Exercise 1 by:
 
-      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/DZxgJptN>`__.
+      - `accepting the GitHub Classroom assignment <>`__.
 
     Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
 
-You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/Sustainability-GIS-2024/Exercise-1>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 1 in the course GitHub repository <https://github.com/Sustainability-GIS-2025/Exercise-1>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
