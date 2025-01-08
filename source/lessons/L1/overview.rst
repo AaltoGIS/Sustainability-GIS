@@ -1,5 +1,5 @@
-Lesson overview
-===============
+Overview
+========
 
 The first week of this course will be dedicated to various introductions. We will learn about:
 

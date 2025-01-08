@@ -67,7 +67,7 @@ html_title = ""
 
 html_theme_options = {
     # "external_links": [],
-    "repository_url": "https://github.com/AaltoGIS/SDS-Sustainability/",
+    "repository_url": "https://github.com/AaltoGIS/Sustainability-GIS/",
     "repository_branch": "master",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
@@ -85,6 +85,9 @@ html_theme_options = {
         # But it requires actions from the user nontheless, so atm it's a no-go.
         #"colab_url": "https://colab.research.google.com"
     },
+
+    # Possible announcement for the page
+    "announcement": ("📢 Lesson 1 video now available (under 'Overview'). 📢"),
 }
 
 # Allow errors
