@@ -14,8 +14,7 @@ languages for large-scale data processing, predictive analytics, and scientific 
 it makes life much easier when installing new tools to your Python.
 
 In case you already have Anaconda installed on your computer, you can continue using that during the course without a problem.
-**If you are new to Python and have not yet installed anything, we recommend you to start by**
-`installing Miniconda <https://docs.conda.io/en/latest/miniconda.html>`__.
+**If you are new to Python and have not yet installed anything, we recommend you to start by installing Miniconda.**
 
 .. admonition:: Is it necessary to install software?
 
