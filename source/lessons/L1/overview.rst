@@ -6,9 +6,9 @@ The first week of this course will be dedicated to various introductions. We wil
 - :doc:`Introduction to the course <introduction>`
 - :doc:`What is sustainability? <sustainability-intro>`
 - :doc:`What is spatial data science and how it relates to sustainability? <spatial-data-science-intro>`
-.. - :doc:`Tutorial 1: Introduction to Git and using CSC Notebooks <git-basics>`
-.. - :doc:`Tutorial 2: Introduction to Spatial Data Science using Python <intro-to-python-geostack>`
-.. - :doc:`Exercise 1 <exercise-1>`
+- :doc:`Tutorial 0: Introduction to Git and using CSC Notebooks <tutorials/git-basics>`
+- :doc:`Tutorial 1: Introduction to Spatial Data Science using Python <tutorials/intro-to-python-geostack>`
+- :doc:`Exercise 1 <exercises/exercise-1>`
 
 
 Lesson videos

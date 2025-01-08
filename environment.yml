@@ -56,3 +56,5 @@ dependencies:
   - pip
   - pip:
       - r5py==1.0.0.dev0
+      - jupyterlab_myst
+      - geostream
