@@ -14,15 +14,16 @@ The first week of this course will be dedicated to various introductions. We wil
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 1.1 - Introduction to the course; What is sustainability?
 
-.. .. admonition:: Lesson 1.1 - Introduction to the course; Introduction to sustainability.
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/SDS4SD-Lesson-1.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cff9fa7d-0721-42e9-9e21-b0f800b8c653
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=16b3036a-bb8f-4f05-b560-b25e00ca3177
         :width: 500px
         :align: left
-    .. admonition:: Lesson 1.2 - What is spatial data science?; Introduction to CSC computing environment; Tutorial 1: Spatial analysis with Python
+
+..    .. admonition:: Lesson 1.2 - What is spatial data science?; Introduction to CSC computing environment; Tutorial 1: Spatial analysis with Python
         Aalto University students can access the video by clicking the image below (requires login):
         .. figure:: img/SDS4SD-Lesson-1.3.png
             :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2ec0388f-9fc2-4f23-b884-b0f800b91823
