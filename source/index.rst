@@ -148,7 +148,7 @@ Contents
     exercises/exercise-1
     .. exercises/exercise-2
     .. exercises/exercise-3
-    .. exercises/exercise-4
+    .. exercises/exercise-4.ipynb
 
 .. toctree::
     :maxdepth: 1
@@ -156,6 +156,7 @@ Contents
 
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
+    .. tutorials/calculating-travel-time-matrices.ipynb
 
 .. toctree::
    :maxdepth: 1
@@ -171,13 +172,10 @@ Contents
    :maxdepth: 1
    :caption: Week 2
 
-   .. lessons/L2/overview
-   .. lessons/L2/wellbeing-capabilities
-   .. lessons/L2/network-analytics-accessibility
-   .. lessons/L2/spatial_network_analysis.ipynb
-   .. lessons/L2/calculating-travel-time-matrices.ipynb
-   .. lessons/L2/literature
-   .. lessons/L2/exercise-2
+   lessons/L2/overview
+   lessons/L2/wellbeing-capabilities
+   lessons/L2/network-analytics-accessibility
+   lessons/L2/literature
 
 .. toctree::
    :maxdepth: 1
@@ -188,7 +186,6 @@ Contents
    .. lessons/L3/spatial_econometrics
    .. lessons/L3/spatial_regression.ipynb
    .. lessons/L3/literature
-   .. lessons/L3/exercise-3
 
 
 .. toctree::
@@ -201,7 +198,6 @@ Contents
    .. lessons/L4/agent-based-modelling
    .. lessons/L4/mobility-analytics.ipynb
    .. lessons/L4/literature
-   .. lessons/L4/exercise-4.ipynb
 
 .. toctree::
    :maxdepth: 1
