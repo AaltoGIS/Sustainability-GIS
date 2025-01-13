@@ -23,13 +23,16 @@ Lesson videos
         :width: 500px
         :align: left
 
-..    .. admonition:: Lesson 1.2 - What is spatial data science?; Introduction to CSC computing environment; Tutorial 1: Spatial analysis with Python
-        Aalto University students can access the video by clicking the image below (requires login):
-        .. figure:: img/SDS4SD-Lesson-1.3.png
-            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2ec0388f-9fc2-4f23-b884-b0f800b91823
-            :width: 500px
-            :align: left
-    .. admonition:: Lesson 1.3 - Introduction to Git/Github & How to work with the exercises
+.. admonition:: Lesson 1.2 - What is spatial data science?
+
+    Aalto University students can access the video by clicking the image below (requires login):
+
+    .. figure:: img/SDS4SD-Lesson-1.2.png
+        :target:
+        :width: 500px
+        :align: left
+
+..    .. admonition:: Lesson 1.3 - Introduction to Git/Github & How to work with the exercises
         A video from year 2023. Aalto University students can access the video by clicking the image below (requires login):
         .. figure:: img/SDS4SD-Lesson-1.4.png
             :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f6c1cad-b7a5-42ec-9ae2-af8e00b41c31
