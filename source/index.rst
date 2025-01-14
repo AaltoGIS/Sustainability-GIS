@@ -156,7 +156,7 @@ Contents
 
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
-    .. tutorials/calculating-travel-time-matrices.ipynb
+    tutorials/r5py_demo.ipynb
 
 .. toctree::
    :maxdepth: 1
