@@ -6,7 +6,7 @@ Exercise 2
 .. admonition:: Exercise 2 - Start your assignment
 
     **You can start working on your personal (private) copy of Exercise by**:
-      - `accepting the GitHub Classroom assignment <>`__.
+      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Y2qf2kkz>`__.
 
 Notice that if Github asks you for a permission to verify your GitHub identity, choose "Authorize GitHub Classroom".
 
