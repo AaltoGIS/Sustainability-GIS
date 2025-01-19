@@ -20,6 +20,6 @@ Starting your final assignment on Github
 
     **Start your final assignment by**:
 
-    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/sAbubeNF>`__ **for the final work**.
+    - **accepting the** `GitHub Classroom <https://classroom.github.com/a/eVScu9EA>`__ **for the final work**.
 
     After you have your repository for the group in GitHub, start doing the programming using CSC Notebook environment.
