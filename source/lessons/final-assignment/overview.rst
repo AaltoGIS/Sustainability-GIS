@@ -1,5 +1,5 @@
-Overview (video)
-================
+Overview
+========
 
 Contents:
 
