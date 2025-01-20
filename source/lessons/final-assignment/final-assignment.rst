@@ -1,12 +1,6 @@
 Instructions
 ============
 
-The following presentation provides you more instructions and information to get started with the final work.
-
-.. raw:: html
-
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6FJqJquzaX1clHuEw4fOIRXMkfwyNEmejRqQ6am1i1od-FyFPgcCo7LyZ5YX4DiJeR7cOphS5KvF-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 Aim of the final assignment
 ---------------------------
 
@@ -16,6 +10,12 @@ sustainability challenge, and **report your findings in a poster**. For the fina
 - You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub) and good coding practices (writing readable code) when doing the final assignment.
 
 - Return your poster as a Powerpoint presentation with **a single slide** or as a PDF with single page. In the poster session, you will be presenting your poster to the students.
+
+The following presentation provides you more instructions and information to get started with the final work.
+
+.. raw:: html
+
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6FJqJquzaX1clHuEw4fOIRXMkfwyNEmejRqQ6am1i1od-FyFPgcCo7LyZ5YX4DiJeR7cOphS5KvF-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 Suggested topics
