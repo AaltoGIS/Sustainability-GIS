@@ -1,7 +1,7 @@
 Lesson overview
 ===============
 
-In the second week, we will learn about:
+On this week, we will learn about:
 
 - :doc:`Human wellbeing and capabilities. <wellbeing-capabilities>`
 - :doc:`Network analytics and spatial accessibility modelling. <network-analytics-accessibility>`

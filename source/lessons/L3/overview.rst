@@ -1,7 +1,7 @@
 Lesson overview
 ===============
 
-In the fourth week, we will learn about:
+On this week, we will learn about:
 
 - :doc:`Economic inequalities, growth and green economy <economy>`
 .. - :doc:`Spatial regression <spatial_econometrics>`
