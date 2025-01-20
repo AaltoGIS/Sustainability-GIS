@@ -1,5 +1,5 @@
-Lesson overview
-===============
+Overview
+========
 
 On this week, we will learn about:
 
