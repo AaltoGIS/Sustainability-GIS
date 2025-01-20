@@ -21,8 +21,6 @@ The following presentation provides you more instructions and information to get
 Suggested topics
 ----------------
 
-**Present your idea to the course instructor (at latest) by the end of January before starting the work**.
-
 Option 1: Your own project work
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -91,10 +89,10 @@ with the final work**.
 - Who went through the literature (for background / contextual information)?
 - Who prepared the poster presentation?
 
-When is the deadline?
----------------------
+When are the deadlines?
+-----------------------
 
-1. The deadline for **deciding the topic** of your final assignment is **Wednesday 29th January**
+1. The deadline for **deciding the topic** of your final assignment is **Wednesday 29th January**. Report your topic to the course instructor via email.
 2. The deadline for a FINALIZED POSTER is **Tuesday February 18th** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
 3. The poster session is organized on **Thursday 20th February at 12:15-16:00** at **Rakentajanaukio 4, Hall R3**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
 4. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 23rd February**.
