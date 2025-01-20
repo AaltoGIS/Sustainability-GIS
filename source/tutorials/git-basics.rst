@@ -1,5 +1,5 @@
-Tutorial 0 - Meeting Git and Noppe
-==================================
+Tutorial 0: Meeting Git and Noppe
+=================================
 
 This tutorial covers the very basics of version control using **Git/GitHub** and the **Noppe** cloud computing environment that we use for programming on this course.
 After this tutorial you should be able to start working on the programming Exercises in Noppe. In the basic workflow, you will repeat the following steps:
