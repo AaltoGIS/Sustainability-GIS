@@ -1,19 +1,16 @@
 Instructions
 ============
 
-Instructions
-------------
-
 The following presentation provides you more instructions and information to get started with the final work.
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkJyHjYIiybJu6Zup8GNBznd26p2hos3iPHANfYhVpIN9PYJFOl8UvcbcIkDAxEwhPyW2yZL_oRFIP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6FJqJquzaX1clHuEw4fOIRXMkfwyNEmejRqQ6am1i1od-FyFPgcCo7LyZ5YX4DiJeR7cOphS5KvF-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Aim of the final assignment
 ---------------------------
 
-The final project is **a group work** where the aim is to apply spatial data science methods to study a selected
+The final project is **a team work** where the aim is to apply spatial data science methods to study a selected
 sustainability challenge, and **report your findings in a poster**. For the final project, you can select a pre-defined topic, or develop your own question.
 
 - You should take advantage of your programming and spatial data science skills, version control skills (git + GitHub) and good coding practices (writing readable code) when doing the final assignment.
@@ -97,9 +94,10 @@ with the final work**.
 When is the deadline?
 ---------------------
 
-1. The deadline for a FINALIZED POSTER is **Tuesday February 20th, 2024** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
-2. The poster session is organized on **Thursday 22nd February at 13:00-16:00** at **Rakentajanaukio 4, Hall R3**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
-3. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 25th February**.
+1. The deadline for **deciding the topic** of your final assignment is **Wednesday 29th January**
+2. The deadline for a FINALIZED POSTER is **Tuesday February 18th** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
+3. The poster session is organized on **Thursday 20th February at 12:15-16:00** at **Rakentajanaukio 4, Hall R3**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
+4. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 23rd February**.
 
 Code of conduct
 ---------------
