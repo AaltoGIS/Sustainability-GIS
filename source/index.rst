@@ -151,6 +151,14 @@ Contents
     .. exercises/exercise-4.ipynb
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Final Assignment
+
+   lessons/final-assignment/overview
+   lessons/final-assignment/final-assignment
+   lessons/final-assignment/classroom-assignment
+
+.. toctree::
     :maxdepth: 1
     :caption: Tutorials
 
@@ -205,13 +213,6 @@ Contents
 
    .. lessons/L5/overview
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Final Assignment
-
-   .. lessons/final-assignment/overview
-   .. lessons/final-assignment/final-assignment
-   .. lessons/final-assignment/classroom-assignment
 
 .. toctree::
    :maxdepth: 1
