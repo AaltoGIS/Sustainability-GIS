@@ -165,6 +165,7 @@ Contents
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
     tutorials/r5py_demo.ipynb
+    tutorials/spatial_regression.ipynb
 
 .. toctree::
    :maxdepth: 1
@@ -191,10 +192,8 @@ Contents
 
    lessons/L3/overview
    lessons/L3/economy
-   .. lessons/L3/spatial_econometrics
-   .. lessons/L3/spatial_regression.ipynb
-   .. lessons/L3/literature
-
+   lessons/L3/spatial_econometrics
+   lessons/L3/literature
 
 .. toctree::
    :maxdepth: 1

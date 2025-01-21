@@ -6,7 +6,7 @@ Recommended readings
 - Anselin, L. & D. Arribas-Bel (2013). `Spatial fixed effects and spatial dependence in a single cross-section <https://doi.org/10.1111/j.1435-5957.2012.00480.x>`__. Pap. Reg. Sci. 92, 3–17.
 - Anselin, L. & S.J. Rey (2014). `Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL <https://www.amazon.com/Modern-Spatial-Econometrics-Practice-GeoDaSpace/dp/0986342106>`__. GeoDa Press LLC.
 - Brunsdon,  C., A.S. Fotheringham & M. Charlton (1996). `Geographically Weighted Regression: A Method for Exploring Spatial Nonstationarity <https://doi.org/10.1111/j.1538-4632.1996.tb00936.x>`__. Geogr. Anal. 28, 281–298.
-- Comber, A., C. Brunsdon et al. (2020). `The GWR route map: a guide to the informed application of Geographically Weighted Regression <http://arxiv.org/abs/2004.06070>`__. ArXiv.
+- Comber, A., C. Brunsdon et al. (2023). `A Route Map for Successful Applications of Geographically Weighted Regression <https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12316>`__. Geographic Analysis, 55, 155-178.
 - Fanning, A.L., D.W. O’Neill, J. Hickel, & N. Roux. (2022). `The social shortfall and ecological overshoot of nations <https://doi.org/10.1038/s41893-021-00799-z>`__. Nat. Sustain. 5, 26–36.
 - Fotheringham, A.S., C. Brunsdon, M. Charlton (2002). `Geographically Weighted Regression: The Analysis of Spatially Varying Relationships <https://www.wiley.com/en-us/Geographically+Weighted+Regression:+The+Analysis+of+Spatially+Varying+Relationships+-p-9780471496168>`__. Wiley.
 - Fotheringham, A.S., W. Yang & W. Kang (2017). `Multiscale Geographically Weighted Regression (MGWR) <https://doi.org/10.1080/24694452.2017.1352480>`__. Ann. Am. Assoc. Geogr. 107, 1247–1265.
