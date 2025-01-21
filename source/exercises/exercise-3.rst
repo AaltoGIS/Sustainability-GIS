@@ -6,7 +6,7 @@ Exercise 3
 .. admonition:: Exercise 3 - Start your assignment
 
     You can start working on your personal (private) copy of Exercise by:
-      - `accepting the GitHub Classroom assignment <>`__.
+      - `accepting the GitHub Classroom assignment <https://classroom.github.com/a/leG1s0UN>`__.
 
 Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
