@@ -166,6 +166,7 @@ Contents
     tutorials/intro-to-python-geostack.ipynb
     tutorials/r5py_demo.ipynb
     tutorials/spatial_regression.ipynb
+    tutorials/mobility-analytics.ipynb
 
 .. toctree::
    :maxdepth: 1
@@ -201,11 +202,9 @@ Contents
 
    lessons/L4/overview
    lessons/L4/agent-based-modelling
-   .. lessons/L4/mobilities
-   .. lessons/L4/trajectory-data-mining
-
-   .. lessons/L4/mobility-analytics.ipynb
-   .. lessons/L4/literature
+   lessons/L4/mobilities
+   lessons/L4/trajectory-data-mining
+   lessons/L4/literature
 
 .. toctree::
    :maxdepth: 1
