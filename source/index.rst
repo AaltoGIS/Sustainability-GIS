@@ -199,10 +199,11 @@ Contents
    :maxdepth: 1
    :caption: Week 4
 
-   .. lessons/L4/overview
+   lessons/L4/overview
+   lessons/L4/agent-based-modelling
    .. lessons/L4/mobilities
    .. lessons/L4/trajectory-data-mining
-   .. lessons/L4/agent-based-modelling
+
    .. lessons/L4/mobility-analytics.ipynb
    .. lessons/L4/literature
 
