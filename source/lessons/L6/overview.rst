@@ -6,6 +6,10 @@ In the sixth week, we will learn about:
 - :doc:`Conservation planning and spatial prioritization <conservation-planning-spatial-prioritization>`
 - :doc:`Tutorial: Spatial prioritization with Zonation <zonation-tutorial>`
 
+.. - :doc:`Natural disaster management with user-generated data <disaster-management-with-vgi>`
+.. - :doc:`Spatial Data Science in Water Resource Management <water_resource_management>`
+.. - :doc:`Flood forecasting <flood_forecasting>`
+
 Lesson videos
 -------------
 

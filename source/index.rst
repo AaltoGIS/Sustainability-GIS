@@ -210,7 +210,8 @@ Contents
    :maxdepth: 1
    :caption: Week 5
 
-   .. lessons/L5/overview
+   lessons/L5/overview
+   lessons/L5/mapping-cultural-ecosystem-services
 
 
 .. toctree::
