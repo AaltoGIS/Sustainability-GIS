@@ -17,7 +17,7 @@ Lesson videos
        Aalto University students can access the video by clicking the image below (requires login):
 
        .. figure:: img/SDS4SD_Lesson_4.1.png
-           :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4f0a65aa-97f7-467a-a572-b10e00c9f14b
+           :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03947d82-1af2-45a6-86c8-b27200ca19b9
            :width: 500px
            :align: left
 
