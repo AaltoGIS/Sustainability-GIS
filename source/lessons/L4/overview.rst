@@ -7,7 +7,7 @@ On this week, we will learn about:
 - :doc:`Sustainable cities and mobilities <mobilities>`
 - :doc:`Mobility analytics <trajectory-data-mining>`
 - :doc:`Tutorial: Trajectory data mining in Python <mobility-analytics>`
-.. - :doc:`Exercise 4 <exercise-4>`
+- :doc:`Exercise 4 <exercise-4>`
 
 Lesson videos
 -------------
