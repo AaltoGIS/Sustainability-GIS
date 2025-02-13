@@ -191,6 +191,13 @@ In order to get a copy of the exercise repository on our own computer (or the cl
 Navigate to the **my-work** folder in JupyterLab and activate the git-plugin. The plugin will tell you that **my-work**
 is not a Git repository and gives you some options.
 
+.. important::
+
+    Ensure that your repository is cloned into the `my-work` folder in the Noppe environment!
+    This folder is persistent, i.e. the files stored in there will remain even if you do not push the changes to Github after working with the exercise.
+
+If you clone the exercise repository to some other location (e.g. root) **your work will be deleted after the session ends** (computer shuts down)
+
 In our case, we want to **Clone a Repository**:
 
 .. figure:: img/git-plugin-start-cloning.png
