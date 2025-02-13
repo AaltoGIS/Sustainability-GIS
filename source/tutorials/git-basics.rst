@@ -188,7 +188,7 @@ https://github.com/Sustainability-GIS-2025/exercise-1-HTenkanen.git but with you
 During this course, we will most often start working with the exercises using an existing repository from GitHub.
 In order to get a copy of the exercise repository on our own computer (or the cloud computer), we need to ``clone`` it.
 
-Navigate to the **exercises** folder in JupyterLab and activate the git-plugin. The plugin will tell you that **exercises**
+Navigate to the **my-work** folder in JupyterLab and activate the git-plugin. The plugin will tell you that **my-work**
 is not a Git repository and gives you some options.
 
 In our case, we want to **Clone a Repository**:
