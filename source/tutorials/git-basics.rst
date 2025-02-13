@@ -193,7 +193,7 @@ is not a Git repository and gives you some options.
 
 In our case, we want to **Clone a Repository**:
 
-.. figure:: img/git-plugin-start-cloning.webp
+.. figure:: img/git-plugin-start-cloning.png
 
 Go ahead and paste your exercise repository URL into the pop-up window:
 
