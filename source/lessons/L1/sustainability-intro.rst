@@ -16,7 +16,7 @@ that relate to sustainability and sustainable development:
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTa8O4gp80ESf2JfWIi6F3luPCcl-_NDt3gsGRueBkmFSji4sCMhMJkHwR9Tfvs6H_pNHHnwkXWXV96/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhUA6NwH6TFZFTyoCEP082Bhj59pvpnmcvthEDbd8iX_ms_pRllrsZ_gp6aLbkD-VKvLUtkxN-iqC0/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
