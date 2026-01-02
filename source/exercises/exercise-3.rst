@@ -1,7 +1,7 @@
 Exercise 3
 ==========
 
-**Due date:** Please complete this exercise by **the end of day on Friday 7th of February**.
+**Due date:** Please complete this exercise by **the end of day on Friday 6th of February**.
 
 .. admonition:: Exercise 3 - Start your assignment
 
@@ -10,7 +10,7 @@ Exercise 3
 
 Notice that if you are using GitHub Classroom for the first time, it might ask from you a permission to verify your GitHub identity. In such case, choose "Authorize GitHub Classroom".
 
-You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/Sustainability-GIS-2025/Exercise-3>`__ (does not require logging in).
+You can also take a look at the open course copy of `Exercise 3 in the course GitHub repository <https://github.com/Sustainability-GIS-2026/Exercise-3>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 Cloud computing environment
