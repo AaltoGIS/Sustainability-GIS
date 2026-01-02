@@ -15,7 +15,7 @@ The following presentation provides you more instructions and information to get
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6FJqJquzaX1clHuEw4fOIRXMkfwyNEmejRqQ6am1i1od-FyFPgcCo7LyZ5YX4DiJeR7cOphS5KvF-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhuuCqpIGeIYnDAn0Djuq3fN7gGgs9B0dIjI_qb9yJu_RN0DAICRqPNNVR3iU82pFeWwM_W0EMn_uq/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 Suggested topics
@@ -92,10 +92,10 @@ with the final work**.
 When are the deadlines?
 -----------------------
 
-1. The deadline for **deciding the topic** of your final assignment is **Wednesday 29th January**. Report your topic to the course instructor via email.
-2. The deadline for a FINALIZED POSTER is **Tuesday February 18th** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
-3. The poster session is organized on **Thursday 20th February at 12:15-16:00** at **Rakentajanaukio 4, Hall R3**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
-4. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 23rd February**.
+1. The deadline for **deciding the topic** of your final assignment is **Wednesday 28th January**. Report your topic to the course instructor via email.
+2. The deadline for a FINALIZED POSTER is **Tuesday February 17th** when you should return your poster presentation to the teacher. This is a **hard deadline**, so that we have enough time to set up your poster to our poster-session.
+3. The poster session is organized on **Thursday 19th February at 12:15-16:00** at **Rakentajanaukio 4, Hall R3**. **Book this slot to your calendar** and ensure that you can come to the campus to present your work.
+4. The deadline for finalizing the Github repository (i.e. returning your codes + documentation ) is on **Sunday 22nd February**.
 
 Code of conduct
 ---------------
