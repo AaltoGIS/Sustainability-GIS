@@ -119,6 +119,8 @@ Topics per week are listed below. Please note that this web page is updated each
     * - 5
       - - Group work on selected topic
       - - Group work on selected topic
+    * - 6
+      - - Final seminar
 
 |
 
