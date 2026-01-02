@@ -33,9 +33,9 @@ and `Spatial analytics <https://spatial-analytics.readthedocs.io/en/latest/>`__.
 
 .. admonition:: Help improving the materials
 
-    **This is version #5.**
+    **This is version #6.**
 
-    The course was given for the very first time in 2021. Due to the early stages of the course, it is likely that the contents will
+    The course was given for the very first time in 2021. It is likely that the contents will
     change and improve after each iteration (all versions will be available). By being a fully open
     educational resource, **you can also help making the course better**.
     If you find any errors, typos, or other problems, please help, by suggesting an edit in GitHub. You can do this easily by clicking
@@ -117,9 +117,6 @@ Topics per week are listed below. Please note that this web page is updated each
       - - SDGs 3, 7, 11: Health and well-being, Affordable and clean energy, Sustainable cities and communities & Climate action
         - Commute vs long-distance travel
     * - 5
-      - - Mapping cultural ecosystem services
-      - - SDGs 15, 3: Life on Land, Good Health and Well-being
-    * - 6
       - - Group work on selected topic
       - - Group work on selected topic
 
@@ -145,28 +142,28 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    exercises/exercise-1
-    exercises/exercise-2
-    exercises/exercise-3
-    exercises/exercise-4.ipynb
+    .. exercises/exercise-1
+    .. exercises/exercise-2
+    .. exercises/exercise-3
+    .. exercises/exercise-4.ipynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Final Assignment
 
-   lessons/final-assignment/overview
-   lessons/final-assignment/final-assignment
-   lessons/final-assignment/classroom-assignment
+   .. lessons/final-assignment/overview
+   .. lessons/final-assignment/final-assignment
+   .. lessons/final-assignment/classroom-assignment
 
 .. toctree::
     :maxdepth: 1
     :caption: Tutorials
 
     tutorials/git-basics
-    tutorials/intro-to-python-geostack.ipynb
-    tutorials/r5py_demo.ipynb
-    tutorials/spatial_regression.ipynb
-    tutorials/mobility-analytics.ipynb
+    .. tutorials/intro-to-python-geostack.ipynb
+    .. tutorials/r5py_demo.ipynb
+    .. tutorials/spatial_regression.ipynb
+    .. tutorials/mobility-analytics.ipynb
 
 .. toctree::
    :maxdepth: 1
@@ -182,36 +179,36 @@ Contents
    :maxdepth: 1
    :caption: Week 2
 
-   lessons/L2/overview
-   lessons/L2/wellbeing-capabilities
-   lessons/L2/network-analytics-accessibility
-   lessons/L2/literature
+   .. lessons/L2/overview
+   .. lessons/L2/wellbeing-capabilities
+   .. lessons/L2/network-analytics-accessibility
+   .. lessons/L2/literature
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 3
 
-   lessons/L3/overview
-   lessons/L3/economy
-   lessons/L3/spatial_econometrics
-   lessons/L3/literature
+   .. lessons/L3/overview
+   .. lessons/L3/economy
+   .. lessons/L3/spatial_econometrics
+   .. lessons/L3/literature
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 4
 
-   lessons/L4/overview
-   lessons/L4/agent-based-modelling
-   lessons/L4/mobilities
-   lessons/L4/trajectory-data-mining
-   lessons/L4/literature
+   .. lessons/L4/overview
+   .. lessons/L4/agent-based-modelling
+   .. lessons/L4/mobilities
+   .. lessons/L4/trajectory-data-mining
+   .. lessons/L4/literature
 
 .. toctree::
    :maxdepth: 1
    :caption: Week 5
 
-   lessons/L5/overview
-   lessons/L5/mapping-cultural-ecosystem-services
+   .. lessons/L5/overview
+   .. lessons/L5/mapping-cultural-ecosystem-services
 
 
 .. toctree::
