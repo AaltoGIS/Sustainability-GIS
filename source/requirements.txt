@@ -6,5 +6,6 @@ ipython
 jupyter-sphinx
 nbsphinx
 sphinxcontrib-bibtex
+sphinx-togglebutton
 MyST-NB
 nbconvert>=6.5.1
