@@ -196,7 +196,7 @@ is not a Git repository and gives you some options.
     Ensure that your repository is cloned into the `my-work` folder in the Noppe environment!
     This folder is persistent, i.e. the files stored in there will remain even if you do not push the changes to Github after working with the exercise.
 
-If you clone the exercise repository to some other location (e.g. root) **your work will be deleted after the session ends** (computer shuts down)
+    If you clone the exercise repository to some other location (e.g. root) **your work will be deleted after the session ends** (computer shuts down)
 
 In our case, we want to **Clone a Repository**:
 

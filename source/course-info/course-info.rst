@@ -10,7 +10,7 @@ Course meetings in teaching period III
 
 - Lessons on **Mondays** and **Tuesdays** at **14:15-16:00** (**room 326** at Otakaari 4). Videos will be shared afterwards.
 - Exercise sessions on **Thursdays** at **13:15-16:00** (**room 148** at Otakaari 4). In-person only.
-- Final seminar on **Thursday 20th February at 12:15-16:00** (**room R3** at Rakentajanaukio 4). In-person only.
+- Final seminar on **Thursday 19th February at 12:15-16:00** (**room R3** at Rakentajanaukio 4). In-person only.
 
 Instructors
 -----------
