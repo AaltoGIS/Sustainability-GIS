@@ -81,7 +81,7 @@ CSC Noppe is available only for students who are affiliated with Finnish univers
     2. Select Haka for the authentication provider
     3. Enter your Finnish university login credentials
     4. Click on the **Join workspace** button on the top right
-    5. Join the ``Sustainability GIS`` workspace using the join code ``sus-qf2quq8d``
+    5. Join the ``Sustainability GIS`` workspace using the join code ``gunedjcbpsvb``
 
 After joining the group, you should be able to view an environment called ``Sustainability GIS`` on the Dashboard:
 
