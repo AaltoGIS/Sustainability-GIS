@@ -14,12 +14,12 @@ The first week of this course will be dedicated to various introductions. We wil
 Lesson videos
 -------------
 
-TBA.
+.. admonition:: Lesson 1.1 - Introduction to the course; What is sustainability?
 
-.. .. admonition:: Lesson 1.1 - Introduction to the course; What is sustainability?
     Aalto University students can access the video by clicking the image below (requires login):
+
     .. figure:: img/SDS4SD-Lesson-1.1.png
-        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=16b3036a-bb8f-4f05-b560-b25e00ca3177
+        :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5506c410-dfd4-4a09-a09a-b3d000c9fea0
         :width: 500px
         :align: left
 
