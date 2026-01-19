@@ -154,9 +154,9 @@ Contents
    :maxdepth: 1
    :caption: Final Assignment
 
-   .. lessons/final-assignment/overview
-   .. lessons/final-assignment/final-assignment
-   .. lessons/final-assignment/classroom-assignment
+   lessons/final-assignment/overview
+   lessons/final-assignment/final-assignment
+   lessons/final-assignment/classroom-assignment
 
 .. toctree::
     :maxdepth: 1
@@ -164,7 +164,7 @@ Contents
 
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
-    .. tutorials/r5py_demo.ipynb
+    tutorials/r5py_demo.ipynb
     .. tutorials/spatial_regression.ipynb
     .. tutorials/mobility-analytics.ipynb
 
@@ -182,10 +182,10 @@ Contents
    :maxdepth: 1
    :caption: Week 2
 
-   .. lessons/L2/overview
-   .. lessons/L2/wellbeing-capabilities
-   .. lessons/L2/network-analytics-accessibility
-   .. lessons/L2/literature
+   lessons/L2/overview
+   lessons/L2/wellbeing-capabilities
+   lessons/L2/network-analytics-accessibility
+   lessons/L2/literature
 
 .. toctree::
    :maxdepth: 1
