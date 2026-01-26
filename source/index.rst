@@ -191,10 +191,10 @@ Contents
    :maxdepth: 1
    :caption: Week 3
 
-   .. lessons/L3/overview
-   .. lessons/L3/economy
-   .. lessons/L3/spatial_econometrics
-   .. lessons/L3/literature
+   lessons/L3/overview
+   lessons/L3/economy
+   lessons/L3/spatial_econometrics
+   lessons/L3/literature
 
 .. toctree::
    :maxdepth: 1
