@@ -165,7 +165,7 @@ Contents
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
     tutorials/r5py_demo.ipynb
-    .. tutorials/spatial_regression.ipynb
+    tutorials/spatial_regression.ipynb
     .. tutorials/mobility-analytics.ipynb
 
 .. toctree::
