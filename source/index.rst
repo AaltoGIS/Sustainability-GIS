@@ -166,7 +166,7 @@ Contents
     tutorials/intro-to-python-geostack.ipynb
     tutorials/r5py_demo.ipynb
     tutorials/spatial_regression.ipynb
-    .. tutorials/mobility-analytics.ipynb
+    tutorials/mobility-analytics.ipynb
 
 .. toctree::
    :maxdepth: 1
