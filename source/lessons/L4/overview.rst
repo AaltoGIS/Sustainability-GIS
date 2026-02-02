@@ -3,9 +3,9 @@ Overview
 
 On this week, we will learn about:
 
-- :doc:`Agent Based Modelling and Epidemiology <agent-based-modelling>`
 - :doc:`Sustainable cities and mobilities <mobilities>`
 - :doc:`Mobility analytics <trajectory-data-mining>`
+- :doc:`Agent Based Modelling and Epidemiology <agent-based-modelling>`
 - :doc:`Tutorial: Trajectory data mining in Python <mobility-analytics>`
 - :doc:`Exercise 4 <exercise-4>`
 
