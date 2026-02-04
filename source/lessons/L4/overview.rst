@@ -12,26 +12,32 @@ On this week, we will learn about:
 Lesson videos
 -------------
 
-TBA.
+.. admonition:: Lesson 4.1 - Sustainable cities and Mobilities
 
-.. .. admonition:: Lesson 4.1 - Agent Based Modelling with Spatial data
-       Aalto University students can access the video by clicking the image below (requires login):
-       .. figure:: img/SDS4SD_Lesson_4.1.png
-           :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03947d82-1af2-45a6-86c8-b27200ca19b9
-           :width: 500px
-           :align: left
-
-
-.. .. admonition:: Lesson 4.2 - Sustainable cities and Mobilities
    Aalto University students can access the video by clicking the image below (requires login):
+
    .. figure:: img/SDS4SD_Lesson_4.2.png
-       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59bb7cd5-9c8c-417d-bfc4-b27300cb7a3f
+       :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa518bbb-2f04-4d92-a160-b3e500cacc0e
        :width: 500px
        :align: left
 
-..    .. admonition:: Lesson 4.3 - Tutorial: Trajectory data mining with Python
+.. admonition:: Lesson 4.2 - Tutorial: Trajectory data mining with Python
+
        Aalto University students can access the video by clicking the image below (requires login):
+
        .. figure:: img/SDS4SD_Lesson_5.4.png
            :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=17801d01-4555-4564-8e91-b117006bf365
            :width: 500px
            :align: left
+
+.. admonition:: Lesson 4.3 - Agent Based Modelling with Spatial data
+
+       Aalto University students can access the video by clicking the image below (requires login):
+
+       .. figure:: img/SDS4SD_Lesson_4.1.png
+           :target: https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4a1faf9d-4917-4486-af84-b3e600ca4a5e
+           :width: 500px
+           :align: left
+
+
+
